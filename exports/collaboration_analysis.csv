@@ -1,0 +1,954 @@
+track_name,artist_name,artist_count,streams,danceability_pct,energy_pct,valence_pct,collaboration_type,streams_millions
+Dance Times,Kanye West,1,46643625,77,50,85,Solo,46.64
+Rain Lights,Miley Cyrus,1,62741851,93,23,34,Solo,62.74
+Midnight Ways,"Harry Styles, BTS",2,37882702,91,56,38,Duo,37.88
+Rain Roads (Acoustic),Imagine Dragons,1,87556530,37,78,75,Solo,87.56
+Sunset Dreams,Post Malone,1,125200823,78,48,10,Solo,125.2
+Crystal Dreams,"Dua Lipa, Adele",2,176278979,30,23,72,Duo,176.28
+Velvet Nights,Lil Baby,1,118498750,28,17,53,Solo,118.5
+Night Times,SZA,1,53821619,32,70,22,Solo,53.82
+Heart Memories,Morgan Wallen,1,22880771,50,67,31,Solo,22.88
+Love Clouds,Drake,1,86481558,27,84,84,Solo,86.48
+Crystal Rivers,Drake,1,19123956,53,55,36,Solo,19.12
+Electric Lights (Remix),Lil Baby,1,12897499,76,53,79,Solo,12.9
+Heart Moments,"Lil Baby, Bruno Mars",2,21973686,55,15,15,Duo,21.97
+Electric Skies (Deluxe),Kendrick Lamar,1,30780995,65,46,36,Solo,30.78
+Fire Nights (Remix),"Maroon 5, Chris Stapleton, Post Malone, Beyoncé",4,103138976,64,44,49,Multi (3+),103.14
+Dreams Ways,Miley Cyrus,1,62963366,64,70,50,Solo,62.96
+Night Waves,Avicii,1,29227068,61,52,61,Solo,29.23
+Fire Dreams,"Lil Baby, 21 Savage, Chris Stapleton",3,31885021,41,25,94,Multi (3+),31.89
+Forever Times (feat. DJ),Chris Stapleton,1,162326782,33,43,64,Solo,162.33
+Heart Streets,Drake,1,67841642,77,46,43,Solo,67.84
+Electric Vibes (feat. DJ),Kanye West,1,12474178,69,17,84,Solo,12.47
+Midnight Waves,Shakira,1,50237903,70,87,85,Solo,50.24
+Electric Nights,OneRepublic,1,41720635,48,23,93,Solo,41.72
+Stars Times,"Doja Cat, Kanye West",2,94246318,59,63,83,Duo,94.25
+Summer Feelings,Zedd,1,40959585,75,96,56,Solo,40.96
+Dance Dreams (Deluxe),"Justin Bieber, Lil Baby",2,63411333,63,78,13,Duo,63.41
+Dance Dreams (Acoustic),"Shakira, Miley Cyrus",2,14702882,71,54,41,Duo,14.7
+Sunset Skies,Daft Punk,1,29513688,55,82,85,Solo,29.51
+Fire Eyes,Rihanna,1,17964910,43,47,16,Solo,17.96
+Night Moments,David Guetta,1,25296164,58,69,85,Solo,25.3
+Rain Days,Luke Combs,1,46417879,53,90,90,Solo,46.42
+Stars Ways (Remix),Kygo,1,189541956,76,91,20,Solo,189.54
+Summer Roads,Kendrick Lamar,1,49516232,64,57,62,Solo,49.52
+Neon Eyes,Miley Cyrus,1,39888885,26,81,34,Solo,39.89
+Dance Skies,"The Chainsmokers, Olivia Rodrigo",2,13662346,35,34,92,Duo,13.66
+Neon Hills,Metro Boomin,1,88021084,56,90,48,Solo,88.02
+Golden Lights,The Chainsmokers,1,110706774,36,90,74,Solo,110.71
+Stars Waves (feat. DJ),"Martin Garrix, Taylor Swift, Luke Combs",3,120496112,28,95,40,Multi (3+),120.5
+Heart Streets,"OneRepublic, Zach Bryan, J. Cole, Morgan Wallen",4,83529546,50,89,73,Multi (3+),83.53
+Love Streets (Deluxe),Kendrick Lamar,1,65489763,50,88,58,Solo,65.49
+Love Roads (Remix),"The Weeknd, Future, Maroon 5, Rihanna",4,72455618,59,19,66,Multi (3+),72.46
+Sunset Nights,Rihanna,1,164881840,29,43,28,Solo,164.88
+Midnight Story,Lady Gaga,1,49055211,79,98,48,Solo,49.06
+Neon Feelings,Bad Bunny,1,57354336,55,62,14,Solo,57.35
+Golden Skies (Acoustic),Lady Gaga,1,65570146,28,41,80,Solo,65.57
+Ocean Story,Zach Bryan,1,68432029,53,31,16,Solo,68.43
+Golden Rivers,Calvin Harris,1,21612441,82,24,66,Solo,21.61
+Silver Skies (Live),Ariana Grande,1,68737207,63,66,68,Solo,68.74
+Dance Shadows (Live),OneRepublic,1,38584027,26,91,46,Solo,38.58
+Neon Times (Acoustic),Tiësto,1,50660220,54,58,49,Solo,50.66
+Dreams Moments (Remix),Avicii,1,52202076,30,71,44,Solo,52.2
+Rain Rivers,The Chainsmokers,1,84636649,37,52,42,Solo,84.64
+Stars Clouds,Luke Combs,1,158859586,73,29,47,Solo,158.86
+Golden Vibes,Diplo,1,63418473,87,39,75,Solo,63.42
+Rain Nights,Dua Lipa,1,84933841,28,71,70,Solo,84.93
+Dreams Eyes,Drake,1,26848374,61,75,87,Solo,26.85
+Dreams Rivers,"Dua Lipa, Shakira",2,68632450,32,64,81,Duo,68.63
+Stars Shadows,Harry Styles,1,30110632,85,17,56,Solo,30.11
+Summer Moments,"Miley Cyrus, Tiësto, Doja Cat",3,140298972,76,67,15,Multi (3+),140.3
+Electric Times,Diplo,1,29039302,40,92,35,Solo,29.04
+Heart Rivers (Acoustic),"Calvin Harris, Avicii",2,145633420,50,25,59,Duo,145.63
+Wild Moments,"Dua Lipa, Lil Baby",2,41459694,34,45,46,Duo,41.46
+Ocean Streets,Maroon 5,1,41879316,87,23,56,Solo,41.88
+Neon Memories,Daft Punk,1,9677059,42,76,69,Solo,9.68
+Night Eyes,"Metro Boomin, Marshmello",2,50736655,67,66,65,Duo,50.74
+Golden Rivers,David Guetta,1,75588968,74,71,31,Solo,75.59
+Dreams Clouds,"Diplo, Travis Scott, J. Cole, Drake",4,8546153,39,62,67,Multi (3+),8.55
+Midnight Lights,Ariana Grande,1,33600945,82,30,35,Solo,33.6
+Dreams Lights,Metro Boomin,1,96946301,83,61,13,Solo,96.95
+Dreams Vibes,Daft Punk,1,68687841,86,31,54,Solo,68.69
+Night Feelings,OneRepublic,1,31530149,84,36,92,Solo,31.53
+Ocean Lights (Deluxe),Lil Baby,1,39901106,58,46,71,Solo,39.9
+Fire Streets,Ed Sheeran,1,21958522,79,49,25,Solo,21.96
+Midnight Dreams,Drake,1,124595536,22,65,21,Solo,124.6
+Night Eyes,Zedd,1,52993996,66,51,80,Solo,52.99
+Ocean Dreams,Chris Stapleton,1,57956159,37,75,52,Solo,57.96
+Ocean Lights,Tiësto,1,55203025,73,54,84,Solo,55.2
+Silver Roads,Calvin Harris,1,93305932,76,68,50,Solo,93.31
+Night Moments,"Tiësto, Calvin Harris",2,65653557,55,53,81,Duo,65.65
+Neon Shadows,"21 Savage, Adele",2,28526384,64,98,66,Duo,28.53
+Velvet Ways,"Doja Cat, Rihanna",2,22748695,72,75,93,Duo,22.75
+Night Vibes,Adele,1,31957870,24,53,11,Solo,31.96
+Velvet Rivers,Rihanna,1,29966997,74,56,75,Solo,29.97
+Summer Story,Ariana Grande,1,54682345,40,79,61,Solo,54.68
+Ocean Times,"Kanye West, Rihanna, Lady Gaga",3,74124514,29,29,82,Multi (3+),74.12
+Fire Lights (Live),Avicii,1,83622823,59,65,12,Solo,83.62
+Golden Vibes,Ed Sheeran,1,10346617,30,84,94,Solo,10.35
+Summer Story (Acoustic),"Justin Bieber, Maroon 5, Kygo, Ariana Grande",4,67333528,22,41,40,Multi (3+),67.33
+Night Times (Live),Skrillex,1,10556963,72,50,48,Solo,10.56
+Neon Memories (Live),Future,1,55982657,91,68,62,Solo,55.98
+Wild Vibes (Acoustic),Beyoncé,1,19037586,21,39,37,Solo,19.04
+Rain Clouds (Deluxe),21 Savage,1,73199343,60,62,36,Solo,73.2
+Dance Skies (Deluxe),"SZA, The Weeknd",2,27861549,65,32,31,Duo,27.86
+Dreams Memories (Live),"J. Cole, Martin Garrix, Bad Bunny",3,25218265,88,67,80,Multi (3+),25.22
+Sunset Nights,"Kygo, The Weeknd, Tiësto, Metro Boomin",4,40934240,58,98,20,Multi (3+),40.93
+Velvet Hills,Imagine Dragons,1,134468358,54,24,15,Solo,134.47
+Wild Story (Deluxe),Lil Baby,1,143556218,30,59,74,Solo,143.56
+Ocean Dreams,Ed Sheeran,1,70973752,30,52,89,Solo,70.97
+Stars Clouds,Travis Scott,1,55574655,90,91,21,Solo,55.57
+Midnight Vibes (Deluxe),Taylor Swift,1,49874265,55,53,63,Solo,49.87
+Neon Dreams,"Kendrick Lamar, Luke Combs, J. Cole",3,27070576,81,37,50,Multi (3+),27.07
+Midnight Ways (Live),"David Guetta, Beyoncé, Adele",3,396822578,28,78,62,Multi (3+),396.82
+Sunset Clouds,Kendrick Lamar,1,64405811,41,93,92,Solo,64.41
+Heart Ways,OneRepublic,1,58125357,57,25,63,Solo,58.13
+Rain Rivers,Bruno Mars,1,53472015,62,69,81,Solo,53.47
+Sunset Clouds,Justin Bieber,1,78229126,66,40,51,Solo,78.23
+Wild Dreams,David Guetta,1,99895097,34,62,33,Solo,99.9
+Silver Clouds,Maroon 5,1,220211063,65,77,11,Solo,220.21
+Sunset Hills,Tiësto,1,22267726,93,49,24,Solo,22.27
+Rain Waves,"Chris Stapleton, Kygo",2,12867996,74,93,31,Duo,12.87
+Velvet Ways,Drake,1,52100693,36,33,41,Solo,52.1
+Dance Waves,Post Malone,1,112760982,65,83,18,Solo,112.76
+Forever Lights,David Guetta,1,112113831,58,50,30,Solo,112.11
+Fire Memories,Harry Styles,1,36200210,21,58,11,Solo,36.2
+Dreams Feelings,Ed Sheeran,1,91431529,39,93,62,Solo,91.43
+Heart Roads (Acoustic),Dua Lipa,1,19844622,70,97,47,Solo,19.84
+Neon Dreams,Coldplay,1,31189912,47,22,15,Solo,31.19
+Sunset Waves (Remix),Metro Boomin,1,21852764,59,45,65,Solo,21.85
+Ocean Memories,BTS,1,13236879,35,57,13,Solo,13.24
+Dreams Hills,"Kendrick Lamar, Zedd",2,53521449,21,20,41,Duo,53.52
+Sunset Times,"Justin Bieber, Bad Bunny, Avicii",3,77305288,59,26,51,Multi (3+),77.31
+Forever Dreams,Doja Cat,1,49959969,21,15,52,Solo,49.96
+Summer Waves,Olivia Rodrigo,1,26874502,70,90,19,Solo,26.87
+Dance Lights (Live),Ariana Grande,1,47520682,79,67,50,Solo,47.52
+Dance Feelings,The Chainsmokers,1,47983607,23,72,61,Solo,47.98
+Stars Feelings,Dua Lipa,1,60632528,76,26,26,Solo,60.63
+Silver Waves (Live),Drake,1,42140612,90,22,71,Solo,42.14
+Crystal Times,Maroon 5,1,54448070,48,50,13,Solo,54.45
+Summer Nights,Zach Bryan,1,25603983,92,33,82,Solo,25.6
+Night Vibes,Bruno Mars,1,37111099,95,29,28,Solo,37.11
+Heart Lights,"Metro Boomin, Imagine Dragons, Zedd",3,106131519,68,52,49,Multi (3+),106.13
+Night Nights,"Imagine Dragons, Zedd",2,101198875,62,16,67,Duo,101.2
+Heart Story,Shakira,1,62482873,57,55,12,Solo,62.48
+Dreams Skies (Remix),"Billie Eilish, Justin Bieber",2,12408201,90,48,79,Duo,12.41
+Silver Skies (feat. DJ),Dua Lipa,1,15942582,70,77,70,Solo,15.94
+Golden Clouds,Kygo,1,50969056,95,85,39,Solo,50.97
+Neon Roads (Live),Kygo,1,14146659,36,69,15,Solo,14.15
+Ocean Ways,Kanye West,1,64687263,73,33,29,Solo,64.69
+Velvet Shadows (Acoustic),"Avicii, Rihanna",2,85045726,54,17,57,Duo,85.05
+Heart Times,"Travis Scott, Metro Boomin",2,37638682,27,35,75,Duo,37.64
+Silver Story,"Ariana Grande, Kygo",2,12260574,50,77,57,Duo,12.26
+Golden Nights (Acoustic),Zedd,1,25026229,54,67,93,Solo,25.03
+Ocean Story,Ariana Grande,1,68805715,91,91,92,Solo,68.81
+Wild Ways,Dua Lipa,1,71776300,23,78,93,Solo,71.78
+Silver Days,"Coldplay, Skrillex",2,145846378,36,86,43,Duo,145.85
+Summer Eyes,Harry Styles,1,64863332,68,53,77,Solo,64.86
+Silver Streets,Doja Cat,1,19715241,36,70,88,Solo,19.72
+Night Skies,Calvin Harris,1,52093113,84,54,85,Solo,52.09
+Crystal Dreams,Rihanna,1,235457582,95,36,74,Solo,235.46
+Velvet Dreams,Kanye West,1,166686235,46,16,90,Solo,166.69
+Ocean Moments,Martin Garrix,1,54211423,25,78,80,Solo,54.21
+Dreams Feelings (Live),Beyoncé,1,43432037,32,20,32,Solo,43.43
+Night Story (feat. DJ),Luke Combs,1,87656910,34,22,26,Solo,87.66
+Electric Nights,"Calvin Harris, 21 Savage",2,25881634,63,81,76,Duo,25.88
+Golden Clouds,"Lil Baby, Calvin Harris",2,13730128,26,43,74,Duo,13.73
+Electric Roads,Beyoncé,1,81188548,58,86,75,Solo,81.19
+Electric Lights,"Lady Gaga, SZA",2,78657598,25,78,31,Duo,78.66
+Rain Feelings (Live),Kendrick Lamar,1,31886424,83,82,10,Solo,31.89
+Silver Nights (feat. DJ),"Calvin Harris, Justin Bieber, Metro Boomin",3,176197307,90,85,50,Multi (3+),176.2
+Golden Moments (feat. DJ),"Diplo, 21 Savage",2,70638334,21,28,76,Duo,70.64
+Dance Nights (Acoustic),Lil Baby,1,32352938,26,64,58,Solo,32.35
+Dance Days,Drake,1,85232911,29,37,33,Solo,85.23
+Dance Moments,OneRepublic,1,96147955,60,43,77,Solo,96.15
+Velvet Clouds,Billie Eilish,1,41892862,51,56,15,Solo,41.89
+Forever Story (Acoustic),Kendrick Lamar,1,39921120,74,41,23,Solo,39.92
+Love Streets (Remix),"Ed Sheeran, Billie Eilish",2,45756755,22,30,59,Duo,45.76
+Golden Rivers,"Bad Bunny, Harry Styles",2,15568428,38,97,48,Duo,15.57
+Love Roads,Post Malone,1,54221172,44,38,24,Solo,54.22
+Dreams Eyes,Marshmello,1,83110841,59,34,84,Solo,83.11
+Wild Times (Live),OneRepublic,1,103654782,55,83,27,Solo,103.65
+Love Roads,"The Weeknd, J. Cole",2,58932173,70,79,56,Duo,58.93
+Crystal Moments,Future,1,41106210,49,41,15,Solo,41.11
+Wild Feelings (Deluxe),"Calvin Harris, Bad Bunny, Lil Baby",3,48795129,86,60,61,Multi (3+),48.8
+Stars Streets,Taylor Swift,1,23361242,81,90,36,Solo,23.36
+Silver Roads,Beyoncé,1,15995617,81,43,31,Solo,16.0
+Crystal Ways,Zach Bryan,1,48879075,24,79,78,Solo,48.88
+Sunset Rivers,"Ariana Grande, Daft Punk, Taylor Swift",3,45530948,56,84,86,Multi (3+),45.53
+Silver Rivers,"Metro Boomin, Taylor Swift",2,44563323,55,41,60,Duo,44.56
+Velvet Hills,Justin Bieber,1,88006229,40,96,59,Solo,88.01
+Dreams Ways,Skrillex,1,140372863,76,40,11,Solo,140.37
+Crystal Times,"Bad Bunny, Martin Garrix",2,48976343,31,51,80,Duo,48.98
+Rain Streets (Deluxe),Travis Scott,1,44822646,68,76,82,Solo,44.82
+Silver Story,Future,1,49601556,63,85,19,Solo,49.6
+Fire Days,"Olivia Rodrigo, Rihanna",2,29856716,20,20,79,Duo,29.86
+Fire Rivers,"Avicii, David Guetta",2,17221481,60,16,11,Duo,17.22
+Ocean Ways,Dua Lipa,1,71997080,43,31,83,Solo,72.0
+Summer Skies,Morgan Wallen,1,27877347,70,35,22,Solo,27.88
+Wild Ways,Kanye West,1,10810371,77,63,20,Solo,10.81
+Wild Waves,"Post Malone, J. Cole",2,24781363,41,17,33,Duo,24.78
+Dreams Days,"Kendrick Lamar, Metro Boomin, Chris Stapleton",3,44888742,51,71,46,Multi (3+),44.89
+Golden Lights (Live),Billie Eilish,1,74621363,81,44,79,Solo,74.62
+Forever Story,Maroon 5,1,44718303,49,85,10,Solo,44.72
+Fire Clouds (feat. DJ),OneRepublic,1,41505167,37,29,47,Solo,41.51
+Rain Lights,21 Savage,1,101081464,83,58,37,Solo,101.08
+Night Lights,Marshmello,1,68488293,51,40,14,Solo,68.49
+Forever Lights,"Lil Baby, Calvin Harris, Coldplay, 21 Savage",4,46899334,75,16,51,Multi (3+),46.9
+Summer Story (Deluxe),BTS,1,55118174,88,31,23,Solo,55.12
+Rain Story,"J. Cole, The Chainsmokers",2,14424645,61,50,69,Duo,14.42
+Forever Ways,Martin Garrix,1,84127282,87,85,73,Solo,84.13
+Heart Feelings,Maroon 5,1,9235428,26,43,56,Solo,9.24
+Dreams Streets (Remix),Olivia Rodrigo,1,92521879,49,64,78,Solo,92.52
+Fire Skies (Live),Beyoncé,1,72454512,40,91,78,Solo,72.45
+Sunset Lights,"Adele, OneRepublic",2,187586377,58,53,10,Duo,187.59
+Dance Skies,"Zach Bryan, 21 Savage",2,11908478,93,87,61,Duo,11.91
+Silver Feelings,Calvin Harris,1,71655956,26,82,49,Solo,71.66
+Summer Moments,Post Malone,1,96244553,93,85,16,Solo,96.24
+Stars Moments,Tiësto,1,55955392,74,59,56,Solo,55.96
+Forever Nights (Deluxe),J. Cole,1,26232738,51,33,89,Solo,26.23
+Love Lights,Bruno Mars,1,114341520,41,51,17,Solo,114.34
+Love Vibes,Marshmello,1,12554850,88,38,21,Solo,12.55
+Summer Rivers,Metro Boomin,1,9771928,91,43,45,Solo,9.77
+Midnight Rivers (Deluxe),Ariana Grande,1,45105361,37,84,84,Solo,45.11
+Stars Waves (feat. DJ),"21 Savage, Martin Garrix",2,28769932,55,39,29,Duo,28.77
+Silver Dreams,"Chris Stapleton, Diplo, Travis Scott, Skrillex",4,32323771,82,32,70,Multi (3+),32.32
+Dance Waves,"Maroon 5, Taylor Swift",2,20436537,60,93,60,Duo,20.44
+Crystal Feelings,"J. Cole, Bad Bunny",2,80781911,58,74,46,Duo,80.78
+Stars Streets (Live),Drake,1,51383351,52,98,51,Solo,51.38
+Golden Vibes,"BTS, J. Cole",2,25712472,73,54,49,Duo,25.71
+Dance Story,"Ariana Grande, Taylor Swift, Kanye West",3,12110780,26,33,33,Multi (3+),12.11
+Silver Dreams,"Post Malone, Future",2,256059852,24,53,21,Duo,256.06
+Velvet Vibes,Chris Stapleton,1,35882455,53,88,77,Solo,35.88
+Neon Hills (Deluxe),Avicii,1,5962542,62,86,54,Solo,5.96
+Dance Vibes,Doja Cat,1,6283458,80,97,14,Solo,6.28
+Wild Streets (Live),"Marshmello, Daft Punk",2,58926440,39,18,45,Duo,58.93
+Fire Dreams,Avicii,1,69173930,34,19,57,Solo,69.17
+Stars Days,"The Weeknd, Martin Garrix",2,32528351,86,15,24,Duo,32.53
+Crystal Eyes,"Marshmello, Dua Lipa",2,34452988,46,59,79,Duo,34.45
+Summer Nights,"Metro Boomin, Avicii",2,37186284,95,72,90,Duo,37.19
+Velvet Vibes (Live),"Doja Cat, Future",2,41395063,43,57,95,Duo,41.4
+Golden Hills,Ed Sheeran,1,51481724,95,45,62,Solo,51.48
+Wild Days (Deluxe),Calvin Harris,1,57287331,76,54,32,Solo,57.29
+Wild Hills,"Skrillex, Coldplay",2,56004672,93,40,67,Duo,56.0
+Forever Waves (Acoustic),"Avicii, 21 Savage",2,309934476,23,70,40,Duo,309.93
+Midnight Waves,"Adele, Maroon 5",2,36688695,38,70,72,Duo,36.69
+Ocean Waves,"Maroon 5, Metro Boomin",2,57997470,24,87,14,Duo,58.0
+Dreams Moments (Deluxe),Zedd,1,44003206,26,83,53,Solo,44.0
+Wild Waves,Calvin Harris,1,17020112,57,18,89,Solo,17.02
+Dance Ways,Tiësto,1,27900121,82,82,33,Solo,27.9
+Sunset Clouds,"Skrillex, Post Malone, David Guetta",3,41164973,88,63,39,Multi (3+),41.16
+Sunset Story,Kendrick Lamar,1,140142878,54,47,22,Solo,140.14
+Summer Roads (Deluxe),Zach Bryan,1,53545864,52,19,34,Solo,53.55
+Rain Dreams,Skrillex,1,54036676,79,24,94,Solo,54.04
+Fire Vibes,"21 Savage, Adele, Kendrick Lamar",3,12627334,89,42,65,Multi (3+),12.63
+Night Vibes,Metro Boomin,1,46652213,85,76,72,Solo,46.65
+Neon Feelings,SZA,1,42604202,69,39,94,Solo,42.6
+Neon Vibes (Live),Kanye West,1,18573406,24,22,53,Solo,18.57
+Crystal Streets (Deluxe),BTS,1,10326770,59,73,22,Solo,10.33
+Ocean Times,BTS,1,48688508,35,33,45,Solo,48.69
+Silver Memories,Billie Eilish,1,90868524,46,96,28,Solo,90.87
+Night Dreams,"Beyoncé, Kanye West, Metro Boomin",3,39584217,79,41,90,Multi (3+),39.58
+Neon Hills,Post Malone,1,77425518,82,29,75,Solo,77.43
+Rain Lights,Zedd,1,58233594,78,64,32,Solo,58.23
+Dance Days,Kanye West,1,28494380,31,81,62,Solo,28.49
+Sunset Times,Travis Scott,1,63999194,81,72,22,Solo,64.0
+Sunset Days,Chris Stapleton,1,11357298,43,95,57,Solo,11.36
+Wild Rivers,Ed Sheeran,1,94165592,26,64,24,Solo,94.17
+Velvet Vibes,Lady Gaga,1,42749758,55,23,16,Solo,42.75
+Heart Hills (Deluxe),Tiësto,1,93433109,56,28,19,Solo,93.43
+Rain Rivers (Remix),David Guetta,1,25729594,61,90,72,Solo,25.73
+Silver Moments (Acoustic),The Chainsmokers,1,60748126,88,38,46,Solo,60.75
+Wild Roads,Beyoncé,1,112742768,83,73,28,Solo,112.74
+Forever Hills (Deluxe),Tiësto,1,53784601,77,26,55,Solo,53.78
+Dance Days,Martin Garrix,1,64792032,67,62,59,Solo,64.79
+Electric Waves (Acoustic),"Bruno Mars, Avicii, Harry Styles, Olivia Rodrigo",4,39369296,31,67,10,Multi (3+),39.37
+Silver Moments,Daft Punk,1,40104492,35,51,93,Solo,40.1
+Dance Hills (Remix),Beyoncé,1,78647792,53,89,30,Solo,78.65
+Fire Memories,21 Savage,1,35694484,54,27,56,Solo,35.69
+Forever Shadows (Live),Taylor Swift,1,24013800,36,76,12,Solo,24.01
+Crystal Lights,"The Chainsmokers, Diplo",2,17304261,81,20,65,Duo,17.3
+Neon Feelings (Remix),Tiësto,1,34810709,38,89,45,Solo,34.81
+Crystal Roads,"Zach Bryan, Beyoncé",2,52378395,43,63,55,Duo,52.38
+Wild Feelings,Maroon 5,1,76806756,76,85,38,Solo,76.81
+Golden Nights,"Ed Sheeran, David Guetta",2,55883718,45,66,86,Duo,55.88
+Silver Ways (Live),"Travis Scott, Skrillex",2,220016042,37,27,13,Duo,220.02
+Wild Moments,"The Weeknd, Imagine Dragons, Diplo, 21 Savage",4,117508035,35,72,59,Multi (3+),117.51
+Velvet Eyes (feat. DJ),Bad Bunny,1,58835264,70,78,43,Solo,58.84
+Silver Memories,Adele,1,19952858,59,25,85,Solo,19.95
+Velvet Lights,Miley Cyrus,1,161701072,82,41,22,Solo,161.7
+Forever Shadows (feat. DJ),Miley Cyrus,1,54115333,54,87,18,Solo,54.12
+Forever Rivers (Live),"Shakira, Lil Baby",2,55315155,47,74,94,Duo,55.32
+Night Rivers,"Zach Bryan, Avicii, Morgan Wallen",3,87481821,71,29,40,Multi (3+),87.48
+Velvet Waves,Bruno Mars,1,27858553,22,25,17,Solo,27.86
+Dreams Clouds (feat. DJ),"Maroon 5, Future",2,177535087,50,42,64,Duo,177.54
+Dance Roads,Travis Scott,1,53846384,59,97,12,Solo,53.85
+Midnight Eyes,Beyoncé,1,150886436,60,67,92,Solo,150.89
+Sunset Feelings (Acoustic),"Calvin Harris, Miley Cyrus",2,124506342,37,66,10,Duo,124.51
+Fire Times,Avicii,1,48094055,67,65,33,Solo,48.09
+Summer Vibes (feat. DJ),"The Weeknd, Lil Baby, Kanye West",3,72861426,78,30,73,Multi (3+),72.86
+Neon Clouds,Travis Scott,1,65482509,94,73,92,Solo,65.48
+Midnight Waves (Acoustic),"Adele, Maroon 5, 21 Savage, Olivia Rodrigo",4,13082987,58,62,60,Multi (3+),13.08
+Crystal Hills (Live),Justin Bieber,1,71301537,86,70,50,Solo,71.3
+Electric Memories,"Daft Punk, Future",2,51249509,78,29,73,Duo,51.25
+Fire Rivers (Deluxe),"Olivia Rodrigo, Justin Bieber",2,410221557,56,65,25,Duo,410.22
+Electric Hills,Post Malone,1,8261327,61,24,17,Solo,8.26
+Summer Clouds,Imagine Dragons,1,46315978,67,40,75,Solo,46.32
+Sunset Vibes (Acoustic),Travis Scott,1,37958620,57,70,69,Solo,37.96
+Forever Times,Ariana Grande,1,43822160,34,74,94,Solo,43.82
+Forever Lights,Bad Bunny,1,149924523,75,17,78,Solo,149.92
+Electric Clouds (Deluxe),Billie Eilish,1,74063293,23,76,36,Solo,74.06
+Rain Vibes,"Kanye West, Kygo",2,7531260,45,87,47,Duo,7.53
+Sunset Waves (Deluxe),Dua Lipa,1,14154563,90,49,18,Solo,14.15
+Golden Streets,David Guetta,1,33015316,69,98,63,Solo,33.02
+Dreams Hills,Diplo,1,36528952,42,19,74,Solo,36.53
+Velvet Times,Diplo,1,24072856,33,93,88,Solo,24.07
+Heart Days (feat. DJ),Dua Lipa,1,74780872,80,51,53,Solo,74.78
+Golden Times,"Lady Gaga, OneRepublic",2,24334838,86,25,18,Duo,24.33
+Night Moments (Remix),OneRepublic,1,186478674,71,97,67,Solo,186.48
+Rain Eyes,J. Cole,1,26642139,22,84,13,Solo,26.64
+Crystal Feelings (Acoustic),Morgan Wallen,1,14176866,64,51,48,Solo,14.18
+Wild Rivers,"Martin Garrix, Dua Lipa",2,14021785,29,82,57,Duo,14.02
+Dance Roads,Zach Bryan,1,104256644,78,19,70,Solo,104.26
+Heart Shadows,"Skrillex, BTS",2,44443595,56,38,37,Duo,44.44
+Night Waves,Shakira,1,56387758,31,94,89,Solo,56.39
+Electric Ways,Miley Cyrus,1,100918397,92,39,76,Solo,100.92
+Dance Days,"Lil Baby, Justin Bieber, The Weeknd",3,34101902,68,26,42,Multi (3+),34.1
+Dance Vibes,Rihanna,1,20332512,53,30,58,Solo,20.33
+Crystal Rivers,Zedd,1,75064334,77,96,20,Solo,75.06
+Velvet Streets,"Kygo, Beyoncé, Daft Punk, OneRepublic",4,281789812,94,51,75,Multi (3+),281.79
+Midnight Feelings (Deluxe),Ed Sheeran,1,89041881,63,73,36,Solo,89.04
+Love Story,"J. Cole, Skrillex, Calvin Harris",3,110289832,65,91,58,Multi (3+),110.29
+Rain Streets,BTS,1,37236745,20,96,35,Solo,37.24
+Velvet Days,Tiësto,1,53972939,88,47,88,Solo,53.97
+Night Lights,OneRepublic,1,73117509,70,57,34,Solo,73.12
+Dreams Times,21 Savage,1,53332818,50,21,53,Solo,53.33
+Electric Feelings,Zach Bryan,1,11810341,91,52,16,Solo,11.81
+Ocean Dreams,Chris Stapleton,1,53184261,21,23,86,Solo,53.18
+Dance Shadows,Ariana Grande,1,25527798,80,92,49,Solo,25.53
+Stars Memories,Martin Garrix,1,14998909,79,57,86,Solo,15.0
+Fire Feelings,Bruno Mars,1,86132389,20,16,56,Solo,86.13
+Electric Days,BTS,1,9062290,22,48,32,Solo,9.06
+Wild Days,"J. Cole, BTS",2,78824051,67,91,50,Duo,78.82
+Rain Skies,Chris Stapleton,1,147253248,41,64,75,Solo,147.25
+Fire Lights (Deluxe),David Guetta,1,52120663,59,63,64,Solo,52.12
+Dreams Eyes,Daft Punk,1,70898610,23,71,32,Solo,70.9
+Crystal Rivers,Harry Styles,1,13557174,21,51,48,Solo,13.56
+Neon Rivers (feat. DJ),"Zedd, Taylor Swift",2,35453547,74,41,63,Duo,35.45
+Stars Eyes (Remix),Lady Gaga,1,44746995,62,95,82,Solo,44.75
+Midnight Days,"Olivia Rodrigo, Ed Sheeran, Daft Punk",3,28765046,69,41,46,Multi (3+),28.77
+Crystal Story,Marshmello,1,110125919,40,88,87,Solo,110.13
+Dance Days,Metro Boomin,1,71150665,56,73,92,Solo,71.15
+Sunset Times,"Diplo, Justin Bieber",2,130129148,47,67,73,Duo,130.13
+Wild Waves,Chris Stapleton,1,37315997,52,32,24,Solo,37.32
+Velvet Times (Live),Marshmello,1,19776688,65,42,32,Solo,19.78
+Crystal Feelings,The Chainsmokers,1,5666530,23,58,11,Solo,5.67
+Fire Nights,"Dua Lipa, Future",2,98857283,71,55,93,Duo,98.86
+Dance Dreams,SZA,1,74329305,69,57,27,Solo,74.33
+Love Dreams (Live),Calvin Harris,1,39822727,67,52,73,Solo,39.82
+Ocean Streets (Acoustic),J. Cole,1,15170923,89,46,16,Solo,15.17
+Fire Streets,Coldplay,1,19194477,79,36,49,Solo,19.19
+Forever Roads,Skrillex,1,41437507,22,69,58,Solo,41.44
+Fire Ways,Kygo,1,95787035,67,77,59,Solo,95.79
+Fire Days (Acoustic),"Bad Bunny, Ariana Grande, Imagine Dragons, Zedd",4,103740708,24,95,56,Multi (3+),103.74
+Ocean Streets (feat. DJ),J. Cole,1,170963390,74,53,42,Solo,170.96
+Dreams Feelings,"Bruno Mars, Zach Bryan",2,20668160,28,82,63,Duo,20.67
+Fire Moments,Billie Eilish,1,139734151,30,25,47,Solo,139.73
+Summer Hills,Miley Cyrus,1,65323985,80,92,53,Solo,65.32
+Midnight Clouds,"Miley Cyrus, Beyoncé, Coldplay, Future",4,11771077,67,94,67,Multi (3+),11.77
+Love Lights,Maroon 5,1,67399865,69,92,47,Solo,67.4
+Crystal Memories,"Avicii, Morgan Wallen",2,284964130,23,56,30,Duo,284.96
+Neon Feelings,Morgan Wallen,1,42819674,91,44,65,Solo,42.82
+Wild Roads (Remix),Harry Styles,1,132947886,86,92,94,Solo,132.95
+Electric Lights,Taylor Swift,1,43155129,47,52,73,Solo,43.16
+Summer Memories (feat. DJ),"Post Malone, SZA",2,164134303,87,51,46,Duo,164.13
+Silver Memories (Acoustic),Dua Lipa,1,25297792,38,69,58,Solo,25.3
+Crystal Lights,"Shakira, Justin Bieber, Drake, BTS",4,44144379,55,98,90,Multi (3+),44.14
+Neon Rivers,BTS,1,60239190,28,38,78,Solo,60.24
+Neon Vibes,"Daft Punk, Martin Garrix",2,57344147,25,88,26,Duo,57.34
+Night Vibes (Deluxe),Daft Punk,1,201534053,37,77,83,Solo,201.53
+Rain Feelings,Skrillex,1,21398208,53,98,58,Solo,21.4
+Stars Skies,Kendrick Lamar,1,62109940,68,92,13,Solo,62.11
+Velvet Waves,Kygo,1,28260712,95,27,72,Solo,28.26
+Night Nights,Travis Scott,1,84194136,36,63,28,Solo,84.19
+Golden Times,Morgan Wallen,1,231395176,60,96,21,Solo,231.4
+Dreams Eyes,Billie Eilish,1,179757209,44,69,10,Solo,179.76
+Crystal Dreams,Luke Combs,1,165416459,51,30,79,Solo,165.42
+Silver Clouds,Kendrick Lamar,1,34328143,65,15,23,Solo,34.33
+Sunset Hills,Shakira,1,56670916,33,71,66,Solo,56.67
+Rain Feelings,Taylor Swift,1,111182508,36,66,51,Solo,111.18
+Stars Shadows,"BTS, The Weeknd, Post Malone",3,48895105,51,29,45,Multi (3+),48.9
+Heart Rivers,OneRepublic,1,57794032,31,63,16,Solo,57.79
+Sunset Hills,SZA,1,17565817,80,92,45,Solo,17.57
+Forever Feelings,David Guetta,1,21117328,31,31,23,Solo,21.12
+Rain Streets (Remix),"Zedd, Lil Baby, Doja Cat",3,68706367,35,23,65,Multi (3+),68.71
+Dance Moments,The Weeknd,1,49733719,91,66,59,Solo,49.73
+Rain Roads,Taylor Swift,1,102468333,57,96,15,Solo,102.47
+Summer Days,Drake,1,263536926,61,95,17,Solo,263.54
+Love Skies,Justin Bieber,1,149594547,49,62,65,Solo,149.59
+Fire Days,Justin Bieber,1,24606320,51,97,68,Solo,24.61
+Ocean Feelings,"Morgan Wallen, Taylor Swift",2,223780646,30,32,35,Duo,223.78
+Stars Times,Bruno Mars,1,13638431,49,64,64,Solo,13.64
+Heart Hills,Future,1,32044727,74,53,29,Solo,32.04
+Dance Vibes (feat. DJ),"Travis Scott, Future, Coldplay",3,24768381,38,56,21,Multi (3+),24.77
+Neon Waves,Adele,1,214837823,87,43,83,Solo,214.84
+Love Shadows,Taylor Swift,1,45421001,48,32,17,Solo,45.42
+Sunset Shadows,Morgan Wallen,1,126620982,37,53,77,Solo,126.62
+Forever Feelings,J. Cole,1,32182290,49,35,64,Solo,32.18
+Ocean Memories,"Ariana Grande, Maroon 5",2,157697734,44,28,44,Duo,157.7
+Summer Eyes,"Zach Bryan, The Weeknd",2,16542418,92,20,71,Duo,16.54
+Crystal Days,"Taylor Swift, Zach Bryan, Bruno Mars, Maroon 5",4,17724710,39,25,69,Multi (3+),17.72
+Fire Rivers,Future,1,49990973,29,87,29,Solo,49.99
+Velvet Vibes,"Post Malone, Adele",2,17326870,35,77,82,Duo,17.33
+Stars Streets,"Maroon 5, 21 Savage",2,26809019,57,35,58,Duo,26.81
+Dreams Shadows,"Coldplay, Future",2,13611201,47,29,70,Duo,13.61
+Rain Lights,"Post Malone, Billie Eilish, J. Cole",3,90062307,30,23,28,Multi (3+),90.06
+Sunset Rivers,Metro Boomin,1,9719667,75,88,55,Solo,9.72
+Silver Dreams,Doja Cat,1,26740902,77,96,26,Solo,26.74
+Sunset Skies (Deluxe),"Olivia Rodrigo, Doja Cat",2,102607970,72,60,62,Duo,102.61
+Fire Streets,Chris Stapleton,1,73043649,72,78,23,Solo,73.04
+Night Eyes (feat. DJ),The Chainsmokers,1,35531038,54,48,94,Solo,35.53
+Sunset Memories,Beyoncé,1,130897626,26,69,83,Solo,130.9
+Sunset Times,"Imagine Dragons, Kygo, Billie Eilish",3,101713267,21,90,90,Multi (3+),101.71
+Stars Streets,Avicii,1,197234984,55,33,20,Solo,197.23
+Stars Eyes,"Marshmello, BTS, Dua Lipa",3,124368931,77,38,30,Multi (3+),124.37
+Night Feelings (Acoustic),Avicii,1,41953173,47,29,56,Solo,41.95
+Stars Ways,SZA,1,101123713,70,89,23,Solo,101.12
+Electric Waves,Morgan Wallen,1,27445238,95,52,62,Solo,27.45
+Fire Lights,Imagine Dragons,1,47173469,69,92,46,Solo,47.17
+Ocean Vibes,Daft Punk,1,51647088,35,36,67,Solo,51.65
+Love Roads (Live),Avicii,1,176880821,91,78,50,Solo,176.88
+Golden Dreams,"21 Savage, David Guetta, J. Cole, BTS",4,93103838,26,20,43,Multi (3+),93.1
+Ocean Clouds,Kendrick Lamar,1,42033063,82,56,45,Solo,42.03
+Dreams Shadows,Zach Bryan,1,48606619,33,41,53,Solo,48.61
+Electric Moments (Remix),"Adele, Bruno Mars",2,182843777,33,45,24,Duo,182.84
+Crystal Streets,The Weeknd,1,50458796,26,63,93,Solo,50.46
+Dance Rivers,Imagine Dragons,1,19914757,71,65,60,Solo,19.91
+Rain Shadows,Olivia Rodrigo,1,5895907,41,57,33,Solo,5.9
+Love Nights (Remix),Calvin Harris,1,161919121,38,27,22,Solo,161.92
+Dance Hills,"David Guetta, Daft Punk",2,108485257,38,78,55,Duo,108.49
+Midnight Feelings (Deluxe),"Olivia Rodrigo, Doja Cat",2,23622578,35,73,65,Duo,23.62
+Stars Streets,"BTS, Tiësto, 21 Savage",3,104249660,95,21,25,Multi (3+),104.25
+Love Memories,Shakira,1,95152242,24,60,70,Solo,95.15
+Forever Dreams,"Imagine Dragons, Dua Lipa, Kendrick Lamar",3,52552342,92,74,90,Multi (3+),52.55
+Electric Lights,Dua Lipa,1,50175549,51,80,84,Solo,50.18
+Midnight Moments,Rihanna,1,9666997,27,89,25,Solo,9.67
+Neon Moments,Martin Garrix,1,70574371,51,28,36,Solo,70.57
+Heart Eyes,Imagine Dragons,1,58447418,50,80,31,Solo,58.45
+Heart Roads,Calvin Harris,1,22348970,37,73,69,Solo,22.35
+Rain Shadows (Deluxe),"Tiësto, Martin Garrix",2,59747743,81,75,58,Duo,59.75
+Dance Moments,"Metro Boomin, Lil Baby, Martin Garrix",3,100888947,33,64,32,Multi (3+),100.89
+Dreams Streets (Deluxe),Kendrick Lamar,1,30585414,56,40,38,Solo,30.59
+Heart Days,Harry Styles,1,68650931,65,86,89,Solo,68.65
+Dreams Roads,Kanye West,1,24804741,28,51,30,Solo,24.8
+Midnight Dreams,Diplo,1,171488949,27,78,40,Solo,171.49
+Ocean Vibes (Live),"Ed Sheeran, Diplo, Chris Stapleton",3,8944148,23,83,35,Multi (3+),8.94
+Midnight Moments,Calvin Harris,1,40147710,49,83,62,Solo,40.15
+Stars Streets,Drake,1,193344211,89,78,36,Solo,193.34
+Velvet Eyes (feat. DJ),"The Chainsmokers, Lady Gaga",2,79915857,90,30,36,Duo,79.92
+Electric Feelings,Beyoncé,1,73225209,76,43,15,Solo,73.23
+Forever Memories,OneRepublic,1,121647338,33,64,80,Solo,121.65
+Silver Rivers,OneRepublic,1,24944385,24,50,88,Solo,24.94
+Heart Eyes,Zach Bryan,1,30293707,55,85,88,Solo,30.29
+Dance Hills,"Kendrick Lamar, Rihanna",2,112584123,27,47,43,Duo,112.58
+Summer Shadows,Metro Boomin,1,13875112,62,98,62,Solo,13.88
+Night Eyes (Deluxe),The Weeknd,1,50809609,68,25,93,Solo,50.81
+Sunset Skies (Deluxe),Kanye West,1,98034799,50,67,66,Solo,98.03
+Golden Hills,Tiësto,1,144557613,56,55,53,Solo,144.56
+Rain Nights (Remix),"Tiësto, Zedd, David Guetta, J. Cole",4,112165389,74,31,55,Multi (3+),112.17
+Wild Lights,Metro Boomin,1,27755930,43,80,85,Solo,27.76
+Electric Clouds,Zedd,1,115431751,69,37,50,Solo,115.43
+Ocean Lights,Martin Garrix,1,44161013,38,41,22,Solo,44.16
+Love Hills (Remix),"Skrillex, Kygo, Doja Cat",3,92667085,55,29,95,Multi (3+),92.67
+Wild Ways,Adele,1,26285297,51,90,27,Solo,26.29
+Fire Hills,Calvin Harris,1,19456721,64,82,71,Solo,19.46
+Neon Clouds,Rihanna,1,22821853,34,74,32,Solo,22.82
+Stars Hills (Live),21 Savage,1,10126622,76,66,64,Solo,10.13
+Night Eyes,Morgan Wallen,1,56817461,68,57,21,Solo,56.82
+Rain Shadows,J. Cole,1,29708896,82,35,15,Solo,29.71
+Night Ways (Live),"Kanye West, Beyoncé",2,84166082,61,80,64,Duo,84.17
+Silver Hills,Doja Cat,1,61214019,77,88,38,Solo,61.21
+Heart Eyes,Lady Gaga,1,53182976,27,47,73,Solo,53.18
+Silver Dreams,Bad Bunny,1,132973131,29,31,58,Solo,132.97
+Heart Memories (Live),Billie Eilish,1,40900488,67,98,82,Solo,40.9
+Ocean Shadows,Future,1,121970696,80,15,18,Solo,121.97
+Electric Lights,21 Savage,1,14935468,67,66,89,Solo,14.94
+Silver Moments,Lil Baby,1,48990393,20,42,39,Solo,48.99
+Love Lights,Billie Eilish,1,60000416,80,54,55,Solo,60.0
+Dance Moments (Deluxe),"Skrillex, Billie Eilish",2,55445282,68,37,57,Duo,55.45
+Silver Eyes,Martin Garrix,1,13179782,93,75,13,Solo,13.18
+Velvet Feelings,Justin Bieber,1,62927665,44,93,93,Solo,62.93
+Crystal Story (Live),"Zedd, Lady Gaga",2,9943297,45,67,74,Duo,9.94
+Heart Lights,Travis Scott,1,40510654,78,46,20,Solo,40.51
+Forever Nights,Bruno Mars,1,25122288,94,59,56,Solo,25.12
+Silver Clouds,"Future, Bad Bunny",2,67441253,47,48,69,Duo,67.44
+Stars Streets,Kanye West,1,181825096,63,27,92,Solo,181.83
+Love Streets (Live),Marshmello,1,59003375,54,66,83,Solo,59.0
+Crystal Days (Deluxe),"Billie Eilish, Diplo, Metro Boomin",3,84035925,78,33,10,Multi (3+),84.04
+Rain Waves,Harry Styles,1,30315065,36,32,50,Solo,30.32
+Ocean Clouds,"Future, OneRepublic",2,45966993,29,44,92,Duo,45.97
+Dreams Lights,Olivia Rodrigo,1,42751948,71,35,11,Solo,42.75
+Neon Clouds,Future,1,55369810,42,83,64,Solo,55.37
+Silver Ways,Taylor Swift,1,62574174,23,49,79,Solo,62.57
+Forever Memories,The Weeknd,1,43629438,51,87,77,Solo,43.63
+Ocean Feelings,Lady Gaga,1,135770211,58,80,88,Solo,135.77
+Rain Waves,Lady Gaga,1,96031561,73,31,94,Solo,96.03
+Summer Times,Kanye West,1,66546697,60,71,54,Solo,66.55
+Midnight Ways,Kygo,1,89473980,23,94,29,Solo,89.47
+Love Eyes,OneRepublic,1,48811531,90,60,62,Solo,48.81
+Heart Lights,Zach Bryan,1,61345218,79,37,93,Solo,61.35
+Sunset Waves,J. Cole,1,105141503,67,91,12,Solo,105.14
+Electric Shadows (feat. DJ),"Doja Cat, Billie Eilish",2,31715953,79,97,74,Duo,31.72
+Dreams Story (Live),Beyoncé,1,33860127,57,20,60,Solo,33.86
+Heart Feelings,J. Cole,1,33839767,62,24,92,Solo,33.84
+Forever Streets,Chris Stapleton,1,51721913,80,52,66,Solo,51.72
+Midnight Ways,Skrillex,1,30755139,95,55,74,Solo,30.76
+Crystal Hills,J. Cole,1,14567826,87,40,39,Solo,14.57
+Wild Rivers,Kanye West,1,153966916,49,37,68,Solo,153.97
+Rain Vibes (feat. DJ),Travis Scott,1,27831804,30,40,70,Solo,27.83
+Love Roads,David Guetta,1,62028823,62,76,74,Solo,62.03
+Dance Skies,Kygo,1,32582502,63,83,91,Solo,32.58
+Forever Lights (Live),Olivia Rodrigo,1,40679401,73,44,44,Solo,40.68
+Golden Lights,Post Malone,1,33242939,57,18,57,Solo,33.24
+Rain Days,Daft Punk,1,13707060,51,92,45,Solo,13.71
+Dance Skies,Drake,1,53755774,76,56,41,Solo,53.76
+Love Moments (Remix),"Martin Garrix, Metro Boomin",2,135604244,78,57,56,Duo,135.6
+Stars Feelings,"Skrillex, The Weeknd",2,27760311,28,87,19,Duo,27.76
+Silver Streets,"Billie Eilish, Harry Styles",2,110915347,78,70,77,Duo,110.92
+Love Times,"Diplo, The Weeknd",2,54199374,43,18,22,Duo,54.2
+Dreams Lights (feat. DJ),Kygo,1,27706301,23,41,66,Solo,27.71
+Midnight Roads (Remix),Imagine Dragons,1,46524034,84,76,56,Solo,46.52
+Sunset Clouds (Remix),The Weeknd,1,16506146,55,56,92,Solo,16.51
+Crystal Moments,Avicii,1,142318173,66,35,24,Solo,142.32
+Dance Dreams,Imagine Dragons,1,38273027,32,59,11,Solo,38.27
+Velvet Streets,"BTS, Calvin Harris, OneRepublic",3,48233261,36,80,38,Multi (3+),48.23
+Midnight Eyes (Remix),"Harry Styles, Morgan Wallen",2,72774995,38,19,84,Duo,72.77
+Night Times,Justin Bieber,1,134877035,85,58,53,Solo,134.88
+Heart Lights (Acoustic),Zach Bryan,1,49754606,36,54,54,Solo,49.75
+Crystal Days,Tiësto,1,57337830,32,96,31,Solo,57.34
+Rain Ways,"Kygo, Kanye West, OneRepublic",3,127212588,46,91,88,Multi (3+),127.21
+Fire Times,Post Malone,1,57493764,38,56,45,Solo,57.49
+Ocean Hills,Bruno Mars,1,83045685,74,36,84,Solo,83.05
+Dreams Dreams (Acoustic),SZA,1,58865237,21,77,22,Solo,58.87
+Dance Feelings (Live),Zedd,1,90312132,66,92,84,Solo,90.31
+Silver Rivers,"J. Cole, Marshmello",2,84075720,64,46,55,Duo,84.08
+Dance Nights,Marshmello,1,74475498,60,27,49,Solo,74.48
+Fire Clouds,Diplo,1,87979017,70,24,89,Solo,87.98
+Dance Moments (Deluxe),Lil Baby,1,41670695,51,34,80,Solo,41.67
+Summer Times,"SZA, Beyoncé",2,34196408,93,48,59,Duo,34.2
+Summer Lights,OneRepublic,1,96268246,33,44,87,Solo,96.27
+Night Streets,Marshmello,1,16990462,23,77,86,Solo,16.99
+Forever Skies,Olivia Rodrigo,1,191467028,95,24,25,Solo,191.47
+Rain Times (feat. DJ),Morgan Wallen,1,104685041,43,54,22,Solo,104.69
+Dance Clouds,David Guetta,1,16270833,32,15,31,Solo,16.27
+Silver Roads,Coldplay,1,109415636,84,71,29,Solo,109.42
+Forever Feelings,"BTS, Adele",2,22425022,34,85,95,Duo,22.43
+Neon Days (Remix),Post Malone,1,130054523,89,40,92,Solo,130.05
+Sunset Clouds,Chris Stapleton,1,18207330,44,54,21,Solo,18.21
+Night Skies,J. Cole,1,155598774,78,43,33,Solo,155.6
+Ocean Story,Olivia Rodrigo,1,24646323,39,91,28,Solo,24.65
+Forever Days (Acoustic),Future,1,53437204,29,29,91,Solo,53.44
+Fire Ways (Live),Justin Bieber,1,60743764,80,28,71,Solo,60.74
+Dreams Times,Justin Bieber,1,76667930,52,59,32,Solo,76.67
+Forever Rivers,Coldplay,1,132871543,38,55,80,Solo,132.87
+Ocean Nights (Acoustic),Martin Garrix,1,20844004,80,97,83,Solo,20.84
+Neon Dreams,Luke Combs,1,161920542,40,17,57,Solo,161.92
+Velvet Times (feat. DJ),Marshmello,1,55727253,51,39,37,Solo,55.73
+Golden Eyes,"Daft Punk, Maroon 5",2,87921846,69,70,76,Duo,87.92
+Fire Ways (Deluxe),Coldplay,1,132091058,32,25,18,Solo,132.09
+Golden Days (feat. DJ),Harry Styles,1,196637279,73,83,25,Solo,196.64
+Dance Times (feat. DJ),Daft Punk,1,9127530,82,87,95,Solo,9.13
+Ocean Eyes,Ed Sheeran,1,64494643,52,80,34,Solo,64.49
+Summer Eyes,"Adele, Drake, Lil Baby",3,66395022,45,63,70,Multi (3+),66.4
+Crystal Waves,Miley Cyrus,1,46728171,22,28,26,Solo,46.73
+Summer Vibes (Remix),Ed Sheeran,1,103816487,45,38,20,Solo,103.82
+Rain Memories (Live),"OneRepublic, SZA",2,120756074,30,40,32,Duo,120.76
+Dreams Days,Doja Cat,1,73830725,56,23,30,Solo,73.83
+Sunset Vibes,Morgan Wallen,1,16502689,77,76,55,Solo,16.5
+Rain Times,Adele,1,138535198,37,63,50,Solo,138.54
+Fire Moments,Taylor Swift,1,57900467,44,92,72,Solo,57.9
+Heart Vibes (Live),"David Guetta, Drake, Shakira",3,192201428,36,51,77,Multi (3+),192.2
+Neon Vibes,Lady Gaga,1,68685072,44,56,26,Solo,68.69
+Summer Hills,Diplo,1,18791842,55,61,28,Solo,18.79
+Golden Dreams,Kanye West,1,248625205,44,79,77,Solo,248.63
+Forever Ways,"21 Savage, Taylor Swift",2,140605291,78,40,45,Duo,140.61
+Wild Story,Billie Eilish,1,35815046,61,19,88,Solo,35.82
+Crystal Memories (feat. DJ),Chris Stapleton,1,17353722,89,82,17,Solo,17.35
+Electric Nights,"Daft Punk, Olivia Rodrigo",2,22690105,49,32,29,Duo,22.69
+Midnight Story,Chris Stapleton,1,67819538,70,34,37,Solo,67.82
+Midnight Nights (Deluxe),Daft Punk,1,37410762,69,41,23,Solo,37.41
+Golden Streets,"Olivia Rodrigo, Adele",2,29080497,82,86,71,Duo,29.08
+Love Story,Diplo,1,45279606,29,68,45,Solo,45.28
+Dance Streets (feat. DJ),BTS,1,26957053,28,42,29,Solo,26.96
+Electric Waves,Bad Bunny,1,48661491,44,72,40,Solo,48.66
+Neon Times (Remix),OneRepublic,1,53734844,94,62,61,Solo,53.73
+Velvet Waves,"Future, David Guetta",2,21918689,63,95,79,Duo,21.92
+Sunset Feelings (Deluxe),21 Savage,1,7337385,48,59,83,Solo,7.34
+Stars Days (Deluxe),Kanye West,1,25431308,22,52,13,Solo,25.43
+Electric Feelings,Ed Sheeran,1,66568973,60,18,54,Solo,66.57
+Heart Waves,Chris Stapleton,1,302144616,30,95,41,Solo,302.14
+Neon Memories,Beyoncé,1,46759614,55,64,82,Solo,46.76
+Crystal Hills,Zedd,1,54481075,20,98,59,Solo,54.48
+Wild Roads (feat. DJ),Bruno Mars,1,14643869,89,68,23,Solo,14.64
+Dreams Vibes,"Daft Punk, Ed Sheeran",2,62054679,77,84,94,Duo,62.05
+Sunset Feelings,"Ed Sheeran, Future, Doja Cat, Skrillex",4,39458310,37,46,50,Multi (3+),39.46
+Rain Feelings,Calvin Harris,1,11814637,51,67,90,Solo,11.81
+Sunset Memories (Live),Maroon 5,1,49951311,83,70,19,Solo,49.95
+Stars Memories,Daft Punk,1,41379082,80,26,53,Solo,41.38
+Dreams Ways,Martin Garrix,1,53066195,55,91,43,Solo,53.07
+Forever Days,"Ariana Grande, Metro Boomin",2,34649355,43,78,92,Duo,34.65
+Silver Streets,Metro Boomin,1,25835855,85,68,82,Solo,25.84
+Sunset Clouds,"Kanye West, Skrillex, Dua Lipa, Calvin Harris",4,9141250,92,16,17,Multi (3+),9.14
+Summer Dreams,OneRepublic,1,25438418,82,27,25,Solo,25.44
+Fire Times,Marshmello,1,73730174,76,64,29,Solo,73.73
+Neon Waves (Deluxe),"Kygo, Olivia Rodrigo",2,88861270,60,66,55,Duo,88.86
+Neon Story,Coldplay,1,16838911,74,70,21,Solo,16.84
+Fire Nights,"Lady Gaga, Kendrick Lamar, David Guetta",3,130639656,87,72,42,Multi (3+),130.64
+Summer Waves,"Travis Scott, Justin Bieber",2,25668536,45,24,87,Duo,25.67
+Electric Skies (feat. DJ),Justin Bieber,1,8520130,39,45,26,Solo,8.52
+Heart Times,Beyoncé,1,36235430,87,97,69,Solo,36.24
+Neon Moments (feat. DJ),"Martin Garrix, Billie Eilish, Tiësto",3,29125174,77,32,85,Multi (3+),29.13
+Summer Streets,Beyoncé,1,115364244,26,74,54,Solo,115.36
+Crystal Skies,Skrillex,1,44038356,86,18,57,Solo,44.04
+Wild Eyes,Marshmello,1,99628859,54,33,28,Solo,99.63
+Night Eyes,Imagine Dragons,1,30968024,28,74,38,Solo,30.97
+Wild Dreams (Acoustic),Harry Styles,1,87457040,51,17,38,Solo,87.46
+Midnight Memories (Acoustic),Tiësto,1,31049159,58,46,20,Solo,31.05
+Sunset Clouds (feat. DJ),"Ed Sheeran, Drake",2,34864392,50,46,46,Duo,34.86
+Midnight Vibes,Skrillex,1,30688085,37,61,47,Solo,30.69
+Fire Eyes,Avicii,1,17373074,87,93,19,Solo,17.37
+Crystal Feelings,"Skrillex, Billie Eilish",2,111433013,46,74,40,Duo,111.43
+Heart Moments,Harry Styles,1,14322998,46,98,70,Solo,14.32
+Night Memories (Acoustic),Doja Cat,1,271982268,20,47,31,Solo,271.98
+Stars Times,Post Malone,1,29460338,84,42,35,Solo,29.46
+Crystal Roads,Martin Garrix,1,13832569,80,74,63,Solo,13.83
+Dance Eyes (Remix),Zedd,1,36823822,26,50,19,Solo,36.82
+Forever Dreams,"Tiësto, Luke Combs",2,99796860,21,25,64,Duo,99.8
+Dance Nights,The Weeknd,1,43850820,50,49,18,Solo,43.85
+Velvet Streets,BTS,1,16806148,40,83,76,Solo,16.81
+Sunset Feelings (Live),"Miley Cyrus, Zach Bryan",2,89862454,69,97,51,Duo,89.86
+Silver Shadows,The Chainsmokers,1,47589313,90,58,80,Solo,47.59
+Velvet Waves,Adele,1,269670851,29,54,73,Solo,269.67
+Dreams Moments (Deluxe),Rihanna,1,14289435,90,25,79,Solo,14.29
+Heart Clouds (Remix),Daft Punk,1,75716077,66,84,61,Solo,75.72
+Dreams Lights,"Daft Punk, Beyoncé",2,27876477,83,45,80,Duo,27.88
+Crystal Eyes,Lil Baby,1,63625743,71,39,85,Solo,63.63
+Heart Times,"Justin Bieber, Skrillex",2,22359460,63,72,36,Duo,22.36
+Dance Streets,"Adele, Imagine Dragons, Future, Kygo",4,49197224,75,35,69,Multi (3+),49.2
+Sunset Feelings (feat. DJ),Martin Garrix,1,10986904,40,43,71,Solo,10.99
+Summer Skies,J. Cole,1,59302440,50,47,46,Solo,59.3
+Fire Hills (Remix),"Avicii, Martin Garrix",2,72771215,71,92,95,Duo,72.77
+Rain Times,Coldplay,1,42660570,25,74,36,Solo,42.66
+Stars Times (feat. DJ),"Future, Daft Punk, The Chainsmokers, Morgan Wallen",4,25095605,31,91,42,Multi (3+),25.1
+Velvet Nights,Calvin Harris,1,123584169,20,59,64,Solo,123.58
+Heart Roads,21 Savage,1,21059864,24,41,25,Solo,21.06
+Dreams Nights,OneRepublic,1,51234920,33,44,65,Solo,51.23
+Crystal Roads (Deluxe),Metro Boomin,1,90425756,45,52,61,Solo,90.43
+Stars Memories,"Harry Styles, Ariana Grande",2,62037597,26,92,75,Duo,62.04
+Crystal Skies,Daft Punk,1,17984536,29,96,64,Solo,17.98
+Wild Story,Billie Eilish,1,127292977,81,71,22,Solo,127.29
+Love Moments (Acoustic),"Kanye West, Skrillex",2,92523225,39,51,32,Duo,92.52
+Crystal Waves,Coldplay,1,69387381,71,87,58,Solo,69.39
+Wild Shadows,Travis Scott,1,71132309,22,96,89,Solo,71.13
+Night Feelings (Acoustic),Drake,1,112988457,86,63,34,Solo,112.99
+Dreams Moments,Travis Scott,1,32660939,47,54,23,Solo,32.66
+Midnight Nights,Coldplay,1,9998801,30,63,70,Solo,10.0
+Crystal Rivers (Remix),Tiësto,1,40671733,24,96,47,Solo,40.67
+Golden Days (Acoustic),Olivia Rodrigo,1,86222191,89,92,16,Solo,86.22
+Rain Moments,Future,1,115370200,21,41,33,Solo,115.37
+Velvet Moments (Deluxe),Zach Bryan,1,46742414,70,93,57,Solo,46.74
+Heart Rivers,Bruno Mars,1,33012477,47,92,87,Solo,33.01
+Wild Waves,The Chainsmokers,1,29319822,74,20,65,Solo,29.32
+Love Memories (Remix),Luke Combs,1,52320357,47,58,42,Solo,52.32
+Silver Feelings,Daft Punk,1,101461996,58,15,80,Solo,101.46
+Velvet Rivers,Bruno Mars,1,68399746,57,88,46,Solo,68.4
+Ocean Roads,"Zedd, Imagine Dragons",2,112312465,38,61,78,Duo,112.31
+Forever Story (Acoustic),Miley Cyrus,1,20494119,91,34,70,Solo,20.49
+Love Streets,Chris Stapleton,1,40182025,56,59,10,Solo,40.18
+Sunset Lights,21 Savage,1,130323801,47,86,11,Solo,130.32
+Crystal Lights,"Future, Doja Cat",2,53700248,23,76,31,Duo,53.7
+Midnight Clouds,Tiësto,1,20490726,30,95,47,Solo,20.49
+Fire Rivers,Marshmello,1,75441923,56,35,60,Solo,75.44
+Sunset Moments,Morgan Wallen,1,31596642,28,40,34,Solo,31.6
+Fire Days,"Ariana Grande, Miley Cyrus, Lady Gaga",3,186689385,34,69,38,Multi (3+),186.69
+Silver Shadows,Marshmello,1,102156606,75,51,45,Solo,102.16
+Heart Clouds,Future,1,95067130,33,39,90,Solo,95.07
+Neon Dreams,Avicii,1,56489416,83,84,85,Solo,56.49
+Night Clouds (Live),BTS,1,53736867,64,35,51,Solo,53.74
+Electric Feelings,Zach Bryan,1,19646188,50,94,65,Solo,19.65
+Wild Memories (feat. DJ),"The Weeknd, Post Malone, Drake",3,121077460,30,59,46,Multi (3+),121.08
+Electric Vibes,"Marshmello, Zach Bryan, Bad Bunny",3,58165780,83,83,88,Multi (3+),58.17
+Sunset Rivers,Diplo,1,85081112,43,45,90,Solo,85.08
+Midnight Clouds (Acoustic),"Lil Baby, Lady Gaga",2,17572096,78,65,85,Duo,17.57
+Summer Moments,Rihanna,1,105209095,53,56,20,Solo,105.21
+Fire Roads,"Justin Bieber, Shakira, Imagine Dragons",3,31084486,86,64,43,Multi (3+),31.08
+Forever Ways,"Adele, 21 Savage",2,49625343,45,57,76,Duo,49.63
+Midnight Eyes,"Harry Styles, SZA",2,35131502,25,94,12,Duo,35.13
+Golden Nights,"Zach Bryan, Bad Bunny",2,88929569,85,86,77,Duo,88.93
+Sunset Waves,Miley Cyrus,1,101794855,89,58,90,Solo,101.79
+Fire Rivers,"Metro Boomin, Rihanna",2,223776104,95,44,92,Duo,223.78
+Dreams Days,"BTS, Miley Cyrus",2,43712840,48,72,64,Duo,43.71
+Love Moments,J. Cole,1,70790269,44,31,18,Solo,70.79
+Ocean Vibes,Taylor Swift,1,36758450,78,38,32,Solo,36.76
+Velvet Ways,"Kendrick Lamar, Coldplay",2,32338791,76,97,25,Duo,32.34
+Electric Days (Deluxe),Future,1,21543141,58,85,40,Solo,21.54
+Summer Roads (Deluxe),Adele,1,39426178,51,88,12,Solo,39.43
+Heart Nights (Deluxe),Zach Bryan,1,6608605,37,86,84,Solo,6.61
+Heart Moments (Live),"The Weeknd, Zach Bryan",2,17794160,64,62,36,Duo,17.79
+Midnight Memories (Remix),Beyoncé,1,91994657,22,97,29,Solo,91.99
+Rain Hills,The Weeknd,1,19920709,31,29,87,Solo,19.92
+Rain Nights,"Post Malone, BTS",2,59771107,25,94,25,Duo,59.77
+Electric Times,"Lil Baby, Martin Garrix",2,10953332,86,34,23,Duo,10.95
+Velvet Clouds,Rihanna,1,11985546,28,15,93,Solo,11.99
+Neon Story (feat. DJ),Zach Bryan,1,30113836,53,34,19,Solo,30.11
+Ocean Nights,OneRepublic,1,35860971,56,98,77,Solo,35.86
+Love Times (Acoustic),"Billie Eilish, 21 Savage",2,13959056,67,90,66,Duo,13.96
+Fire Times,Rihanna,1,39897735,32,66,67,Solo,39.9
+Night Skies,Billie Eilish,1,52995270,72,28,67,Solo,53.0
+Night Eyes,Miley Cyrus,1,32609666,77,69,64,Solo,32.61
+Love Lights,Olivia Rodrigo,1,39286405,65,23,84,Solo,39.29
+Dance Clouds,The Weeknd,1,46047964,94,84,40,Solo,46.05
+Dreams Lights (Remix),Taylor Swift,1,24132305,28,74,35,Solo,24.13
+Forever Feelings,Coldplay,1,36778460,94,29,82,Solo,36.78
+Fire Waves (feat. DJ),"Metro Boomin, Kendrick Lamar",2,72206115,53,84,22,Duo,72.21
+Crystal Dreams,"21 Savage, Avicii",2,59895803,89,48,61,Duo,59.9
+Golden Rivers,Chris Stapleton,1,63363110,80,75,50,Solo,63.36
+Forever Dreams,Coldplay,1,30459936,26,20,44,Solo,30.46
+Sunset Feelings,"Kendrick Lamar, Harry Styles, Skrillex",3,27274834,94,97,94,Multi (3+),27.27
+Forever Dreams,"Bad Bunny, OneRepublic",2,80502682,65,46,84,Duo,80.5
+Crystal Roads (feat. DJ),Kygo,1,52016841,93,69,18,Solo,52.02
+Heart Roads (feat. DJ),Bruno Mars,1,155433044,52,86,51,Solo,155.43
+Fire Shadows (Acoustic),"Zach Bryan, The Weeknd",2,26602778,71,75,18,Duo,26.6
+Velvet Roads (Remix),"Ariana Grande, Diplo",2,58227803,70,63,90,Duo,58.23
+Summer Roads,Lil Baby,1,63964657,37,38,86,Solo,63.96
+Midnight Memories,Beyoncé,1,12294763,61,91,57,Solo,12.29
+Silver Eyes (Acoustic),Drake,1,18098303,72,56,16,Solo,18.1
+Golden Hills (Acoustic),Bruno Mars,1,106926518,53,63,61,Solo,106.93
+Heart Clouds,"Miley Cyrus, Drake",2,8709202,77,76,64,Duo,8.71
+Wild Dreams,Imagine Dragons,1,63128110,33,90,70,Solo,63.13
+Dreams Nights,Daft Punk,1,26995033,34,21,31,Solo,27.0
+Wild Times,"Luke Combs, Calvin Harris",2,43397509,84,47,51,Duo,43.4
+Sunset Ways,Bad Bunny,1,77471960,30,71,67,Solo,77.47
+Fire Hills,Lil Baby,1,77407559,52,96,52,Solo,77.41
+Velvet Rivers (Acoustic),SZA,1,78331302,85,69,18,Solo,78.33
+Dance Waves,"Kendrick Lamar, Coldplay, Travis Scott",3,17527551,84,47,75,Multi (3+),17.53
+Silver Rivers,Avicii,1,13516060,52,44,58,Solo,13.52
+Dance Moments (Deluxe),Metro Boomin,1,31566311,42,80,76,Solo,31.57
+Night Feelings,Billie Eilish,1,23709435,35,85,11,Solo,23.71
+Night Times (Acoustic),"Coldplay, Rihanna",2,231928522,59,90,62,Duo,231.93
+Love Streets (Live),Taylor Swift,1,114575756,74,26,44,Solo,114.58
+Dreams Times (Remix),"Bruno Mars, Morgan Wallen",2,19720971,90,52,35,Duo,19.72
+Ocean Clouds,Morgan Wallen,1,42146306,66,62,13,Solo,42.15
+Electric Clouds,"Marshmello, Zedd",2,12893965,90,88,10,Duo,12.89
+Wild Feelings,Lady Gaga,1,26996517,37,49,65,Solo,27.0
+Silver Vibes,Calvin Harris,1,41814424,20,33,83,Solo,41.81
+Night Vibes,Metro Boomin,1,46463555,91,56,88,Solo,46.46
+Crystal Nights,David Guetta,1,13202996,31,88,24,Solo,13.2
+Fire Waves,"Dua Lipa, Future, Harry Styles, Miley Cyrus",4,99619797,29,90,65,Multi (3+),99.62
+Dreams Rivers,Calvin Harris,1,33133058,55,29,70,Solo,33.13
+Stars Hills,Morgan Wallen,1,79029431,48,23,33,Solo,79.03
+Summer Lights (feat. DJ),The Chainsmokers,1,143468856,90,37,48,Solo,143.47
+Stars Skies,Bruno Mars,1,156334178,46,38,82,Solo,156.33
+Night Hills,"Miley Cyrus, Adele, Dua Lipa",3,51746234,57,64,66,Multi (3+),51.75
+Ocean Shadows (Acoustic),Kanye West,1,26769754,40,21,63,Solo,26.77
+Golden Roads,"Olivia Rodrigo, Justin Bieber",2,12639098,95,97,56,Duo,12.64
+Rain Eyes (Remix),"Taylor Swift, Bruno Mars, 21 Savage, Kanye West",4,7455268,32,98,38,Multi (3+),7.46
+Summer Shadows,Shakira,1,34065262,29,64,79,Solo,34.07
+Summer Hills,Zach Bryan,1,48004059,82,63,68,Solo,48.0
+Golden Story,Olivia Rodrigo,1,26227250,59,27,52,Solo,26.23
+Sunset Memories,Bad Bunny,1,64003706,56,73,52,Solo,64.0
+Silver Nights,The Chainsmokers,1,50064215,29,74,42,Solo,50.06
+Golden Nights,The Chainsmokers,1,31002597,86,77,83,Solo,31.0
+Heart Rivers,Dua Lipa,1,46708550,63,76,40,Solo,46.71
+Silver Hills (Deluxe),"Daft Punk, Diplo, Post Malone, Tiësto",4,20845085,88,95,26,Multi (3+),20.85
+Dance Hills (feat. DJ),Kendrick Lamar,1,114102237,36,96,14,Solo,114.1
+Electric Hills,"SZA, Ariana Grande",2,34642448,70,15,35,Duo,34.64
+Electric Shadows,"SZA, Marshmello, Calvin Harris",3,23833658,40,82,84,Multi (3+),23.83
+Velvet Ways,"Beyoncé, Chris Stapleton",2,47945849,91,68,57,Duo,47.95
+Dreams Roads,"SZA, Post Malone",2,54763239,48,68,82,Duo,54.76
+Electric Days,Skrillex,1,14474353,32,80,75,Solo,14.47
+Ocean Waves,"Skrillex, Kanye West, Dua Lipa",3,25958831,27,83,56,Multi (3+),25.96
+Summer Vibes,"Doja Cat, Bad Bunny, Metro Boomin",3,65245896,78,90,61,Multi (3+),65.25
+Silver Hills (Acoustic),"Lady Gaga, The Chainsmokers, Coldplay",3,63627473,93,94,52,Multi (3+),63.63
+Stars Lights (Acoustic),"Justin Bieber, Diplo",2,44329436,54,64,33,Duo,44.33
+Silver Days,Kendrick Lamar,1,18922977,22,83,13,Solo,18.92
+Stars Feelings,"Martin Garrix, Billie Eilish",2,61007201,54,78,93,Duo,61.01
+Love Rivers,"J. Cole, Lil Baby, 21 Savage",3,19907474,27,20,92,Multi (3+),19.91
+Golden Lights,"The Chainsmokers, Ed Sheeran, The Weeknd",3,29345791,44,69,25,Multi (3+),29.35
+Heart Days (Deluxe),Avicii,1,294166809,43,95,83,Solo,294.17
+Golden Days (feat. DJ),"Ariana Grande, Kanye West",2,46614625,48,43,55,Duo,46.61
+Night Hills,Harry Styles,1,15753288,82,34,25,Solo,15.75
+Velvet Skies,Daft Punk,1,93803011,76,31,43,Solo,93.8
+Love Feelings (Acoustic),"Post Malone, Morgan Wallen, Martin Garrix",3,306396380,26,46,59,Multi (3+),306.4
+Velvet Memories,"Ed Sheeran, Ariana Grande",2,40186150,29,64,38,Duo,40.19
+Summer Roads (Live),Rihanna,1,71621367,29,87,19,Solo,71.62
+Dreams Roads (Deluxe),Travis Scott,1,72493883,75,16,30,Solo,72.49
+Stars Eyes,"Ariana Grande, Harry Styles",2,140563010,74,76,72,Duo,140.56
+Love Streets (Deluxe),The Chainsmokers,1,88344639,68,54,52,Solo,88.34
+Wild Nights,"Morgan Wallen, Kanye West",2,48574227,20,68,27,Duo,48.57
+Sunset Hills,Bruno Mars,1,100032152,24,67,12,Solo,100.03
+Silver Clouds (Deluxe),Calvin Harris,1,38423190,21,62,32,Solo,38.42
+Rain Waves,Billie Eilish,1,105306637,51,57,48,Solo,105.31
+Dreams Eyes,Metro Boomin,1,61338129,22,86,77,Solo,61.34
+Sunset Moments,Zedd,1,163088039,36,37,17,Solo,163.09
+Crystal Shadows,Adele,1,51134764,28,93,28,Solo,51.13
+Heart Moments (feat. DJ),"Post Malone, Lady Gaga",2,115049095,30,93,83,Duo,115.05
+Dance Lights,Daft Punk,1,85516970,78,38,47,Solo,85.52
+Summer Streets (Live),Dua Lipa,1,82233702,39,26,93,Solo,82.23
+Dance Days (Acoustic),Rihanna,1,20741049,77,35,53,Solo,20.74
+Summer Story,Post Malone,1,16194687,35,69,95,Solo,16.19
+Neon Dreams,OneRepublic,1,11040173,47,31,44,Solo,11.04
+Silver Story,Marshmello,1,20296077,80,96,92,Solo,20.3
+Ocean Nights (Remix),Maroon 5,1,41050466,94,64,53,Solo,41.05
+Crystal Moments (Live),Metro Boomin,1,128537586,85,45,15,Solo,128.54
+Dreams Streets (Live),Luke Combs,1,217013969,38,64,73,Solo,217.01
+Love Shadows (feat. DJ),Marshmello,1,76203655,89,40,35,Solo,76.2
+Crystal Hills,The Weeknd,1,42497364,83,94,42,Solo,42.5
+Fire Dreams (Live),Kanye West,1,71348292,89,33,20,Solo,71.35
+Fire Moments,Lady Gaga,1,43241144,72,94,32,Solo,43.24
+Wild Ways,OneRepublic,1,31578022,40,97,18,Solo,31.58
+Forever Rivers,"Justin Bieber, Coldplay",2,50274463,53,83,81,Duo,50.27
+Love Memories (feat. DJ),Chris Stapleton,1,81697350,59,91,25,Solo,81.7
+Heart Dreams,Rihanna,1,12915794,85,29,82,Solo,12.92
+Ocean Dreams (Acoustic),Chris Stapleton,1,60131666,41,22,10,Solo,60.13
+Velvet Clouds,Kygo,1,12393604,92,22,88,Solo,12.39
+Electric Waves (feat. DJ),21 Savage,1,87123680,34,84,90,Solo,87.12
+Velvet Eyes (Remix),Dua Lipa,1,37797054,87,56,71,Solo,37.8
+Heart Memories,Calvin Harris,1,54794495,79,71,87,Solo,54.79
+Silver Waves,21 Savage,1,39450068,41,60,88,Solo,39.45
+Ocean Rivers,The Chainsmokers,1,35956892,76,95,44,Solo,35.96
+Electric Roads,"Zedd, Bruno Mars, Ed Sheeran, Zach Bryan",4,127650180,85,92,34,Multi (3+),127.65
+Electric Rivers (Acoustic),Marshmello,1,131334491,21,36,87,Solo,131.33
+Fire Feelings (Remix),Taylor Swift,1,12759273,20,84,81,Solo,12.76
+Forever Skies,Bad Bunny,1,76525731,21,15,16,Solo,76.53
+Heart Roads (Deluxe),Chris Stapleton,1,47927248,84,17,71,Solo,47.93
+Night Story,Billie Eilish,1,14107466,55,58,95,Solo,14.11
+Night Clouds,Billie Eilish,1,63498664,47,97,91,Solo,63.5
+Neon Clouds,Kendrick Lamar,1,60237637,82,32,20,Solo,60.24
+Ocean Memories,Dua Lipa,1,85353314,74,83,44,Solo,85.35
+Wild Skies,Shakira,1,41476633,30,23,67,Solo,41.48
+Forever Dreams,Kanye West,1,49441878,94,88,48,Solo,49.44
+Wild Times,Skrillex,1,26835879,74,80,14,Solo,26.84
+Fire Hills,Daft Punk,1,74366362,32,87,75,Solo,74.37
+Dance Clouds,Calvin Harris,1,140404214,68,70,90,Solo,140.4
+Love Memories,Zedd,1,50015553,56,98,31,Solo,50.02
+Ocean Dreams (Deluxe),Zach Bryan,1,99110157,95,37,16,Solo,99.11
+Dreams Moments,"Marshmello, Diplo",2,143168102,83,81,30,Duo,143.17
+Love Days,"Justin Bieber, J. Cole",2,47616384,93,17,11,Duo,47.62
+Night Shadows,The Chainsmokers,1,58017088,44,65,26,Solo,58.02
+Silver Vibes,Avicii,1,286074308,87,83,51,Solo,286.07
+Stars Eyes,Rihanna,1,128890558,85,66,86,Solo,128.89
+Love Lights,"Beyoncé, Drake",2,69170488,92,60,33,Duo,69.17
+Midnight Dreams,Coldplay,1,69176690,86,63,20,Solo,69.18
+Heart Dreams (Live),Maroon 5,1,28924389,44,86,95,Solo,28.92
+Stars Hills,Olivia Rodrigo,1,16713494,93,68,15,Solo,16.71
+Love Roads,Skrillex,1,70804185,37,30,72,Solo,70.8
+Heart Clouds (Acoustic),"J. Cole, Daft Punk, BTS",3,125310709,49,66,37,Multi (3+),125.31
+Summer Story,"Taylor Swift, BTS",2,35156799,41,48,15,Duo,35.16
+Golden Streets,Harry Styles,1,6811729,27,76,89,Solo,6.81
+Dance Skies (Remix),Post Malone,1,44899801,58,38,28,Solo,44.9
+Sunset Feelings,Future,1,26619515,24,91,14,Solo,26.62
+Silver Shadows,"Maroon 5, Ed Sheeran",2,8798671,23,42,69,Duo,8.8
+Electric Nights,"Chris Stapleton, J. Cole",2,64578362,72,78,24,Duo,64.58
+Love Streets,Ed Sheeran,1,58411433,63,42,33,Solo,58.41
+Love Roads,"Morgan Wallen, Lil Baby, Luke Combs",3,142359789,30,74,93,Multi (3+),142.36
+Golden Shadows,Future,1,15878774,56,83,87,Solo,15.88
+Sunset Moments,"OneRepublic, Martin Garrix",2,76906006,82,94,47,Duo,76.91
+Midnight Roads (Deluxe),Bruno Mars,1,245400770,54,20,67,Solo,245.4
+Dance Waves,"Avicii, Maroon 5, Adele",3,86724760,20,17,17,Multi (3+),86.72
+Midnight Streets,"Beyoncé, Chris Stapleton",2,78550698,69,95,82,Duo,78.55
+Electric Roads,David Guetta,1,100266893,69,20,41,Solo,100.27
+Sunset Feelings (feat. DJ),Future,1,154627977,93,34,49,Solo,154.63
+Rain Lights (Acoustic),Taylor Swift,1,43249667,32,85,17,Solo,43.25
+Crystal Moments (feat. DJ),"Metro Boomin, Harry Styles",2,136492856,53,32,51,Duo,136.49
+Fire Times,Doja Cat,1,13364691,61,87,54,Solo,13.36
+Ocean Nights,Bad Bunny,1,9632125,92,69,90,Solo,9.63
+Dance Skies (Remix),The Weeknd,1,35903048,73,96,38,Solo,35.9
+Summer Story,Diplo,1,48981653,40,27,50,Solo,48.98
+Love Rivers,Justin Bieber,1,161461078,57,74,70,Solo,161.46
+Golden Story,Drake,1,58153462,59,54,16,Solo,58.15
+Wild Waves (Deluxe),"Post Malone, Billie Eilish, Harry Styles",3,40408171,45,85,79,Multi (3+),40.41
+Sunset Times,Beyoncé,1,46774761,71,48,61,Solo,46.77
+Fire Shadows,Bad Bunny,1,24144288,26,40,17,Solo,24.14
+Silver Dreams,Skrillex,1,24557693,95,98,69,Solo,24.56
+Golden Dreams (Remix),"Kanye West, Post Malone",2,105368275,63,58,38,Duo,105.37
+Electric Rivers (Live),"Calvin Harris, Avicii, Kygo",3,23461555,39,40,26,Multi (3+),23.46
+Heart Skies,Calvin Harris,1,133387260,21,98,31,Solo,133.39
+Midnight Nights,Zach Bryan,1,23240069,22,71,59,Solo,23.24
+Heart Times,OneRepublic,1,16347477,66,98,15,Solo,16.35
+Heart Dreams,"Rihanna, Metro Boomin",2,147961327,21,44,50,Duo,147.96
+Golden Skies (Acoustic),Ed Sheeran,1,184167530,53,77,29,Solo,184.17
+Velvet Lights,Adele,1,123345906,84,58,22,Solo,123.35
+Ocean Streets,Kanye West,1,76022120,76,18,23,Solo,76.02
+Midnight Ways (Live),Marshmello,1,38297865,76,24,47,Solo,38.3
+Night Nights,Lil Baby,1,68236091,21,98,67,Solo,68.24
+Wild Days (Live),"Calvin Harris, Morgan Wallen, Olivia Rodrigo",3,64869311,53,81,76,Multi (3+),64.87
+Golden Times,Drake,1,194405135,21,39,50,Solo,194.41
+Neon Rivers,The Chainsmokers,1,39117779,43,41,71,Solo,39.12
+Night Nights,Morgan Wallen,1,35351355,57,93,30,Solo,35.35
+Silver Skies,"Travis Scott, Maroon 5",2,172419307,32,38,44,Duo,172.42
+Velvet Story (Live),Ed Sheeran,1,17475722,72,38,68,Solo,17.48
+Fire Roads,"SZA, Marshmello",2,10903737,90,28,51,Duo,10.9
+Fire Hills,SZA,1,42644630,77,97,60,Solo,42.64
+Golden Days,Daft Punk,1,72016404,66,17,62,Solo,72.02
+Silver Nights,"Lil Baby, Dua Lipa",2,96596827,46,15,32,Duo,96.6
+Golden Lights,Bad Bunny,1,142316017,46,39,89,Solo,142.32
+Fire Roads,Beyoncé,1,59598167,70,93,50,Solo,59.6
+Neon Clouds,BTS,1,42940944,77,94,53,Solo,42.94
+Summer Feelings,Imagine Dragons,1,119472056,35,44,67,Solo,119.47
+Wild Moments,"Luke Combs, Travis Scott",2,14579086,32,96,84,Duo,14.58
+Electric Hills (Live),Drake,1,267278507,89,90,24,Solo,267.28
+Neon Memories,Zach Bryan,1,72937098,41,74,53,Solo,72.94
+Crystal Lights,Travis Scott,1,81088748,85,65,44,Solo,81.09
+Golden Vibes (Live),"Bruno Mars, J. Cole, Miley Cyrus",3,64356527,90,39,62,Multi (3+),64.36
+Fire Nights,J. Cole,1,54632741,20,58,43,Solo,54.63
+Neon Eyes,Doja Cat,1,10708731,58,26,69,Solo,10.71
+Sunset Story (feat. DJ),Taylor Swift,1,44547185,87,16,55,Solo,44.55
+Dance Waves,Marshmello,1,49734085,75,32,48,Solo,49.73
+Forever Feelings (feat. DJ),Shakira,1,196861651,43,20,89,Solo,196.86
+Crystal Skies,"Adele, Dua Lipa",2,97646198,54,24,44,Duo,97.65
+Wild Days,Shakira,1,125812126,55,37,69,Solo,125.81
+Love Dreams,Ed Sheeran,1,48787072,24,43,84,Solo,48.79
+Forever Hills (Live),Future,1,68949100,73,68,42,Solo,68.95
+Dreams Shadows,Imagine Dragons,1,97868556,93,16,24,Solo,97.87
+Velvet Clouds,21 Savage,1,35272184,76,42,95,Solo,35.27
+Fire Waves,"Daft Punk, Justin Bieber, Chris Stapleton",3,71505496,25,75,59,Multi (3+),71.51
+Fire Rivers,Bruno Mars,1,255005580,27,97,43,Solo,255.01
+Electric Story,Imagine Dragons,1,16319828,82,86,25,Solo,16.32
+Dreams Streets (Remix),"Zach Bryan, Marshmello",2,28286382,22,51,24,Duo,28.29
+Ocean Lights (Live),"The Weeknd, Diplo, Doja Cat, Harry Styles",4,91876389,29,83,69,Multi (3+),91.88
+Midnight Ways,Taylor Swift,1,87145681,20,72,35,Solo,87.15
+Night Streets (feat. DJ),"Skrillex, Maroon 5, J. Cole, Bruno Mars",4,14020911,90,98,32,Multi (3+),14.02
+Electric Moments,"Chris Stapleton, Lil Baby, The Weeknd",3,41057947,80,65,61,Multi (3+),41.06
+Love Times,Martin Garrix,1,132092533,52,81,52,Solo,132.09
+Forever Moments,Justin Bieber,1,71555966,71,46,17,Solo,71.56
+Midnight Lights,"Ariana Grande, Bruno Mars, Kendrick Lamar",3,12343424,22,66,41,Multi (3+),12.34
+Silver Streets (feat. DJ),Post Malone,1,54333568,94,31,19,Solo,54.33
+Stars Memories (feat. DJ),"David Guetta, Future, Justin Bieber",3,86014842,42,59,34,Multi (3+),86.01
+Velvet Times,Luke Combs,1,66288894,26,47,76,Solo,66.29
+Rain Dreams,Doja Cat,1,7009516,59,44,93,Solo,7.01
+Rain Rivers (Live),Bruno Mars,1,76597312,27,38,76,Solo,76.6
+Heart Dreams (Deluxe),"Avicii, OneRepublic, Diplo",3,205143319,30,61,70,Multi (3+),205.14
+Heart Rivers,Diplo,1,209168359,60,24,38,Solo,209.17
+Midnight Feelings,Diplo,1,60026157,62,89,89,Solo,60.03
+Rain Days,Doja Cat,1,87660660,36,55,38,Solo,87.66
+Ocean Vibes (Remix),Adele,1,32613109,44,19,42,Solo,32.61
+Golden Skies (Remix),Tiësto,1,62399831,26,16,46,Solo,62.4
+Velvet Ways (feat. DJ),"Adele, BTS",2,18976211,89,66,80,Duo,18.98
+Love Moments,The Chainsmokers,1,63274598,44,74,87,Solo,63.27
+Neon Memories,"Tiësto, Zach Bryan, OneRepublic",3,17365040,31,33,35,Multi (3+),17.37
+Velvet Lights,Miley Cyrus,1,42578540,80,75,10,Solo,42.58
+Night Skies,Rihanna,1,20220829,69,31,62,Solo,20.22
+Love Shadows,"21 Savage, Coldplay",2,27797628,26,45,60,Duo,27.8
+Night Moments (Remix),"OneRepublic, Lady Gaga",2,12757329,23,61,28,Duo,12.76
+Electric Shadows,Billie Eilish,1,26791640,61,49,42,Solo,26.79
+Velvet Dreams,Adele,1,44477290,56,57,46,Solo,44.48
+Stars Feelings,"Skrillex, Lady Gaga",2,52945369,77,34,91,Duo,52.95
+Dreams Shadows,Doja Cat,1,5789016,26,82,54,Solo,5.79
+Forever Vibes,Ariana Grande,1,60766690,35,25,83,Solo,60.77
+Midnight Roads,"OneRepublic, Bruno Mars, Morgan Wallen",3,26775652,79,38,16,Multi (3+),26.78
+Dance Times (Remix),Morgan Wallen,1,72560549,57,20,43,Solo,72.56
+Electric Clouds,"Beyoncé, Maroon 5",2,28512076,50,17,33,Duo,28.51
+Rain Times (feat. DJ),Ed Sheeran,1,102894417,54,31,53,Solo,102.89
+Ocean Dreams,OneRepublic,1,7011885,39,78,26,Solo,7.01
+Crystal Memories (Live),"Olivia Rodrigo, OneRepublic, Luke Combs",3,30783113,37,51,90,Multi (3+),30.78

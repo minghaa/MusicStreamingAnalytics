@@ -1,0 +1,954 @@
+track_id,track_name,artist_name,released_year,streams,danceability_pct,energy_pct,valence_pct,acousticness_pct,bpm,mode,key,streams_millions,primary_artist
+1,Dance Times,Kanye West,2023,46643625,77,50,85,0,199,Major,F#,46.64,Kanye West
+2,Rain Lights,Miley Cyrus,2021,62741851,93,23,34,5,135,Minor,A#,62.74,Miley Cyrus
+3,Midnight Ways,"Harry Styles, BTS",2023,37882702,91,56,38,7,178,Minor,F#,37.88,Harry Styles
+4,Rain Roads (Acoustic),Imagine Dragons,2020,87556530,37,78,75,11,162,Major,F,87.56,Imagine Dragons
+5,Sunset Dreams,Post Malone,2021,125200823,78,48,10,64,135,Major,F#,125.2,Post Malone
+6,Crystal Dreams,"Dua Lipa, Adele",2021,176278979,30,23,72,68,74,Major,D#,176.28,Dua Lipa
+7,Velvet Nights,Lil Baby,2024,118498750,28,17,53,75,90,Major,D#,118.5,Lil Baby
+8,Night Times,SZA,2018,53821619,32,70,22,45,181,Major,F#,53.82,SZA
+9,Heart Memories,Morgan Wallen,2021,22880771,50,67,31,62,198,Major,C,22.88,Morgan Wallen
+10,Love Clouds,Drake,2023,86481558,27,84,84,7,108,Major,E,86.48,Drake
+11,Crystal Rivers,Drake,2024,19123956,53,55,36,30,80,Minor,F#,19.12,Drake
+12,Electric Lights (Remix),Lil Baby,2018,12897499,76,53,79,78,154,Major,E,12.9,Lil Baby
+13,Heart Moments,"Lil Baby, Bruno Mars",2024,21973686,55,15,15,42,83,Minor,A#,21.97,Lil Baby
+14,Electric Skies (Deluxe),Kendrick Lamar,2018,30780995,65,46,36,85,138,Major,F,30.78,Kendrick Lamar
+15,Fire Nights (Remix),"Maroon 5, Chris Stapleton, Post Malone, Beyoncé",2020,103138976,64,44,49,28,116,Minor,D#,103.14,Maroon 5
+16,Dreams Ways,Miley Cyrus,2022,62963366,64,70,50,77,87,Minor,A,62.96,Miley Cyrus
+17,Night Waves,Avicii,2024,29227068,61,52,61,70,139,Minor,A#,29.23,Avicii
+18,Fire Dreams,"Lil Baby, 21 Savage, Chris Stapleton",2022,31885021,41,25,94,36,114,Minor,G#,31.89,Lil Baby
+19,Forever Times (feat. DJ),Chris Stapleton,2018,162326782,33,43,64,22,97,Major,A#,162.33,Chris Stapleton
+20,Heart Streets,Drake,2022,67841642,77,46,43,81,174,Minor,D,67.84,Drake
+21,Electric Vibes (feat. DJ),Kanye West,2021,12474178,69,17,84,73,75,Minor,D#,12.47,Kanye West
+22,Midnight Waves,Shakira,2023,50237903,70,87,85,84,179,Major,D,50.24,Shakira
+23,Electric Nights,OneRepublic,2021,41720635,48,23,93,83,198,Minor,C,41.72,OneRepublic
+24,Stars Times,"Doja Cat, Kanye West",2023,94246318,59,63,83,50,139,Major,C#,94.25,Doja Cat
+25,Summer Feelings,Zedd,2021,40959585,75,96,56,58,167,Major,G,40.96,Zedd
+26,Dance Dreams (Deluxe),"Justin Bieber, Lil Baby",2023,63411333,63,78,13,41,178,Minor,A,63.41,Justin Bieber
+27,Dance Dreams (Acoustic),"Shakira, Miley Cyrus",2022,14702882,71,54,41,84,83,Major,E,14.7,Shakira
+28,Sunset Skies,Daft Punk,2023,29513688,55,82,85,76,115,Minor,B,29.51,Daft Punk
+29,Fire Eyes,Rihanna,2022,17964910,43,47,16,61,182,Minor,G,17.96,Rihanna
+30,Night Moments,David Guetta,2022,25296164,58,69,85,39,157,Minor,G,25.3,David Guetta
+31,Rain Days,Luke Combs,2019,46417879,53,90,90,84,78,Major,A#,46.42,Luke Combs
+32,Stars Ways (Remix),Kygo,2019,189541956,76,91,20,5,188,Minor,G#,189.54,Kygo
+33,Summer Roads,Kendrick Lamar,2018,49516232,64,57,62,41,185,Minor,C#,49.52,Kendrick Lamar
+34,Neon Eyes,Miley Cyrus,2022,39888885,26,81,34,46,198,Minor,G,39.89,Miley Cyrus
+35,Dance Skies,"The Chainsmokers, Olivia Rodrigo",2021,13662346,35,34,92,63,117,Minor,C#,13.66,The Chainsmokers
+36,Neon Hills,Metro Boomin,2022,88021084,56,90,48,74,189,Major,E,88.02,Metro Boomin
+37,Golden Lights,The Chainsmokers,2022,110706774,36,90,74,42,98,Major,G,110.71,The Chainsmokers
+38,Stars Waves (feat. DJ),"Martin Garrix, Taylor Swift, Luke Combs",2019,120496112,28,95,40,87,184,Major,G#,120.5,Martin Garrix
+39,Heart Streets,"OneRepublic, Zach Bryan, J. Cole, Morgan Wallen",2021,83529546,50,89,73,18,104,Minor,C#,83.53,OneRepublic
+40,Love Streets (Deluxe),Kendrick Lamar,2020,65489763,50,88,58,45,158,Major,G,65.49,Kendrick Lamar
+41,Love Roads (Remix),"The Weeknd, Future, Maroon 5, Rihanna",2024,72455618,59,19,66,74,84,Major,A#,72.46,The Weeknd
+42,Sunset Nights,Rihanna,2023,164881840,29,43,28,86,146,Minor,C#,164.88,Rihanna
+43,Midnight Story,Lady Gaga,2019,49055211,79,98,48,52,116,Major,A#,49.06,Lady Gaga
+44,Neon Feelings,Bad Bunny,2024,57354336,55,62,14,27,85,Minor,G,57.35,Bad Bunny
+45,Golden Skies (Acoustic),Lady Gaga,2019,65570146,28,41,80,75,122,Major,D,65.57,Lady Gaga
+46,Ocean Story,Zach Bryan,2024,68432029,53,31,16,53,142,Major,C,68.43,Zach Bryan
+47,Golden Rivers,Calvin Harris,2022,21612441,82,24,66,10,169,Major,A#,21.61,Calvin Harris
+48,Silver Skies (Live),Ariana Grande,2024,68737207,63,66,68,53,175,Minor,D#,68.74,Ariana Grande
+49,Dance Shadows (Live),OneRepublic,2019,38584027,26,91,46,39,150,Minor,A#,38.58,OneRepublic
+50,Neon Times (Acoustic),Tiësto,2023,50660220,54,58,49,44,128,Major,C,50.66,Tiësto
+51,Dreams Moments (Remix),Avicii,2019,52202076,30,71,44,84,100,Major,A,52.2,Avicii
+52,Rain Rivers,The Chainsmokers,2022,84636649,37,52,42,41,112,Major,E,84.64,The Chainsmokers
+53,Stars Clouds,Luke Combs,2020,158859586,73,29,47,51,169,Minor,A,158.86,Luke Combs
+54,Golden Vibes,Diplo,2019,63418473,87,39,75,44,190,Major,A#,63.42,Diplo
+55,Rain Nights,Dua Lipa,2023,84933841,28,71,70,80,140,Minor,D,84.93,Dua Lipa
+56,Dreams Eyes,Drake,2018,26848374,61,75,87,64,70,Major,G,26.85,Drake
+57,Dreams Rivers,"Dua Lipa, Shakira",2018,68632450,32,64,81,36,145,Minor,C#,68.63,Dua Lipa
+58,Stars Shadows,Harry Styles,2023,30110632,85,17,56,46,194,Minor,C#,30.11,Harry Styles
+59,Summer Moments,"Miley Cyrus, Tiësto, Doja Cat",2021,140298972,76,67,15,46,101,Major,D,140.3,Miley Cyrus
+60,Electric Times,Diplo,2021,29039302,40,92,35,17,188,Minor,G#,29.04,Diplo
+61,Heart Rivers (Acoustic),"Calvin Harris, Avicii",2019,145633420,50,25,59,47,161,Minor,G#,145.63,Calvin Harris
+62,Wild Moments,"Dua Lipa, Lil Baby",2021,41459694,34,45,46,38,115,Minor,D,41.46,Dua Lipa
+63,Ocean Streets,Maroon 5,2023,41879316,87,23,56,67,166,Major,D,41.88,Maroon 5
+64,Neon Memories,Daft Punk,2024,9677059,42,76,69,80,71,Minor,F,9.68,Daft Punk
+65,Night Eyes,"Metro Boomin, Marshmello",2023,50736655,67,66,65,56,144,Major,E,50.74,Metro Boomin
+66,Golden Rivers,David Guetta,2019,75588968,74,71,31,44,135,Minor,E,75.59,David Guetta
+67,Dreams Clouds,"Diplo, Travis Scott, J. Cole, Drake",2023,8546153,39,62,67,47,158,Major,A,8.55,Diplo
+68,Midnight Lights,Ariana Grande,2020,33600945,82,30,35,17,114,Minor,A,33.6,Ariana Grande
+69,Dreams Lights,Metro Boomin,2023,96946301,83,61,13,70,111,Major,D,96.95,Metro Boomin
+70,Dreams Vibes,Daft Punk,2024,68687841,86,31,54,70,78,Minor,G,68.69,Daft Punk
+71,Night Feelings,OneRepublic,2021,31530149,84,36,92,75,137,Major,A,31.53,OneRepublic
+72,Ocean Lights (Deluxe),Lil Baby,2018,39901106,58,46,71,87,67,Minor,G,39.9,Lil Baby
+73,Fire Streets,Ed Sheeran,2022,21958522,79,49,25,57,87,Major,F,21.96,Ed Sheeran
+74,Midnight Dreams,Drake,2024,124595536,22,65,21,64,187,Minor,E,124.6,Drake
+75,Night Eyes,Zedd,2024,52993996,66,51,80,9,162,Major,C,52.99,Zedd
+76,Ocean Dreams,Chris Stapleton,2024,57956159,37,75,52,66,70,Major,C,57.96,Chris Stapleton
+77,Ocean Lights,Tiësto,2024,55203025,73,54,84,88,144,Major,A#,55.2,Tiësto
+78,Silver Roads,Calvin Harris,2019,93305932,76,68,50,19,88,Major,D#,93.31,Calvin Harris
+79,Night Moments,"Tiësto, Calvin Harris",2022,65653557,55,53,81,28,183,Major,D#,65.65,Tiësto
+80,Neon Shadows,"21 Savage, Adele",2024,28526384,64,98,66,32,70,Major,E,28.53,21 Savage
+81,Velvet Ways,"Doja Cat, Rihanna",2023,22748695,72,75,93,61,95,Major,C,22.75,Doja Cat
+82,Night Vibes,Adele,2020,31957870,24,53,11,72,186,Minor,D,31.96,Adele
+83,Velvet Rivers,Rihanna,2024,29966997,74,56,75,11,109,Minor,D,29.97,Rihanna
+84,Summer Story,Ariana Grande,2020,54682345,40,79,61,90,90,Minor,G,54.68,Ariana Grande
+85,Ocean Times,"Kanye West, Rihanna, Lady Gaga",2020,74124514,29,29,82,7,174,Minor,G#,74.12,Kanye West
+86,Fire Lights (Live),Avicii,2019,83622823,59,65,12,32,74,Minor,G#,83.62,Avicii
+87,Golden Vibes,Ed Sheeran,2019,10346617,30,84,94,17,174,Minor,F#,10.35,Ed Sheeran
+88,Summer Story (Acoustic),"Justin Bieber, Maroon 5, Kygo, Ariana Grande",2022,67333528,22,41,40,8,88,Minor,C,67.33,Justin Bieber
+89,Night Times (Live),Skrillex,2022,10556963,72,50,48,7,137,Major,D,10.56,Skrillex
+90,Neon Memories (Live),Future,2023,55982657,91,68,62,71,96,Major,G,55.98,Future
+91,Wild Vibes (Acoustic),Beyoncé,2019,19037586,21,39,37,15,113,Minor,F,19.04,Beyoncé
+92,Rain Clouds (Deluxe),21 Savage,2021,73199343,60,62,36,40,85,Minor,B,73.2,21 Savage
+93,Dance Skies (Deluxe),"SZA, The Weeknd",2023,27861549,65,32,31,69,185,Major,G,27.86,SZA
+94,Dreams Memories (Live),"J. Cole, Martin Garrix, Bad Bunny",2020,25218265,88,67,80,1,184,Major,C,25.22,J. Cole
+95,Sunset Nights,"Kygo, The Weeknd, Tiësto, Metro Boomin",2019,40934240,58,98,20,83,122,Major,B,40.93,Kygo
+96,Velvet Hills,Imagine Dragons,2018,134468358,54,24,15,87,114,Minor,B,134.47,Imagine Dragons
+97,Wild Story (Deluxe),Lil Baby,2020,143556218,30,59,74,6,158,Major,B,143.56,Lil Baby
+98,Ocean Dreams,Ed Sheeran,2023,70973752,30,52,89,31,107,Minor,A#,70.97,Ed Sheeran
+99,Stars Clouds,Travis Scott,2019,55574655,90,91,21,76,66,Minor,C#,55.57,Travis Scott
+100,Midnight Vibes (Deluxe),Taylor Swift,2024,49874265,55,53,63,61,76,Minor,D,49.87,Taylor Swift
+101,Neon Dreams,"Kendrick Lamar, Luke Combs, J. Cole",2022,27070576,81,37,50,50,142,Major,A,27.07,Kendrick Lamar
+102,Midnight Ways (Live),"David Guetta, Beyoncé, Adele",2021,396822578,28,78,62,17,113,Minor,G,396.82,David Guetta
+103,Sunset Clouds,Kendrick Lamar,2024,64405811,41,93,92,5,123,Minor,A#,64.41,Kendrick Lamar
+104,Heart Ways,OneRepublic,2023,58125357,57,25,63,14,66,Major,G,58.13,OneRepublic
+105,Rain Rivers,Bruno Mars,2022,53472015,62,69,81,59,192,Major,D,53.47,Bruno Mars
+106,Sunset Clouds,Justin Bieber,2023,78229126,66,40,51,58,86,Major,G#,78.23,Justin Bieber
+107,Wild Dreams,David Guetta,2021,99895097,34,62,33,88,90,Minor,D#,99.9,David Guetta
+108,Silver Clouds,Maroon 5,2022,220211063,65,77,11,17,175,Major,A,220.21,Maroon 5
+109,Sunset Hills,Tiësto,2023,22267726,93,49,24,69,186,Major,G#,22.27,Tiësto
+110,Rain Waves,"Chris Stapleton, Kygo",2023,12867996,74,93,31,17,113,Minor,B,12.87,Chris Stapleton
+111,Velvet Ways,Drake,2020,52100693,36,33,41,41,130,Major,A#,52.1,Drake
+112,Dance Waves,Post Malone,2019,112760982,65,83,18,50,83,Minor,B,112.76,Post Malone
+113,Forever Lights,David Guetta,2020,112113831,58,50,30,11,111,Major,B,112.11,David Guetta
+114,Fire Memories,Harry Styles,2021,36200210,21,58,11,15,117,Minor,G#,36.2,Harry Styles
+115,Dreams Feelings,Ed Sheeran,2021,91431529,39,93,62,87,149,Major,B,91.43,Ed Sheeran
+116,Heart Roads (Acoustic),Dua Lipa,2024,19844622,70,97,47,6,137,Major,D#,19.84,Dua Lipa
+117,Neon Dreams,Coldplay,2024,31189912,47,22,15,50,77,Minor,C,31.19,Coldplay
+118,Sunset Waves (Remix),Metro Boomin,2023,21852764,59,45,65,7,143,Major,F#,21.85,Metro Boomin
+119,Ocean Memories,BTS,2023,13236879,35,57,13,54,155,Minor,D,13.24,BTS
+120,Dreams Hills,"Kendrick Lamar, Zedd",2021,53521449,21,20,41,60,190,Major,C,53.52,Kendrick Lamar
+121,Sunset Times,"Justin Bieber, Bad Bunny, Avicii",2022,77305288,59,26,51,70,77,Minor,G,77.31,Justin Bieber
+122,Forever Dreams,Doja Cat,2021,49959969,21,15,52,84,119,Minor,G#,49.96,Doja Cat
+123,Summer Waves,Olivia Rodrigo,2019,26874502,70,90,19,72,84,Major,G#,26.87,Olivia Rodrigo
+124,Dance Lights (Live),Ariana Grande,2023,47520682,79,67,50,15,87,Minor,D,47.52,Ariana Grande
+125,Dance Feelings,The Chainsmokers,2023,47983607,23,72,61,71,136,Major,E,47.98,The Chainsmokers
+126,Stars Feelings,Dua Lipa,2023,60632528,76,26,26,42,65,Major,C#,60.63,Dua Lipa
+127,Silver Waves (Live),Drake,2022,42140612,90,22,71,11,135,Minor,G,42.14,Drake
+128,Crystal Times,Maroon 5,2023,54448070,48,50,13,7,106,Minor,C,54.45,Maroon 5
+129,Summer Nights,Zach Bryan,2023,25603983,92,33,82,72,67,Minor,B,25.6,Zach Bryan
+130,Night Vibes,Bruno Mars,2023,37111099,95,29,28,67,75,Major,C,37.11,Bruno Mars
+131,Heart Lights,"Metro Boomin, Imagine Dragons, Zedd",2020,106131519,68,52,49,16,151,Major,D#,106.13,Metro Boomin
+132,Night Nights,"Imagine Dragons, Zedd",2024,101198875,62,16,67,33,102,Major,A#,101.2,Imagine Dragons
+133,Heart Story,Shakira,2022,62482873,57,55,12,33,175,Major,C#,62.48,Shakira
+134,Dreams Skies (Remix),"Billie Eilish, Justin Bieber",2021,12408201,90,48,79,84,112,Minor,D#,12.41,Billie Eilish
+135,Silver Skies (feat. DJ),Dua Lipa,2019,15942582,70,77,70,84,181,Minor,C#,15.94,Dua Lipa
+136,Golden Clouds,Kygo,2022,50969056,95,85,39,7,148,Minor,G#,50.97,Kygo
+137,Neon Roads (Live),Kygo,2021,14146659,36,69,15,10,102,Major,D#,14.15,Kygo
+138,Ocean Ways,Kanye West,2023,64687263,73,33,29,72,193,Major,F#,64.69,Kanye West
+139,Velvet Shadows (Acoustic),"Avicii, Rihanna",2021,85045726,54,17,57,43,72,Minor,B,85.05,Avicii
+140,Heart Times,"Travis Scott, Metro Boomin",2024,37638682,27,35,75,8,184,Minor,G#,37.64,Travis Scott
+141,Silver Story,"Ariana Grande, Kygo",2024,12260574,50,77,57,76,91,Major,A#,12.26,Ariana Grande
+142,Golden Nights (Acoustic),Zedd,2023,25026229,54,67,93,65,117,Major,A#,25.03,Zedd
+143,Ocean Story,Ariana Grande,2023,68805715,91,91,92,77,86,Minor,C,68.81,Ariana Grande
+144,Wild Ways,Dua Lipa,2024,71776300,23,78,93,37,141,Major,A#,71.78,Dua Lipa
+145,Silver Days,"Coldplay, Skrillex",2023,145846378,36,86,43,23,135,Minor,C#,145.85,Coldplay
+146,Summer Eyes,Harry Styles,2024,64863332,68,53,77,52,109,Major,G#,64.86,Harry Styles
+147,Silver Streets,Doja Cat,2024,19715241,36,70,88,81,100,Major,G,19.72,Doja Cat
+148,Night Skies,Calvin Harris,2021,52093113,84,54,85,21,93,Minor,C#,52.09,Calvin Harris
+149,Crystal Dreams,Rihanna,2022,235457582,95,36,74,15,93,Major,D#,235.46,Rihanna
+150,Velvet Dreams,Kanye West,2024,166686235,46,16,90,38,124,Major,G,166.69,Kanye West
+151,Ocean Moments,Martin Garrix,2024,54211423,25,78,80,26,164,Major,E,54.21,Martin Garrix
+152,Dreams Feelings (Live),Beyoncé,2020,43432037,32,20,32,37,127,Major,G,43.43,Beyoncé
+153,Night Story (feat. DJ),Luke Combs,2021,87656910,34,22,26,20,182,Major,F#,87.66,Luke Combs
+154,Electric Nights,"Calvin Harris, 21 Savage",2023,25881634,63,81,76,88,140,Major,C,25.88,Calvin Harris
+155,Golden Clouds,"Lil Baby, Calvin Harris",2023,13730128,26,43,74,70,121,Minor,F,13.73,Lil Baby
+156,Electric Roads,Beyoncé,2024,81188548,58,86,75,26,200,Major,C,81.19,Beyoncé
+157,Electric Lights,"Lady Gaga, SZA",2023,78657598,25,78,31,17,193,Major,F,78.66,Lady Gaga
+158,Rain Feelings (Live),Kendrick Lamar,2020,31886424,83,82,10,6,177,Major,A#,31.89,Kendrick Lamar
+159,Silver Nights (feat. DJ),"Calvin Harris, Justin Bieber, Metro Boomin",2019,176197307,90,85,50,80,95,Minor,F#,176.2,Calvin Harris
+160,Golden Moments (feat. DJ),"Diplo, 21 Savage",2022,70638334,21,28,76,3,196,Minor,E,70.64,Diplo
+161,Dance Nights (Acoustic),Lil Baby,2020,32352938,26,64,58,53,190,Minor,B,32.35,Lil Baby
+162,Dance Days,Drake,2023,85232911,29,37,33,65,135,Major,G,85.23,Drake
+163,Dance Moments,OneRepublic,2023,96147955,60,43,77,23,200,Major,F,96.15,OneRepublic
+164,Velvet Clouds,Billie Eilish,2020,41892862,51,56,15,48,148,Major,G,41.89,Billie Eilish
+165,Forever Story (Acoustic),Kendrick Lamar,2022,39921120,74,41,23,68,76,Major,D#,39.92,Kendrick Lamar
+166,Love Streets (Remix),"Ed Sheeran, Billie Eilish",2019,45756755,22,30,59,68,163,Minor,F#,45.76,Ed Sheeran
+167,Golden Rivers,"Bad Bunny, Harry Styles",2023,15568428,38,97,48,47,160,Minor,G#,15.57,Bad Bunny
+168,Love Roads,Post Malone,2022,54221172,44,38,24,85,107,Minor,D#,54.22,Post Malone
+169,Dreams Eyes,Marshmello,2021,83110841,59,34,84,72,184,Minor,G,83.11,Marshmello
+170,Wild Times (Live),OneRepublic,2021,103654782,55,83,27,25,104,Major,A#,103.65,OneRepublic
+171,Love Roads,"The Weeknd, J. Cole",2023,58932173,70,79,56,1,178,Major,G#,58.93,The Weeknd
+172,Crystal Moments,Future,2020,41106210,49,41,15,66,76,Minor,E,41.11,Future
+173,Wild Feelings (Deluxe),"Calvin Harris, Bad Bunny, Lil Baby",2023,48795129,86,60,61,44,124,Major,F#,48.8,Calvin Harris
+174,Stars Streets,Taylor Swift,2019,23361242,81,90,36,20,89,Minor,G,23.36,Taylor Swift
+175,Silver Roads,Beyoncé,2023,15995617,81,43,31,52,115,Minor,G,16.0,Beyoncé
+176,Crystal Ways,Zach Bryan,2023,48879075,24,79,78,15,84,Minor,D,48.88,Zach Bryan
+177,Sunset Rivers,"Ariana Grande, Daft Punk, Taylor Swift",2024,45530948,56,84,86,52,182,Major,D#,45.53,Ariana Grande
+178,Silver Rivers,"Metro Boomin, Taylor Swift",2018,44563323,55,41,60,52,168,Minor,A,44.56,Metro Boomin
+179,Velvet Hills,Justin Bieber,2021,88006229,40,96,59,0,200,Major,A,88.01,Justin Bieber
+180,Dreams Ways,Skrillex,2019,140372863,76,40,11,84,104,Minor,A#,140.37,Skrillex
+181,Crystal Times,"Bad Bunny, Martin Garrix",2023,48976343,31,51,80,71,63,Major,B,48.98,Bad Bunny
+182,Rain Streets (Deluxe),Travis Scott,2018,44822646,68,76,82,31,124,Minor,B,44.82,Travis Scott
+183,Silver Story,Future,2021,49601556,63,85,19,22,133,Minor,C#,49.6,Future
+184,Fire Days,"Olivia Rodrigo, Rihanna",2020,29856716,20,20,79,61,80,Minor,A#,29.86,Olivia Rodrigo
+185,Fire Rivers,"Avicii, David Guetta",2020,17221481,60,16,11,86,90,Minor,B,17.22,Avicii
+186,Ocean Ways,Dua Lipa,2021,71997080,43,31,83,73,162,Minor,E,72.0,Dua Lipa
+187,Summer Skies,Morgan Wallen,2021,27877347,70,35,22,7,136,Major,E,27.88,Morgan Wallen
+188,Wild Ways,Kanye West,2022,10810371,77,63,20,78,150,Minor,F,10.81,Kanye West
+189,Wild Waves,"Post Malone, J. Cole",2022,24781363,41,17,33,16,193,Minor,G,24.78,Post Malone
+190,Dreams Days,"Kendrick Lamar, Metro Boomin, Chris Stapleton",2019,44888742,51,71,46,80,159,Major,E,44.89,Kendrick Lamar
+191,Golden Lights (Live),Billie Eilish,2024,74621363,81,44,79,11,196,Minor,E,74.62,Billie Eilish
+192,Forever Story,Maroon 5,2023,44718303,49,85,10,47,62,Minor,F#,44.72,Maroon 5
+193,Fire Clouds (feat. DJ),OneRepublic,2021,41505167,37,29,47,81,108,Major,C#,41.51,OneRepublic
+194,Rain Lights,21 Savage,2018,101081464,83,58,37,53,83,Major,D,101.08,21 Savage
+195,Night Lights,Marshmello,2023,68488293,51,40,14,58,123,Minor,F#,68.49,Marshmello
+196,Forever Lights,"Lil Baby, Calvin Harris, Coldplay, 21 Savage",2023,46899334,75,16,51,21,115,Major,C#,46.9,Lil Baby
+197,Summer Story (Deluxe),BTS,2023,55118174,88,31,23,62,151,Major,A#,55.12,BTS
+198,Rain Story,"J. Cole, The Chainsmokers",2021,14424645,61,50,69,76,107,Minor,G#,14.42,J. Cole
+199,Forever Ways,Martin Garrix,2022,84127282,87,85,73,19,197,Major,F#,84.13,Martin Garrix
+200,Heart Feelings,Maroon 5,2019,9235428,26,43,56,77,185,Minor,G#,9.24,Maroon 5
+201,Dreams Streets (Remix),Olivia Rodrigo,2021,92521879,49,64,78,24,192,Major,C#,92.52,Olivia Rodrigo
+202,Fire Skies (Live),Beyoncé,2023,72454512,40,91,78,56,162,Minor,G#,72.45,Beyoncé
+203,Sunset Lights,"Adele, OneRepublic",2022,187586377,58,53,10,28,64,Major,G#,187.59,Adele
+204,Dance Skies,"Zach Bryan, 21 Savage",2022,11908478,93,87,61,27,125,Major,E,11.91,Zach Bryan
+205,Silver Feelings,Calvin Harris,2021,71655956,26,82,49,5,62,Minor,A#,71.66,Calvin Harris
+206,Summer Moments,Post Malone,2023,96244553,93,85,16,51,146,Minor,C#,96.24,Post Malone
+207,Stars Moments,Tiësto,2020,55955392,74,59,56,24,82,Minor,C#,55.96,Tiësto
+208,Forever Nights (Deluxe),J. Cole,2023,26232738,51,33,89,36,88,Major,B,26.23,J. Cole
+209,Love Lights,Bruno Mars,2022,114341520,41,51,17,25,194,Minor,C,114.34,Bruno Mars
+210,Love Vibes,Marshmello,2021,12554850,88,38,21,25,85,Minor,F,12.55,Marshmello
+211,Summer Rivers,Metro Boomin,2022,9771928,91,43,45,19,125,Major,F#,9.77,Metro Boomin
+212,Midnight Rivers (Deluxe),Ariana Grande,2024,45105361,37,84,84,87,198,Major,D,45.11,Ariana Grande
+213,Stars Waves (feat. DJ),"21 Savage, Martin Garrix",2023,28769932,55,39,29,13,165,Minor,E,28.77,21 Savage
+214,Silver Dreams,"Chris Stapleton, Diplo, Travis Scott, Skrillex",2020,32323771,82,32,70,20,155,Minor,D,32.32,Chris Stapleton
+215,Dance Waves,"Maroon 5, Taylor Swift",2023,20436537,60,93,60,73,163,Minor,C,20.44,Maroon 5
+216,Crystal Feelings,"J. Cole, Bad Bunny",2023,80781911,58,74,46,21,134,Minor,G,80.78,J. Cole
+217,Stars Streets (Live),Drake,2019,51383351,52,98,51,20,111,Major,G,51.38,Drake
+218,Golden Vibes,"BTS, J. Cole",2021,25712472,73,54,49,57,97,Major,D,25.71,BTS
+219,Dance Story,"Ariana Grande, Taylor Swift, Kanye West",2024,12110780,26,33,33,7,200,Major,E,12.11,Ariana Grande
+220,Silver Dreams,"Post Malone, Future",2024,256059852,24,53,21,41,105,Minor,G,256.06,Post Malone
+221,Velvet Vibes,Chris Stapleton,2020,35882455,53,88,77,79,133,Minor,F#,35.88,Chris Stapleton
+222,Neon Hills (Deluxe),Avicii,2020,5962542,62,86,54,81,166,Major,F#,5.96,Avicii
+223,Dance Vibes,Doja Cat,2022,6283458,80,97,14,17,146,Minor,A#,6.28,Doja Cat
+224,Wild Streets (Live),"Marshmello, Daft Punk",2024,58926440,39,18,45,43,144,Major,F,58.93,Marshmello
+225,Fire Dreams,Avicii,2023,69173930,34,19,57,25,194,Major,E,69.17,Avicii
+226,Stars Days,"The Weeknd, Martin Garrix",2022,32528351,86,15,24,39,69,Minor,G,32.53,The Weeknd
+227,Crystal Eyes,"Marshmello, Dua Lipa",2023,34452988,46,59,79,70,89,Major,C,34.45,Marshmello
+228,Summer Nights,"Metro Boomin, Avicii",2023,37186284,95,72,90,78,169,Major,F#,37.19,Metro Boomin
+229,Velvet Vibes (Live),"Doja Cat, Future",2022,41395063,43,57,95,41,126,Minor,F,41.4,Doja Cat
+230,Golden Hills,Ed Sheeran,2020,51481724,95,45,62,79,196,Minor,G,51.48,Ed Sheeran
+231,Wild Days (Deluxe),Calvin Harris,2022,57287331,76,54,32,51,178,Major,F,57.29,Calvin Harris
+232,Wild Hills,"Skrillex, Coldplay",2019,56004672,93,40,67,26,196,Minor,E,56.0,Skrillex
+233,Forever Waves (Acoustic),"Avicii, 21 Savage",2024,309934476,23,70,40,89,151,Minor,C#,309.93,Avicii
+234,Midnight Waves,"Adele, Maroon 5",2023,36688695,38,70,72,17,62,Major,C#,36.69,Adele
+235,Ocean Waves,"Maroon 5, Metro Boomin",2022,57997470,24,87,14,61,199,Minor,A,58.0,Maroon 5
+236,Dreams Moments (Deluxe),Zedd,2024,44003206,26,83,53,1,198,Minor,A,44.0,Zedd
+237,Wild Waves,Calvin Harris,2024,17020112,57,18,89,36,103,Major,A,17.02,Calvin Harris
+238,Dance Ways,Tiësto,2021,27900121,82,82,33,4,126,Major,B,27.9,Tiësto
+239,Sunset Clouds,"Skrillex, Post Malone, David Guetta",2022,41164973,88,63,39,87,181,Minor,E,41.16,Skrillex
+240,Sunset Story,Kendrick Lamar,2023,140142878,54,47,22,83,129,Minor,F,140.14,Kendrick Lamar
+241,Summer Roads (Deluxe),Zach Bryan,2021,53545864,52,19,34,3,116,Minor,B,53.55,Zach Bryan
+242,Rain Dreams,Skrillex,2023,54036676,79,24,94,81,107,Minor,E,54.04,Skrillex
+243,Fire Vibes,"21 Savage, Adele, Kendrick Lamar",2019,12627334,89,42,65,78,185,Major,C#,12.63,21 Savage
+244,Night Vibes,Metro Boomin,2023,46652213,85,76,72,55,144,Major,F#,46.65,Metro Boomin
+245,Neon Feelings,SZA,2024,42604202,69,39,94,38,111,Major,D,42.6,SZA
+246,Neon Vibes (Live),Kanye West,2023,18573406,24,22,53,43,196,Major,G,18.57,Kanye West
+247,Crystal Streets (Deluxe),BTS,2020,10326770,59,73,22,78,104,Major,A#,10.33,BTS
+248,Ocean Times,BTS,2020,48688508,35,33,45,53,104,Major,F,48.69,BTS
+249,Silver Memories,Billie Eilish,2023,90868524,46,96,28,34,181,Major,B,90.87,Billie Eilish
+250,Night Dreams,"Beyoncé, Kanye West, Metro Boomin",2022,39584217,79,41,90,35,152,Major,G#,39.58,Beyoncé
+251,Neon Hills,Post Malone,2023,77425518,82,29,75,9,105,Major,D,77.43,Post Malone
+252,Rain Lights,Zedd,2019,58233594,78,64,32,47,171,Major,D,58.23,Zedd
+253,Dance Days,Kanye West,2018,28494380,31,81,62,62,103,Major,A,28.49,Kanye West
+254,Sunset Times,Travis Scott,2022,63999194,81,72,22,63,68,Minor,F#,64.0,Travis Scott
+255,Sunset Days,Chris Stapleton,2021,11357298,43,95,57,59,95,Minor,B,11.36,Chris Stapleton
+256,Wild Rivers,Ed Sheeran,2022,94165592,26,64,24,46,191,Minor,A#,94.17,Ed Sheeran
+257,Velvet Vibes,Lady Gaga,2023,42749758,55,23,16,47,150,Minor,E,42.75,Lady Gaga
+258,Heart Hills (Deluxe),Tiësto,2024,93433109,56,28,19,21,80,Major,F#,93.43,Tiësto
+259,Rain Rivers (Remix),David Guetta,2021,25729594,61,90,72,85,145,Minor,F#,25.73,David Guetta
+260,Silver Moments (Acoustic),The Chainsmokers,2020,60748126,88,38,46,22,102,Major,A,60.75,The Chainsmokers
+261,Wild Roads,Beyoncé,2021,112742768,83,73,28,40,91,Minor,C,112.74,Beyoncé
+262,Forever Hills (Deluxe),Tiësto,2023,53784601,77,26,55,41,66,Major,F#,53.78,Tiësto
+263,Dance Days,Martin Garrix,2022,64792032,67,62,59,1,97,Minor,B,64.79,Martin Garrix
+264,Electric Waves (Acoustic),"Bruno Mars, Avicii, Harry Styles, Olivia Rodrigo",2020,39369296,31,67,10,81,145,Minor,C#,39.37,Bruno Mars
+265,Silver Moments,Daft Punk,2023,40104492,35,51,93,53,127,Minor,E,40.1,Daft Punk
+266,Dance Hills (Remix),Beyoncé,2022,78647792,53,89,30,7,191,Major,B,78.65,Beyoncé
+267,Fire Memories,21 Savage,2022,35694484,54,27,56,68,142,Minor,F,35.69,21 Savage
+268,Forever Shadows (Live),Taylor Swift,2021,24013800,36,76,12,44,177,Major,C#,24.01,Taylor Swift
+269,Crystal Lights,"The Chainsmokers, Diplo",2021,17304261,81,20,65,25,88,Major,C#,17.3,The Chainsmokers
+270,Neon Feelings (Remix),Tiësto,2019,34810709,38,89,45,44,149,Major,C,34.81,Tiësto
+271,Crystal Roads,"Zach Bryan, Beyoncé",2023,52378395,43,63,55,54,107,Major,G,52.38,Zach Bryan
+272,Wild Feelings,Maroon 5,2022,76806756,76,85,38,52,132,Minor,G,76.81,Maroon 5
+273,Golden Nights,"Ed Sheeran, David Guetta",2023,55883718,45,66,86,15,153,Minor,D#,55.88,Ed Sheeran
+274,Silver Ways (Live),"Travis Scott, Skrillex",2021,220016042,37,27,13,6,185,Major,G,220.02,Travis Scott
+275,Wild Moments,"The Weeknd, Imagine Dragons, Diplo, 21 Savage",2023,117508035,35,72,59,40,64,Minor,C,117.51,The Weeknd
+276,Velvet Eyes (feat. DJ),Bad Bunny,2022,58835264,70,78,43,75,100,Major,G#,58.84,Bad Bunny
+277,Silver Memories,Adele,2021,19952858,59,25,85,88,122,Major,D#,19.95,Adele
+278,Velvet Lights,Miley Cyrus,2023,161701072,82,41,22,43,159,Major,F,161.7,Miley Cyrus
+279,Forever Shadows (feat. DJ),Miley Cyrus,2022,54115333,54,87,18,67,84,Minor,A,54.12,Miley Cyrus
+280,Forever Rivers (Live),"Shakira, Lil Baby",2023,55315155,47,74,94,34,192,Minor,D,55.32,Shakira
+281,Night Rivers,"Zach Bryan, Avicii, Morgan Wallen",2022,87481821,71,29,40,19,101,Major,E,87.48,Zach Bryan
+282,Velvet Waves,Bruno Mars,2024,27858553,22,25,17,40,70,Minor,B,27.86,Bruno Mars
+283,Dreams Clouds (feat. DJ),"Maroon 5, Future",2020,177535087,50,42,64,18,140,Minor,F,177.54,Maroon 5
+284,Dance Roads,Travis Scott,2022,53846384,59,97,12,77,181,Minor,B,53.85,Travis Scott
+285,Midnight Eyes,Beyoncé,2023,150886436,60,67,92,4,113,Minor,D,150.89,Beyoncé
+286,Sunset Feelings (Acoustic),"Calvin Harris, Miley Cyrus",2022,124506342,37,66,10,25,107,Minor,A#,124.51,Calvin Harris
+287,Fire Times,Avicii,2024,48094055,67,65,33,48,110,Minor,C#,48.09,Avicii
+288,Summer Vibes (feat. DJ),"The Weeknd, Lil Baby, Kanye West",2021,72861426,78,30,73,28,90,Minor,C,72.86,The Weeknd
+289,Neon Clouds,Travis Scott,2024,65482509,94,73,92,10,175,Minor,D#,65.48,Travis Scott
+290,Midnight Waves (Acoustic),"Adele, Maroon 5, 21 Savage, Olivia Rodrigo",2019,13082987,58,62,60,16,124,Minor,G#,13.08,Adele
+291,Crystal Hills (Live),Justin Bieber,2020,71301537,86,70,50,21,127,Minor,A,71.3,Justin Bieber
+292,Electric Memories,"Daft Punk, Future",2019,51249509,78,29,73,18,173,Minor,F,51.25,Daft Punk
+293,Fire Rivers (Deluxe),"Olivia Rodrigo, Justin Bieber",2024,410221557,56,65,25,47,84,Major,F,410.22,Olivia Rodrigo
+294,Electric Hills,Post Malone,2024,8261327,61,24,17,70,72,Minor,A#,8.26,Post Malone
+295,Summer Clouds,Imagine Dragons,2024,46315978,67,40,75,62,93,Major,F,46.32,Imagine Dragons
+296,Sunset Vibes (Acoustic),Travis Scott,2023,37958620,57,70,69,10,194,Major,A#,37.96,Travis Scott
+297,Forever Times,Ariana Grande,2021,43822160,34,74,94,22,80,Major,G#,43.82,Ariana Grande
+298,Forever Lights,Bad Bunny,2022,149924523,75,17,78,0,126,Major,A#,149.92,Bad Bunny
+299,Electric Clouds (Deluxe),Billie Eilish,2023,74063293,23,76,36,83,88,Major,C,74.06,Billie Eilish
+300,Rain Vibes,"Kanye West, Kygo",2022,7531260,45,87,47,50,175,Major,A,7.53,Kanye West
+301,Sunset Waves (Deluxe),Dua Lipa,2022,14154563,90,49,18,82,64,Minor,F#,14.15,Dua Lipa
+302,Golden Streets,David Guetta,2018,33015316,69,98,63,46,179,Minor,D,33.02,David Guetta
+303,Dreams Hills,Diplo,2020,36528952,42,19,74,8,151,Major,A#,36.53,Diplo
+304,Velvet Times,Diplo,2024,24072856,33,93,88,13,172,Major,G,24.07,Diplo
+305,Heart Days (feat. DJ),Dua Lipa,2023,74780872,80,51,53,64,166,Major,C,74.78,Dua Lipa
+306,Golden Times,"Lady Gaga, OneRepublic",2023,24334838,86,25,18,43,173,Major,D,24.33,Lady Gaga
+307,Night Moments (Remix),OneRepublic,2024,186478674,71,97,67,26,131,Major,G#,186.48,OneRepublic
+308,Rain Eyes,J. Cole,2022,26642139,22,84,13,75,147,Major,A#,26.64,J. Cole
+309,Crystal Feelings (Acoustic),Morgan Wallen,2021,14176866,64,51,48,85,196,Major,A,14.18,Morgan Wallen
+310,Wild Rivers,"Martin Garrix, Dua Lipa",2023,14021785,29,82,57,51,181,Minor,D#,14.02,Martin Garrix
+311,Dance Roads,Zach Bryan,2022,104256644,78,19,70,20,90,Major,B,104.26,Zach Bryan
+312,Heart Shadows,"Skrillex, BTS",2018,44443595,56,38,37,62,167,Minor,C,44.44,Skrillex
+313,Night Waves,Shakira,2021,56387758,31,94,89,52,174,Minor,D,56.39,Shakira
+314,Electric Ways,Miley Cyrus,2024,100918397,92,39,76,60,198,Major,A,100.92,Miley Cyrus
+315,Dance Days,"Lil Baby, Justin Bieber, The Weeknd",2023,34101902,68,26,42,14,66,Minor,G#,34.1,Lil Baby
+316,Dance Vibes,Rihanna,2024,20332512,53,30,58,6,96,Minor,F#,20.33,Rihanna
+317,Crystal Rivers,Zedd,2019,75064334,77,96,20,64,92,Minor,E,75.06,Zedd
+318,Velvet Streets,"Kygo, Beyoncé, Daft Punk, OneRepublic",2023,281789812,94,51,75,5,157,Major,F,281.79,Kygo
+319,Midnight Feelings (Deluxe),Ed Sheeran,2024,89041881,63,73,36,76,122,Minor,A#,89.04,Ed Sheeran
+320,Love Story,"J. Cole, Skrillex, Calvin Harris",2022,110289832,65,91,58,45,173,Major,A#,110.29,J. Cole
+321,Rain Streets,BTS,2023,37236745,20,96,35,50,131,Major,G,37.24,BTS
+322,Velvet Days,Tiësto,2022,53972939,88,47,88,87,130,Major,D#,53.97,Tiësto
+323,Night Lights,OneRepublic,2024,73117509,70,57,34,10,174,Major,F,73.12,OneRepublic
+324,Dreams Times,21 Savage,2021,53332818,50,21,53,42,123,Minor,C#,53.33,21 Savage
+325,Electric Feelings,Zach Bryan,2022,11810341,91,52,16,48,86,Major,A#,11.81,Zach Bryan
+326,Ocean Dreams,Chris Stapleton,2021,53184261,21,23,86,75,109,Major,C#,53.18,Chris Stapleton
+327,Dance Shadows,Ariana Grande,2023,25527798,80,92,49,43,198,Major,D,25.53,Ariana Grande
+328,Stars Memories,Martin Garrix,2023,14998909,79,57,86,74,108,Minor,A#,15.0,Martin Garrix
+329,Fire Feelings,Bruno Mars,2023,86132389,20,16,56,9,112,Major,F#,86.13,Bruno Mars
+330,Electric Days,BTS,2024,9062290,22,48,32,12,122,Major,D,9.06,BTS
+331,Wild Days,"J. Cole, BTS",2020,78824051,67,91,50,54,109,Minor,G#,78.82,J. Cole
+332,Rain Skies,Chris Stapleton,2020,147253248,41,64,75,82,80,Major,G,147.25,Chris Stapleton
+333,Fire Lights (Deluxe),David Guetta,2023,52120663,59,63,64,73,120,Major,F#,52.12,David Guetta
+334,Dreams Eyes,Daft Punk,2021,70898610,23,71,32,29,141,Minor,E,70.9,Daft Punk
+335,Crystal Rivers,Harry Styles,2019,13557174,21,51,48,44,95,Minor,B,13.56,Harry Styles
+336,Neon Rivers (feat. DJ),"Zedd, Taylor Swift",2024,35453547,74,41,63,56,81,Major,F,35.45,Zedd
+337,Stars Eyes (Remix),Lady Gaga,2022,44746995,62,95,82,77,68,Major,D,44.75,Lady Gaga
+338,Midnight Days,"Olivia Rodrigo, Ed Sheeran, Daft Punk",2021,28765046,69,41,46,29,107,Major,D#,28.77,Olivia Rodrigo
+339,Crystal Story,Marshmello,2024,110125919,40,88,87,39,170,Minor,B,110.13,Marshmello
+340,Dance Days,Metro Boomin,2020,71150665,56,73,92,44,70,Major,B,71.15,Metro Boomin
+341,Sunset Times,"Diplo, Justin Bieber",2023,130129148,47,67,73,70,197,Major,E,130.13,Diplo
+342,Wild Waves,Chris Stapleton,2021,37315997,52,32,24,41,161,Major,C,37.32,Chris Stapleton
+343,Velvet Times (Live),Marshmello,2020,19776688,65,42,32,4,129,Minor,D,19.78,Marshmello
+344,Crystal Feelings,The Chainsmokers,2021,5666530,23,58,11,24,83,Minor,C,5.67,The Chainsmokers
+345,Fire Nights,"Dua Lipa, Future",2022,98857283,71,55,93,1,142,Major,D,98.86,Dua Lipa
+346,Dance Dreams,SZA,2019,74329305,69,57,27,22,84,Minor,A,74.33,SZA
+347,Love Dreams (Live),Calvin Harris,2021,39822727,67,52,73,25,80,Major,C,39.82,Calvin Harris
+348,Ocean Streets (Acoustic),J. Cole,2020,15170923,89,46,16,87,147,Major,D#,15.17,J. Cole
+349,Fire Streets,Coldplay,2019,19194477,79,36,49,25,189,Minor,C#,19.19,Coldplay
+350,Forever Roads,Skrillex,2023,41437507,22,69,58,10,170,Minor,D,41.44,Skrillex
+351,Fire Ways,Kygo,2021,95787035,67,77,59,39,163,Minor,F#,95.79,Kygo
+352,Fire Days (Acoustic),"Bad Bunny, Ariana Grande, Imagine Dragons, Zedd",2023,103740708,24,95,56,90,123,Minor,D#,103.74,Bad Bunny
+353,Ocean Streets (feat. DJ),J. Cole,2021,170963390,74,53,42,64,108,Major,F#,170.96,J. Cole
+354,Dreams Feelings,"Bruno Mars, Zach Bryan",2023,20668160,28,82,63,53,185,Major,C,20.67,Bruno Mars
+355,Fire Moments,Billie Eilish,2020,139734151,30,25,47,48,87,Major,A#,139.73,Billie Eilish
+356,Summer Hills,Miley Cyrus,2023,65323985,80,92,53,54,193,Minor,E,65.32,Miley Cyrus
+357,Midnight Clouds,"Miley Cyrus, Beyoncé, Coldplay, Future",2024,11771077,67,94,67,87,131,Major,B,11.77,Miley Cyrus
+358,Love Lights,Maroon 5,2021,67399865,69,92,47,24,169,Major,G,67.4,Maroon 5
+359,Crystal Memories,"Avicii, Morgan Wallen",2023,284964130,23,56,30,49,82,Minor,C#,284.96,Avicii
+360,Neon Feelings,Morgan Wallen,2024,42819674,91,44,65,28,147,Minor,F#,42.82,Morgan Wallen
+361,Wild Roads (Remix),Harry Styles,2022,132947886,86,92,94,75,153,Major,A#,132.95,Harry Styles
+362,Electric Lights,Taylor Swift,2024,43155129,47,52,73,90,91,Minor,E,43.16,Taylor Swift
+363,Summer Memories (feat. DJ),"Post Malone, SZA",2024,164134303,87,51,46,89,160,Major,F#,164.13,Post Malone
+364,Silver Memories (Acoustic),Dua Lipa,2022,25297792,38,69,58,86,62,Major,F,25.3,Dua Lipa
+365,Crystal Lights,"Shakira, Justin Bieber, Drake, BTS",2024,44144379,55,98,90,56,82,Minor,G,44.14,Shakira
+366,Neon Rivers,BTS,2022,60239190,28,38,78,51,92,Minor,C#,60.24,BTS
+367,Neon Vibes,"Daft Punk, Martin Garrix",2022,57344147,25,88,26,26,174,Major,F,57.34,Daft Punk
+368,Night Vibes (Deluxe),Daft Punk,2021,201534053,37,77,83,88,135,Minor,A#,201.53,Daft Punk
+369,Rain Feelings,Skrillex,2018,21398208,53,98,58,20,168,Minor,C#,21.4,Skrillex
+370,Stars Skies,Kendrick Lamar,2023,62109940,68,92,13,31,99,Minor,F,62.11,Kendrick Lamar
+371,Velvet Waves,Kygo,2023,28260712,95,27,72,67,104,Minor,G#,28.26,Kygo
+372,Night Nights,Travis Scott,2023,84194136,36,63,28,72,191,Major,B,84.19,Travis Scott
+373,Golden Times,Morgan Wallen,2022,231395176,60,96,21,10,82,Minor,E,231.4,Morgan Wallen
+374,Dreams Eyes,Billie Eilish,2022,179757209,44,69,10,89,91,Major,F#,179.76,Billie Eilish
+375,Crystal Dreams,Luke Combs,2022,165416459,51,30,79,37,155,Minor,C#,165.42,Luke Combs
+376,Silver Clouds,Kendrick Lamar,2021,34328143,65,15,23,44,177,Minor,F,34.33,Kendrick Lamar
+377,Sunset Hills,Shakira,2022,56670916,33,71,66,20,106,Minor,G#,56.67,Shakira
+378,Rain Feelings,Taylor Swift,2018,111182508,36,66,51,64,167,Minor,G,111.18,Taylor Swift
+379,Stars Shadows,"BTS, The Weeknd, Post Malone",2023,48895105,51,29,45,33,99,Major,B,48.9,BTS
+380,Heart Rivers,OneRepublic,2020,57794032,31,63,16,52,169,Major,C,57.79,OneRepublic
+381,Sunset Hills,SZA,2022,17565817,80,92,45,12,142,Minor,D#,17.57,SZA
+382,Forever Feelings,David Guetta,2018,21117328,31,31,23,80,130,Minor,D#,21.12,David Guetta
+383,Rain Streets (Remix),"Zedd, Lil Baby, Doja Cat",2024,68706367,35,23,65,61,148,Minor,F,68.71,Zedd
+384,Dance Moments,The Weeknd,2024,49733719,91,66,59,77,172,Minor,G#,49.73,The Weeknd
+385,Rain Roads,Taylor Swift,2024,102468333,57,96,15,18,71,Major,G#,102.47,Taylor Swift
+386,Summer Days,Drake,2018,263536926,61,95,17,1,94,Minor,F#,263.54,Drake
+387,Love Skies,Justin Bieber,2024,149594547,49,62,65,18,161,Minor,D,149.59,Justin Bieber
+388,Fire Days,Justin Bieber,2024,24606320,51,97,68,51,96,Minor,C#,24.61,Justin Bieber
+389,Ocean Feelings,"Morgan Wallen, Taylor Swift",2018,223780646,30,32,35,61,87,Minor,G#,223.78,Morgan Wallen
+390,Stars Times,Bruno Mars,2023,13638431,49,64,64,18,60,Major,D#,13.64,Bruno Mars
+391,Heart Hills,Future,2019,32044727,74,53,29,79,195,Major,F,32.04,Future
+392,Dance Vibes (feat. DJ),"Travis Scott, Future, Coldplay",2023,24768381,38,56,21,16,169,Minor,B,24.77,Travis Scott
+393,Neon Waves,Adele,2023,214837823,87,43,83,89,81,Minor,A,214.84,Adele
+394,Love Shadows,Taylor Swift,2024,45421001,48,32,17,15,167,Major,D#,45.42,Taylor Swift
+395,Sunset Shadows,Morgan Wallen,2019,126620982,37,53,77,60,98,Minor,D,126.62,Morgan Wallen
+396,Forever Feelings,J. Cole,2024,32182290,49,35,64,34,126,Minor,A,32.18,J. Cole
+397,Ocean Memories,"Ariana Grande, Maroon 5",2020,157697734,44,28,44,13,155,Minor,A#,157.7,Ariana Grande
+398,Summer Eyes,"Zach Bryan, The Weeknd",2019,16542418,92,20,71,6,128,Major,C#,16.54,Zach Bryan
+399,Crystal Days,"Taylor Swift, Zach Bryan, Bruno Mars, Maroon 5",2021,17724710,39,25,69,80,69,Major,E,17.72,Taylor Swift
+400,Fire Rivers,Future,2023,49990973,29,87,29,80,159,Major,D#,49.99,Future
+401,Velvet Vibes,"Post Malone, Adele",2022,17326870,35,77,82,5,173,Major,A#,17.33,Post Malone
+402,Stars Streets,"Maroon 5, 21 Savage",2023,26809019,57,35,58,72,62,Major,D,26.81,Maroon 5
+403,Dreams Shadows,"Coldplay, Future",2023,13611201,47,29,70,35,147,Minor,A,13.61,Coldplay
+404,Rain Lights,"Post Malone, Billie Eilish, J. Cole",2024,90062307,30,23,28,35,124,Major,A#,90.06,Post Malone
+405,Sunset Rivers,Metro Boomin,2024,9719667,75,88,55,49,181,Major,G#,9.72,Metro Boomin
+406,Silver Dreams,Doja Cat,2023,26740902,77,96,26,57,164,Major,E,26.74,Doja Cat
+407,Sunset Skies (Deluxe),"Olivia Rodrigo, Doja Cat",2021,102607970,72,60,62,45,187,Minor,A#,102.61,Olivia Rodrigo
+408,Fire Streets,Chris Stapleton,2020,73043649,72,78,23,79,86,Major,C#,73.04,Chris Stapleton
+409,Night Eyes (feat. DJ),The Chainsmokers,2020,35531038,54,48,94,39,155,Minor,D#,35.53,The Chainsmokers
+410,Sunset Memories,Beyoncé,2020,130897626,26,69,83,16,160,Minor,D#,130.9,Beyoncé
+411,Sunset Times,"Imagine Dragons, Kygo, Billie Eilish",2023,101713267,21,90,90,19,83,Minor,C,101.71,Imagine Dragons
+412,Stars Streets,Avicii,2023,197234984,55,33,20,80,126,Major,A#,197.23,Avicii
+413,Stars Eyes,"Marshmello, BTS, Dua Lipa",2020,124368931,77,38,30,38,167,Minor,F#,124.37,Marshmello
+414,Night Feelings (Acoustic),Avicii,2022,41953173,47,29,56,27,65,Major,G#,41.95,Avicii
+415,Stars Ways,SZA,2020,101123713,70,89,23,75,110,Minor,A#,101.12,SZA
+416,Electric Waves,Morgan Wallen,2021,27445238,95,52,62,77,102,Minor,C,27.45,Morgan Wallen
+417,Fire Lights,Imagine Dragons,2020,47173469,69,92,46,27,142,Major,D#,47.17,Imagine Dragons
+418,Ocean Vibes,Daft Punk,2023,51647088,35,36,67,76,130,Major,F#,51.65,Daft Punk
+419,Love Roads (Live),Avicii,2021,176880821,91,78,50,78,148,Major,F#,176.88,Avicii
+420,Golden Dreams,"21 Savage, David Guetta, J. Cole, BTS",2020,93103838,26,20,43,14,154,Major,G#,93.1,21 Savage
+421,Ocean Clouds,Kendrick Lamar,2020,42033063,82,56,45,61,195,Minor,D#,42.03,Kendrick Lamar
+422,Dreams Shadows,Zach Bryan,2024,48606619,33,41,53,75,158,Minor,D#,48.61,Zach Bryan
+423,Electric Moments (Remix),"Adele, Bruno Mars",2024,182843777,33,45,24,2,86,Minor,D,182.84,Adele
+424,Crystal Streets,The Weeknd,2019,50458796,26,63,93,54,129,Major,F,50.46,The Weeknd
+425,Dance Rivers,Imagine Dragons,2022,19914757,71,65,60,12,85,Major,E,19.91,Imagine Dragons
+426,Rain Shadows,Olivia Rodrigo,2023,5895907,41,57,33,58,103,Major,F,5.9,Olivia Rodrigo
+427,Love Nights (Remix),Calvin Harris,2020,161919121,38,27,22,38,134,Major,D#,161.92,Calvin Harris
+428,Dance Hills,"David Guetta, Daft Punk",2022,108485257,38,78,55,3,97,Major,F#,108.49,David Guetta
+429,Midnight Feelings (Deluxe),"Olivia Rodrigo, Doja Cat",2024,23622578,35,73,65,72,193,Minor,B,23.62,Olivia Rodrigo
+430,Stars Streets,"BTS, Tiësto, 21 Savage",2022,104249660,95,21,25,62,70,Minor,D#,104.25,BTS
+431,Love Memories,Shakira,2021,95152242,24,60,70,31,80,Major,E,95.15,Shakira
+432,Forever Dreams,"Imagine Dragons, Dua Lipa, Kendrick Lamar",2022,52552342,92,74,90,69,138,Minor,C#,52.55,Imagine Dragons
+433,Electric Lights,Dua Lipa,2023,50175549,51,80,84,47,95,Minor,A,50.18,Dua Lipa
+434,Midnight Moments,Rihanna,2018,9666997,27,89,25,86,183,Minor,B,9.67,Rihanna
+435,Neon Moments,Martin Garrix,2023,70574371,51,28,36,60,90,Major,G#,70.57,Martin Garrix
+436,Heart Eyes,Imagine Dragons,2024,58447418,50,80,31,89,65,Major,D,58.45,Imagine Dragons
+437,Heart Roads,Calvin Harris,2023,22348970,37,73,69,35,173,Minor,C,22.35,Calvin Harris
+438,Rain Shadows (Deluxe),"Tiësto, Martin Garrix",2021,59747743,81,75,58,77,137,Major,F#,59.75,Tiësto
+439,Dance Moments,"Metro Boomin, Lil Baby, Martin Garrix",2022,100888947,33,64,32,53,119,Major,B,100.89,Metro Boomin
+440,Dreams Streets (Deluxe),Kendrick Lamar,2023,30585414,56,40,38,20,124,Minor,G,30.59,Kendrick Lamar
+441,Heart Days,Harry Styles,2020,68650931,65,86,89,17,181,Minor,G#,68.65,Harry Styles
+442,Dreams Roads,Kanye West,2023,24804741,28,51,30,9,159,Minor,B,24.8,Kanye West
+443,Midnight Dreams,Diplo,2023,171488949,27,78,40,9,112,Minor,G#,171.49,Diplo
+444,Ocean Vibes (Live),"Ed Sheeran, Diplo, Chris Stapleton",2024,8944148,23,83,35,77,118,Major,C,8.94,Ed Sheeran
+445,Midnight Moments,Calvin Harris,2022,40147710,49,83,62,72,83,Major,A,40.15,Calvin Harris
+446,Stars Streets,Drake,2018,193344211,89,78,36,90,79,Minor,C#,193.34,Drake
+447,Velvet Eyes (feat. DJ),"The Chainsmokers, Lady Gaga",2022,79915857,90,30,36,47,193,Minor,D#,79.92,The Chainsmokers
+448,Electric Feelings,Beyoncé,2023,73225209,76,43,15,26,64,Minor,F#,73.23,Beyoncé
+449,Forever Memories,OneRepublic,2021,121647338,33,64,80,86,169,Major,B,121.65,OneRepublic
+450,Silver Rivers,OneRepublic,2024,24944385,24,50,88,46,135,Minor,F,24.94,OneRepublic
+451,Heart Eyes,Zach Bryan,2021,30293707,55,85,88,40,74,Major,A,30.29,Zach Bryan
+452,Dance Hills,"Kendrick Lamar, Rihanna",2023,112584123,27,47,43,2,141,Major,C,112.58,Kendrick Lamar
+453,Summer Shadows,Metro Boomin,2022,13875112,62,98,62,47,66,Minor,F,13.88,Metro Boomin
+454,Night Eyes (Deluxe),The Weeknd,2018,50809609,68,25,93,9,68,Major,A#,50.81,The Weeknd
+455,Sunset Skies (Deluxe),Kanye West,2023,98034799,50,67,66,46,176,Major,F,98.03,Kanye West
+456,Golden Hills,Tiësto,2022,144557613,56,55,53,15,95,Minor,A,144.56,Tiësto
+457,Rain Nights (Remix),"Tiësto, Zedd, David Guetta, J. Cole",2020,112165389,74,31,55,51,191,Minor,G#,112.17,Tiësto
+458,Wild Lights,Metro Boomin,2023,27755930,43,80,85,10,182,Major,B,27.76,Metro Boomin
+459,Electric Clouds,Zedd,2020,115431751,69,37,50,18,169,Minor,E,115.43,Zedd
+460,Ocean Lights,Martin Garrix,2021,44161013,38,41,22,70,87,Minor,D#,44.16,Martin Garrix
+461,Love Hills (Remix),"Skrillex, Kygo, Doja Cat",2021,92667085,55,29,95,45,127,Major,C#,92.67,Skrillex
+462,Wild Ways,Adele,2023,26285297,51,90,27,48,69,Major,A#,26.29,Adele
+463,Fire Hills,Calvin Harris,2020,19456721,64,82,71,84,157,Major,A#,19.46,Calvin Harris
+464,Neon Clouds,Rihanna,2022,22821853,34,74,32,40,123,Minor,A#,22.82,Rihanna
+465,Stars Hills (Live),21 Savage,2023,10126622,76,66,64,33,141,Minor,F#,10.13,21 Savage
+466,Night Eyes,Morgan Wallen,2020,56817461,68,57,21,45,198,Major,C,56.82,Morgan Wallen
+467,Rain Shadows,J. Cole,2024,29708896,82,35,15,36,194,Minor,C#,29.71,J. Cole
+468,Night Ways (Live),"Kanye West, Beyoncé",2023,84166082,61,80,64,2,160,Minor,D#,84.17,Kanye West
+469,Silver Hills,Doja Cat,2022,61214019,77,88,38,3,199,Major,B,61.21,Doja Cat
+470,Heart Eyes,Lady Gaga,2023,53182976,27,47,73,52,181,Major,G#,53.18,Lady Gaga
+471,Silver Dreams,Bad Bunny,2018,132973131,29,31,58,1,80,Minor,C#,132.97,Bad Bunny
+472,Heart Memories (Live),Billie Eilish,2020,40900488,67,98,82,21,129,Minor,G#,40.9,Billie Eilish
+473,Ocean Shadows,Future,2021,121970696,80,15,18,39,166,Major,D,121.97,Future
+474,Electric Lights,21 Savage,2023,14935468,67,66,89,32,132,Minor,F#,14.94,21 Savage
+475,Silver Moments,Lil Baby,2020,48990393,20,42,39,11,181,Major,D#,48.99,Lil Baby
+476,Love Lights,Billie Eilish,2024,60000416,80,54,55,66,160,Minor,F#,60.0,Billie Eilish
+477,Dance Moments (Deluxe),"Skrillex, Billie Eilish",2022,55445282,68,37,57,1,114,Major,A,55.45,Skrillex
+478,Silver Eyes,Martin Garrix,2024,13179782,93,75,13,77,130,Major,A#,13.18,Martin Garrix
+479,Velvet Feelings,Justin Bieber,2018,62927665,44,93,93,2,84,Minor,G#,62.93,Justin Bieber
+480,Crystal Story (Live),"Zedd, Lady Gaga",2022,9943297,45,67,74,22,173,Minor,C,9.94,Zedd
+481,Heart Lights,Travis Scott,2023,40510654,78,46,20,39,62,Minor,D#,40.51,Travis Scott
+482,Forever Nights,Bruno Mars,2022,25122288,94,59,56,82,83,Minor,G,25.12,Bruno Mars
+483,Silver Clouds,"Future, Bad Bunny",2022,67441253,47,48,69,4,191,Minor,D#,67.44,Future
+484,Stars Streets,Kanye West,2021,181825096,63,27,92,23,167,Minor,G,181.83,Kanye West
+485,Love Streets (Live),Marshmello,2022,59003375,54,66,83,75,87,Minor,F#,59.0,Marshmello
+486,Crystal Days (Deluxe),"Billie Eilish, Diplo, Metro Boomin",2023,84035925,78,33,10,25,177,Major,F#,84.04,Billie Eilish
+487,Rain Waves,Harry Styles,2020,30315065,36,32,50,51,122,Minor,C#,30.32,Harry Styles
+488,Ocean Clouds,"Future, OneRepublic",2021,45966993,29,44,92,17,60,Minor,A,45.97,Future
+489,Dreams Lights,Olivia Rodrigo,2020,42751948,71,35,11,40,81,Major,F,42.75,Olivia Rodrigo
+490,Neon Clouds,Future,2019,55369810,42,83,64,49,196,Major,F,55.37,Future
+491,Silver Ways,Taylor Swift,2023,62574174,23,49,79,22,168,Minor,F,62.57,Taylor Swift
+492,Forever Memories,The Weeknd,2021,43629438,51,87,77,58,130,Minor,F,43.63,The Weeknd
+493,Ocean Feelings,Lady Gaga,2024,135770211,58,80,88,69,109,Minor,A,135.77,Lady Gaga
+494,Rain Waves,Lady Gaga,2023,96031561,73,31,94,35,164,Major,D#,96.03,Lady Gaga
+495,Summer Times,Kanye West,2021,66546697,60,71,54,19,63,Minor,F,66.55,Kanye West
+496,Midnight Ways,Kygo,2023,89473980,23,94,29,74,175,Minor,A#,89.47,Kygo
+497,Love Eyes,OneRepublic,2022,48811531,90,60,62,27,100,Minor,B,48.81,OneRepublic
+498,Heart Lights,Zach Bryan,2022,61345218,79,37,93,87,133,Minor,C,61.35,Zach Bryan
+499,Sunset Waves,J. Cole,2018,105141503,67,91,12,83,180,Major,A#,105.14,J. Cole
+500,Electric Shadows (feat. DJ),"Doja Cat, Billie Eilish",2020,31715953,79,97,74,14,173,Major,D#,31.72,Doja Cat
+501,Dreams Story (Live),Beyoncé,2024,33860127,57,20,60,46,183,Major,B,33.86,Beyoncé
+502,Heart Feelings,J. Cole,2021,33839767,62,24,92,58,113,Major,E,33.84,J. Cole
+503,Forever Streets,Chris Stapleton,2022,51721913,80,52,66,19,100,Minor,A,51.72,Chris Stapleton
+504,Midnight Ways,Skrillex,2018,30755139,95,55,74,66,103,Major,F,30.76,Skrillex
+505,Crystal Hills,J. Cole,2024,14567826,87,40,39,46,177,Major,A,14.57,J. Cole
+506,Wild Rivers,Kanye West,2022,153966916,49,37,68,5,106,Major,B,153.97,Kanye West
+507,Rain Vibes (feat. DJ),Travis Scott,2022,27831804,30,40,70,12,182,Minor,C#,27.83,Travis Scott
+508,Love Roads,David Guetta,2024,62028823,62,76,74,65,129,Major,G,62.03,David Guetta
+509,Dance Skies,Kygo,2023,32582502,63,83,91,23,137,Minor,C#,32.58,Kygo
+510,Forever Lights (Live),Olivia Rodrigo,2019,40679401,73,44,44,33,100,Minor,F,40.68,Olivia Rodrigo
+511,Golden Lights,Post Malone,2022,33242939,57,18,57,41,111,Minor,D#,33.24,Post Malone
+512,Rain Days,Daft Punk,2022,13707060,51,92,45,75,159,Minor,B,13.71,Daft Punk
+513,Dance Skies,Drake,2024,53755774,76,56,41,73,111,Major,G#,53.76,Drake
+514,Love Moments (Remix),"Martin Garrix, Metro Boomin",2024,135604244,78,57,56,25,142,Major,G,135.6,Martin Garrix
+515,Stars Feelings,"Skrillex, The Weeknd",2022,27760311,28,87,19,11,185,Minor,E,27.76,Skrillex
+516,Silver Streets,"Billie Eilish, Harry Styles",2024,110915347,78,70,77,2,106,Minor,A#,110.92,Billie Eilish
+517,Love Times,"Diplo, The Weeknd",2020,54199374,43,18,22,68,97,Minor,D#,54.2,Diplo
+518,Dreams Lights (feat. DJ),Kygo,2023,27706301,23,41,66,48,172,Minor,C#,27.71,Kygo
+519,Midnight Roads (Remix),Imagine Dragons,2024,46524034,84,76,56,32,108,Major,D#,46.52,Imagine Dragons
+520,Sunset Clouds (Remix),The Weeknd,2021,16506146,55,56,92,5,159,Major,G,16.51,The Weeknd
+521,Crystal Moments,Avicii,2022,142318173,66,35,24,3,98,Major,B,142.32,Avicii
+522,Dance Dreams,Imagine Dragons,2023,38273027,32,59,11,28,194,Major,D,38.27,Imagine Dragons
+523,Velvet Streets,"BTS, Calvin Harris, OneRepublic",2023,48233261,36,80,38,16,186,Major,B,48.23,BTS
+524,Midnight Eyes (Remix),"Harry Styles, Morgan Wallen",2020,72774995,38,19,84,49,143,Minor,F#,72.77,Harry Styles
+525,Night Times,Justin Bieber,2021,134877035,85,58,53,23,172,Minor,C#,134.88,Justin Bieber
+526,Heart Lights (Acoustic),Zach Bryan,2019,49754606,36,54,54,57,200,Minor,B,49.75,Zach Bryan
+527,Crystal Days,Tiësto,2023,57337830,32,96,31,81,102,Major,F,57.34,Tiësto
+528,Rain Ways,"Kygo, Kanye West, OneRepublic",2024,127212588,46,91,88,8,79,Minor,E,127.21,Kygo
+529,Fire Times,Post Malone,2020,57493764,38,56,45,1,98,Minor,D#,57.49,Post Malone
+530,Ocean Hills,Bruno Mars,2022,83045685,74,36,84,90,125,Minor,C#,83.05,Bruno Mars
+531,Dreams Dreams (Acoustic),SZA,2020,58865237,21,77,22,31,124,Major,F,58.87,SZA
+532,Dance Feelings (Live),Zedd,2022,90312132,66,92,84,53,84,Major,C#,90.31,Zedd
+533,Silver Rivers,"J. Cole, Marshmello",2021,84075720,64,46,55,35,176,Minor,E,84.08,J. Cole
+534,Dance Nights,Marshmello,2023,74475498,60,27,49,11,150,Major,A,74.48,Marshmello
+535,Fire Clouds,Diplo,2024,87979017,70,24,89,25,135,Major,G#,87.98,Diplo
+536,Dance Moments (Deluxe),Lil Baby,2021,41670695,51,34,80,85,117,Major,G,41.67,Lil Baby
+537,Summer Times,"SZA, Beyoncé",2023,34196408,93,48,59,90,107,Minor,G#,34.2,SZA
+538,Summer Lights,OneRepublic,2019,96268246,33,44,87,44,181,Minor,G#,96.27,OneRepublic
+539,Night Streets,Marshmello,2022,16990462,23,77,86,55,130,Minor,A,16.99,Marshmello
+540,Forever Skies,Olivia Rodrigo,2021,191467028,95,24,25,78,73,Minor,B,191.47,Olivia Rodrigo
+541,Rain Times (feat. DJ),Morgan Wallen,2023,104685041,43,54,22,45,181,Minor,D,104.69,Morgan Wallen
+542,Dance Clouds,David Guetta,2021,16270833,32,15,31,67,75,Minor,A#,16.27,David Guetta
+543,Silver Roads,Coldplay,2019,109415636,84,71,29,3,105,Major,G,109.42,Coldplay
+544,Forever Feelings,"BTS, Adele",2020,22425022,34,85,95,8,200,Minor,F#,22.43,BTS
+545,Neon Days (Remix),Post Malone,2021,130054523,89,40,92,36,196,Minor,G#,130.05,Post Malone
+546,Sunset Clouds,Chris Stapleton,2019,18207330,44,54,21,75,74,Major,G#,18.21,Chris Stapleton
+547,Night Skies,J. Cole,2024,155598774,78,43,33,40,71,Major,D#,155.6,J. Cole
+548,Ocean Story,Olivia Rodrigo,2021,24646323,39,91,28,31,155,Major,F#,24.65,Olivia Rodrigo
+549,Forever Days (Acoustic),Future,2022,53437204,29,29,91,14,174,Major,D,53.44,Future
+550,Fire Ways (Live),Justin Bieber,2021,60743764,80,28,71,14,92,Major,G#,60.74,Justin Bieber
+551,Dreams Times,Justin Bieber,2021,76667930,52,59,32,59,63,Minor,D,76.67,Justin Bieber
+552,Forever Rivers,Coldplay,2020,132871543,38,55,80,7,133,Major,G#,132.87,Coldplay
+553,Ocean Nights (Acoustic),Martin Garrix,2021,20844004,80,97,83,49,199,Major,C#,20.84,Martin Garrix
+554,Neon Dreams,Luke Combs,2024,161920542,40,17,57,55,104,Minor,F#,161.92,Luke Combs
+555,Velvet Times (feat. DJ),Marshmello,2023,55727253,51,39,37,72,162,Major,D,55.73,Marshmello
+556,Golden Eyes,"Daft Punk, Maroon 5",2020,87921846,69,70,76,23,146,Major,G#,87.92,Daft Punk
+557,Fire Ways (Deluxe),Coldplay,2023,132091058,32,25,18,2,195,Major,B,132.09,Coldplay
+558,Golden Days (feat. DJ),Harry Styles,2021,196637279,73,83,25,79,100,Major,D,196.64,Harry Styles
+559,Dance Times (feat. DJ),Daft Punk,2024,9127530,82,87,95,44,106,Major,G,9.13,Daft Punk
+560,Ocean Eyes,Ed Sheeran,2024,64494643,52,80,34,35,166,Minor,D,64.49,Ed Sheeran
+561,Summer Eyes,"Adele, Drake, Lil Baby",2024,66395022,45,63,70,49,64,Minor,E,66.4,Adele
+562,Crystal Waves,Miley Cyrus,2021,46728171,22,28,26,31,141,Major,G#,46.73,Miley Cyrus
+563,Summer Vibes (Remix),Ed Sheeran,2023,103816487,45,38,20,11,91,Major,C,103.82,Ed Sheeran
+564,Rain Memories (Live),"OneRepublic, SZA",2021,120756074,30,40,32,33,173,Major,D,120.76,OneRepublic
+565,Dreams Days,Doja Cat,2021,73830725,56,23,30,7,195,Minor,C,73.83,Doja Cat
+566,Sunset Vibes,Morgan Wallen,2024,16502689,77,76,55,47,127,Minor,B,16.5,Morgan Wallen
+567,Rain Times,Adele,2018,138535198,37,63,50,80,158,Major,F#,138.54,Adele
+568,Fire Moments,Taylor Swift,2020,57900467,44,92,72,63,200,Major,E,57.9,Taylor Swift
+569,Heart Vibes (Live),"David Guetta, Drake, Shakira",2023,192201428,36,51,77,43,169,Major,A,192.2,David Guetta
+570,Neon Vibes,Lady Gaga,2021,68685072,44,56,26,80,147,Minor,A,68.69,Lady Gaga
+571,Summer Hills,Diplo,2024,18791842,55,61,28,7,175,Major,F#,18.79,Diplo
+572,Golden Dreams,Kanye West,2020,248625205,44,79,77,36,90,Major,E,248.63,Kanye West
+573,Forever Ways,"21 Savage, Taylor Swift",2021,140605291,78,40,45,90,140,Minor,C#,140.61,21 Savage
+574,Wild Story,Billie Eilish,2024,35815046,61,19,88,82,142,Major,F#,35.82,Billie Eilish
+575,Crystal Memories (feat. DJ),Chris Stapleton,2022,17353722,89,82,17,53,77,Minor,G,17.35,Chris Stapleton
+576,Electric Nights,"Daft Punk, Olivia Rodrigo",2024,22690105,49,32,29,64,70,Major,C,22.69,Daft Punk
+577,Midnight Story,Chris Stapleton,2021,67819538,70,34,37,68,154,Major,G#,67.82,Chris Stapleton
+578,Midnight Nights (Deluxe),Daft Punk,2021,37410762,69,41,23,25,107,Major,C#,37.41,Daft Punk
+579,Golden Streets,"Olivia Rodrigo, Adele",2023,29080497,82,86,71,76,177,Major,F#,29.08,Olivia Rodrigo
+580,Love Story,Diplo,2024,45279606,29,68,45,83,108,Minor,F#,45.28,Diplo
+581,Dance Streets (feat. DJ),BTS,2019,26957053,28,42,29,8,65,Minor,B,26.96,BTS
+582,Electric Waves,Bad Bunny,2018,48661491,44,72,40,0,66,Minor,A#,48.66,Bad Bunny
+583,Neon Times (Remix),OneRepublic,2021,53734844,94,62,61,59,148,Major,F#,53.73,OneRepublic
+584,Velvet Waves,"Future, David Guetta",2022,21918689,63,95,79,20,147,Major,G#,21.92,Future
+585,Sunset Feelings (Deluxe),21 Savage,2018,7337385,48,59,83,52,200,Minor,F#,7.34,21 Savage
+586,Stars Days (Deluxe),Kanye West,2023,25431308,22,52,13,15,84,Major,D#,25.43,Kanye West
+587,Electric Feelings,Ed Sheeran,2021,66568973,60,18,54,32,185,Minor,C,66.57,Ed Sheeran
+588,Heart Waves,Chris Stapleton,2023,302144616,30,95,41,12,124,Major,G#,302.14,Chris Stapleton
+589,Neon Memories,Beyoncé,2022,46759614,55,64,82,68,188,Minor,D,46.76,Beyoncé
+590,Crystal Hills,Zedd,2022,54481075,20,98,59,22,183,Major,G,54.48,Zedd
+591,Wild Roads (feat. DJ),Bruno Mars,2023,14643869,89,68,23,60,194,Minor,B,14.64,Bruno Mars
+592,Dreams Vibes,"Daft Punk, Ed Sheeran",2024,62054679,77,84,94,47,107,Major,A#,62.05,Daft Punk
+593,Sunset Feelings,"Ed Sheeran, Future, Doja Cat, Skrillex",2020,39458310,37,46,50,61,195,Minor,C,39.46,Ed Sheeran
+594,Rain Feelings,Calvin Harris,2022,11814637,51,67,90,80,191,Major,C#,11.81,Calvin Harris
+595,Sunset Memories (Live),Maroon 5,2018,49951311,83,70,19,76,100,Minor,D#,49.95,Maroon 5
+596,Stars Memories,Daft Punk,2021,41379082,80,26,53,88,184,Major,F#,41.38,Daft Punk
+597,Dreams Ways,Martin Garrix,2024,53066195,55,91,43,54,192,Minor,A#,53.07,Martin Garrix
+598,Forever Days,"Ariana Grande, Metro Boomin",2021,34649355,43,78,92,47,123,Minor,D#,34.65,Ariana Grande
+599,Silver Streets,Metro Boomin,2020,25835855,85,68,82,25,176,Minor,G#,25.84,Metro Boomin
+600,Sunset Clouds,"Kanye West, Skrillex, Dua Lipa, Calvin Harris",2020,9141250,92,16,17,14,168,Major,D#,9.14,Kanye West
+601,Summer Dreams,OneRepublic,2023,25438418,82,27,25,31,83,Minor,A,25.44,OneRepublic
+602,Fire Times,Marshmello,2018,73730174,76,64,29,78,164,Minor,B,73.73,Marshmello
+603,Neon Waves (Deluxe),"Kygo, Olivia Rodrigo",2021,88861270,60,66,55,35,163,Major,D#,88.86,Kygo
+604,Neon Story,Coldplay,2022,16838911,74,70,21,32,185,Minor,F#,16.84,Coldplay
+605,Fire Nights,"Lady Gaga, Kendrick Lamar, David Guetta",2022,130639656,87,72,42,19,72,Major,E,130.64,Lady Gaga
+606,Summer Waves,"Travis Scott, Justin Bieber",2022,25668536,45,24,87,8,102,Major,D#,25.67,Travis Scott
+607,Electric Skies (feat. DJ),Justin Bieber,2020,8520130,39,45,26,77,102,Minor,C,8.52,Justin Bieber
+608,Heart Times,Beyoncé,2023,36235430,87,97,69,66,198,Minor,B,36.24,Beyoncé
+609,Neon Moments (feat. DJ),"Martin Garrix, Billie Eilish, Tiësto",2019,29125174,77,32,85,83,171,Major,A#,29.13,Martin Garrix
+610,Summer Streets,Beyoncé,2021,115364244,26,74,54,49,85,Minor,E,115.36,Beyoncé
+611,Crystal Skies,Skrillex,2024,44038356,86,18,57,57,66,Major,G#,44.04,Skrillex
+612,Wild Eyes,Marshmello,2023,99628859,54,33,28,25,156,Minor,F,99.63,Marshmello
+613,Night Eyes,Imagine Dragons,2020,30968024,28,74,38,21,69,Minor,E,30.97,Imagine Dragons
+614,Wild Dreams (Acoustic),Harry Styles,2024,87457040,51,17,38,55,99,Minor,A#,87.46,Harry Styles
+615,Midnight Memories (Acoustic),Tiësto,2023,31049159,58,46,20,20,162,Minor,F#,31.05,Tiësto
+616,Sunset Clouds (feat. DJ),"Ed Sheeran, Drake",2022,34864392,50,46,46,78,114,Minor,F#,34.86,Ed Sheeran
+617,Midnight Vibes,Skrillex,2019,30688085,37,61,47,86,180,Major,D,30.69,Skrillex
+618,Fire Eyes,Avicii,2018,17373074,87,93,19,36,128,Minor,A,17.37,Avicii
+619,Crystal Feelings,"Skrillex, Billie Eilish",2020,111433013,46,74,40,19,120,Minor,E,111.43,Skrillex
+620,Heart Moments,Harry Styles,2022,14322998,46,98,70,4,164,Minor,C#,14.32,Harry Styles
+621,Night Memories (Acoustic),Doja Cat,2021,271982268,20,47,31,53,140,Major,A,271.98,Doja Cat
+622,Stars Times,Post Malone,2022,29460338,84,42,35,18,60,Minor,C#,29.46,Post Malone
+623,Crystal Roads,Martin Garrix,2023,13832569,80,74,63,77,164,Major,A,13.83,Martin Garrix
+624,Dance Eyes (Remix),Zedd,2023,36823822,26,50,19,68,161,Minor,C,36.82,Zedd
+625,Forever Dreams,"Tiësto, Luke Combs",2022,99796860,21,25,64,42,199,Major,A#,99.8,Tiësto
+626,Dance Nights,The Weeknd,2023,43850820,50,49,18,22,99,Major,C#,43.85,The Weeknd
+627,Velvet Streets,BTS,2022,16806148,40,83,76,24,101,Minor,D,16.81,BTS
+628,Sunset Feelings (Live),"Miley Cyrus, Zach Bryan",2020,89862454,69,97,51,47,186,Minor,G#,89.86,Miley Cyrus
+629,Silver Shadows,The Chainsmokers,2023,47589313,90,58,80,15,94,Minor,G,47.59,The Chainsmokers
+630,Velvet Waves,Adele,2024,269670851,29,54,73,38,165,Minor,C#,269.67,Adele
+631,Dreams Moments (Deluxe),Rihanna,2022,14289435,90,25,79,70,72,Minor,E,14.29,Rihanna
+632,Heart Clouds (Remix),Daft Punk,2021,75716077,66,84,61,13,182,Minor,C,75.72,Daft Punk
+633,Dreams Lights,"Daft Punk, Beyoncé",2023,27876477,83,45,80,7,193,Major,E,27.88,Daft Punk
+634,Crystal Eyes,Lil Baby,2022,63625743,71,39,85,32,187,Major,C,63.63,Lil Baby
+635,Heart Times,"Justin Bieber, Skrillex",2018,22359460,63,72,36,18,63,Major,F#,22.36,Justin Bieber
+636,Dance Streets,"Adele, Imagine Dragons, Future, Kygo",2024,49197224,75,35,69,7,72,Major,E,49.2,Adele
+637,Sunset Feelings (feat. DJ),Martin Garrix,2021,10986904,40,43,71,56,182,Minor,F#,10.99,Martin Garrix
+638,Summer Skies,J. Cole,2024,59302440,50,47,46,31,76,Major,A,59.3,J. Cole
+639,Fire Hills (Remix),"Avicii, Martin Garrix",2020,72771215,71,92,95,72,129,Major,A,72.77,Avicii
+640,Rain Times,Coldplay,2024,42660570,25,74,36,52,95,Minor,D#,42.66,Coldplay
+641,Stars Times (feat. DJ),"Future, Daft Punk, The Chainsmokers, Morgan Wallen",2021,25095605,31,91,42,68,120,Major,A,25.1,Future
+642,Velvet Nights,Calvin Harris,2023,123584169,20,59,64,45,118,Minor,A,123.58,Calvin Harris
+643,Heart Roads,21 Savage,2021,21059864,24,41,25,46,175,Major,D#,21.06,21 Savage
+644,Dreams Nights,OneRepublic,2018,51234920,33,44,65,89,78,Minor,D,51.23,OneRepublic
+645,Crystal Roads (Deluxe),Metro Boomin,2024,90425756,45,52,61,48,114,Major,B,90.43,Metro Boomin
+646,Stars Memories,"Harry Styles, Ariana Grande",2023,62037597,26,92,75,69,119,Major,D,62.04,Harry Styles
+647,Crystal Skies,Daft Punk,2021,17984536,29,96,64,69,97,Minor,A,17.98,Daft Punk
+648,Wild Story,Billie Eilish,2018,127292977,81,71,22,68,80,Major,C#,127.29,Billie Eilish
+649,Love Moments (Acoustic),"Kanye West, Skrillex",2021,92523225,39,51,32,64,185,Major,G#,92.52,Kanye West
+650,Crystal Waves,Coldplay,2018,69387381,71,87,58,15,130,Major,G#,69.39,Coldplay
+651,Wild Shadows,Travis Scott,2021,71132309,22,96,89,67,177,Minor,A,71.13,Travis Scott
+652,Night Feelings (Acoustic),Drake,2023,112988457,86,63,34,24,181,Major,G,112.99,Drake
+653,Dreams Moments,Travis Scott,2023,32660939,47,54,23,32,154,Minor,B,32.66,Travis Scott
+654,Midnight Nights,Coldplay,2023,9998801,30,63,70,39,109,Major,B,10.0,Coldplay
+655,Crystal Rivers (Remix),Tiësto,2023,40671733,24,96,47,7,75,Minor,A#,40.67,Tiësto
+656,Golden Days (Acoustic),Olivia Rodrigo,2022,86222191,89,92,16,25,179,Major,B,86.22,Olivia Rodrigo
+657,Rain Moments,Future,2021,115370200,21,41,33,3,188,Major,F#,115.37,Future
+658,Velvet Moments (Deluxe),Zach Bryan,2024,46742414,70,93,57,44,60,Major,A,46.74,Zach Bryan
+659,Heart Rivers,Bruno Mars,2022,33012477,47,92,87,64,103,Major,B,33.01,Bruno Mars
+660,Wild Waves,The Chainsmokers,2021,29319822,74,20,65,66,120,Minor,G,29.32,The Chainsmokers
+661,Love Memories (Remix),Luke Combs,2022,52320357,47,58,42,45,114,Major,C#,52.32,Luke Combs
+662,Silver Feelings,Daft Punk,2023,101461996,58,15,80,67,70,Major,C#,101.46,Daft Punk
+663,Velvet Rivers,Bruno Mars,2018,68399746,57,88,46,23,154,Major,A,68.4,Bruno Mars
+664,Ocean Roads,"Zedd, Imagine Dragons",2023,112312465,38,61,78,74,176,Minor,C#,112.31,Zedd
+665,Forever Story (Acoustic),Miley Cyrus,2022,20494119,91,34,70,50,74,Major,F#,20.49,Miley Cyrus
+666,Love Streets,Chris Stapleton,2020,40182025,56,59,10,52,95,Major,A#,40.18,Chris Stapleton
+667,Sunset Lights,21 Savage,2023,130323801,47,86,11,61,164,Major,A#,130.32,21 Savage
+668,Crystal Lights,"Future, Doja Cat",2024,53700248,23,76,31,28,129,Major,A#,53.7,Future
+669,Midnight Clouds,Tiësto,2019,20490726,30,95,47,77,195,Minor,C,20.49,Tiësto
+670,Fire Rivers,Marshmello,2022,75441923,56,35,60,7,186,Minor,G,75.44,Marshmello
+671,Sunset Moments,Morgan Wallen,2021,31596642,28,40,34,25,65,Minor,F#,31.6,Morgan Wallen
+672,Fire Days,"Ariana Grande, Miley Cyrus, Lady Gaga",2024,186689385,34,69,38,30,101,Minor,C,186.69,Ariana Grande
+673,Silver Shadows,Marshmello,2020,102156606,75,51,45,6,190,Major,C,102.16,Marshmello
+674,Heart Clouds,Future,2019,95067130,33,39,90,33,83,Major,G,95.07,Future
+675,Neon Dreams,Avicii,2023,56489416,83,84,85,81,175,Major,B,56.49,Avicii
+676,Night Clouds (Live),BTS,2020,53736867,64,35,51,11,103,Major,D,53.74,BTS
+677,Electric Feelings,Zach Bryan,2022,19646188,50,94,65,77,70,Minor,G#,19.65,Zach Bryan
+678,Wild Memories (feat. DJ),"The Weeknd, Post Malone, Drake",2023,121077460,30,59,46,57,146,Major,B,121.08,The Weeknd
+679,Electric Vibes,"Marshmello, Zach Bryan, Bad Bunny",2020,58165780,83,83,88,63,76,Minor,B,58.17,Marshmello
+680,Sunset Rivers,Diplo,2023,85081112,43,45,90,47,194,Minor,C,85.08,Diplo
+681,Midnight Clouds (Acoustic),"Lil Baby, Lady Gaga",2023,17572096,78,65,85,25,106,Minor,G#,17.57,Lil Baby
+682,Summer Moments,Rihanna,2023,105209095,53,56,20,23,147,Major,F#,105.21,Rihanna
+683,Fire Roads,"Justin Bieber, Shakira, Imagine Dragons",2024,31084486,86,64,43,71,153,Minor,C,31.08,Justin Bieber
+684,Forever Ways,"Adele, 21 Savage",2020,49625343,45,57,76,74,183,Major,D,49.63,Adele
+685,Midnight Eyes,"Harry Styles, SZA",2021,35131502,25,94,12,34,169,Minor,G,35.13,Harry Styles
+686,Golden Nights,"Zach Bryan, Bad Bunny",2023,88929569,85,86,77,44,152,Major,D,88.93,Zach Bryan
+687,Sunset Waves,Miley Cyrus,2021,101794855,89,58,90,75,146,Minor,B,101.79,Miley Cyrus
+688,Fire Rivers,"Metro Boomin, Rihanna",2024,223776104,95,44,92,9,138,Major,F,223.78,Metro Boomin
+689,Dreams Days,"BTS, Miley Cyrus",2021,43712840,48,72,64,81,185,Minor,D,43.71,BTS
+690,Love Moments,J. Cole,2022,70790269,44,31,18,25,87,Major,B,70.79,J. Cole
+691,Ocean Vibes,Taylor Swift,2023,36758450,78,38,32,44,192,Major,B,36.76,Taylor Swift
+692,Velvet Ways,"Kendrick Lamar, Coldplay",2021,32338791,76,97,25,60,160,Major,C,32.34,Kendrick Lamar
+693,Electric Days (Deluxe),Future,2024,21543141,58,85,40,70,143,Major,A#,21.54,Future
+694,Summer Roads (Deluxe),Adele,2020,39426178,51,88,12,42,101,Minor,F#,39.43,Adele
+695,Heart Nights (Deluxe),Zach Bryan,2023,6608605,37,86,84,66,114,Minor,G,6.61,Zach Bryan
+696,Heart Moments (Live),"The Weeknd, Zach Bryan",2023,17794160,64,62,36,85,179,Minor,G#,17.79,The Weeknd
+697,Midnight Memories (Remix),Beyoncé,2020,91994657,22,97,29,73,101,Major,D#,91.99,Beyoncé
+698,Rain Hills,The Weeknd,2024,19920709,31,29,87,18,113,Minor,A#,19.92,The Weeknd
+699,Rain Nights,"Post Malone, BTS",2023,59771107,25,94,25,4,86,Major,D,59.77,Post Malone
+700,Electric Times,"Lil Baby, Martin Garrix",2023,10953332,86,34,23,36,105,Minor,G,10.95,Lil Baby
+701,Velvet Clouds,Rihanna,2020,11985546,28,15,93,27,149,Minor,B,11.99,Rihanna
+702,Neon Story (feat. DJ),Zach Bryan,2024,30113836,53,34,19,3,93,Major,D#,30.11,Zach Bryan
+703,Ocean Nights,OneRepublic,2022,35860971,56,98,77,13,118,Major,D,35.86,OneRepublic
+704,Love Times (Acoustic),"Billie Eilish, 21 Savage",2018,13959056,67,90,66,86,168,Major,E,13.96,Billie Eilish
+705,Fire Times,Rihanna,2023,39897735,32,66,67,35,165,Major,G#,39.9,Rihanna
+706,Night Skies,Billie Eilish,2019,52995270,72,28,67,31,81,Major,D#,53.0,Billie Eilish
+707,Night Eyes,Miley Cyrus,2022,32609666,77,69,64,76,195,Minor,A#,32.61,Miley Cyrus
+708,Love Lights,Olivia Rodrigo,2023,39286405,65,23,84,67,171,Major,D,39.29,Olivia Rodrigo
+709,Dance Clouds,The Weeknd,2019,46047964,94,84,40,70,65,Minor,B,46.05,The Weeknd
+710,Dreams Lights (Remix),Taylor Swift,2021,24132305,28,74,35,75,195,Major,G,24.13,Taylor Swift
+711,Forever Feelings,Coldplay,2021,36778460,94,29,82,78,106,Minor,D#,36.78,Coldplay
+712,Fire Waves (feat. DJ),"Metro Boomin, Kendrick Lamar",2018,72206115,53,84,22,10,100,Major,A#,72.21,Metro Boomin
+713,Crystal Dreams,"21 Savage, Avicii",2024,59895803,89,48,61,38,190,Major,C,59.9,21 Savage
+714,Golden Rivers,Chris Stapleton,2024,63363110,80,75,50,85,198,Minor,C,63.36,Chris Stapleton
+715,Forever Dreams,Coldplay,2023,30459936,26,20,44,75,160,Minor,A,30.46,Coldplay
+716,Sunset Feelings,"Kendrick Lamar, Harry Styles, Skrillex",2018,27274834,94,97,94,50,150,Minor,C#,27.27,Kendrick Lamar
+717,Forever Dreams,"Bad Bunny, OneRepublic",2022,80502682,65,46,84,80,158,Major,D,80.5,Bad Bunny
+718,Crystal Roads (feat. DJ),Kygo,2021,52016841,93,69,18,2,98,Minor,G#,52.02,Kygo
+719,Heart Roads (feat. DJ),Bruno Mars,2021,155433044,52,86,51,65,107,Major,D#,155.43,Bruno Mars
+720,Fire Shadows (Acoustic),"Zach Bryan, The Weeknd",2023,26602778,71,75,18,61,130,Minor,C,26.6,Zach Bryan
+721,Velvet Roads (Remix),"Ariana Grande, Diplo",2022,58227803,70,63,90,33,143,Major,A,58.23,Ariana Grande
+722,Summer Roads,Lil Baby,2023,63964657,37,38,86,7,72,Major,C#,63.96,Lil Baby
+723,Midnight Memories,Beyoncé,2019,12294763,61,91,57,7,92,Minor,C#,12.29,Beyoncé
+724,Silver Eyes (Acoustic),Drake,2022,18098303,72,56,16,55,171,Minor,F#,18.1,Drake
+725,Golden Hills (Acoustic),Bruno Mars,2022,106926518,53,63,61,16,93,Minor,D#,106.93,Bruno Mars
+726,Heart Clouds,"Miley Cyrus, Drake",2023,8709202,77,76,64,88,98,Major,E,8.71,Miley Cyrus
+727,Wild Dreams,Imagine Dragons,2018,63128110,33,90,70,66,61,Major,G#,63.13,Imagine Dragons
+728,Dreams Nights,Daft Punk,2024,26995033,34,21,31,26,168,Major,C#,27.0,Daft Punk
+729,Wild Times,"Luke Combs, Calvin Harris",2023,43397509,84,47,51,46,92,Major,C#,43.4,Luke Combs
+730,Sunset Ways,Bad Bunny,2021,77471960,30,71,67,50,174,Minor,E,77.47,Bad Bunny
+731,Fire Hills,Lil Baby,2020,77407559,52,96,52,24,159,Major,D#,77.41,Lil Baby
+732,Velvet Rivers (Acoustic),SZA,2023,78331302,85,69,18,44,172,Minor,G,78.33,SZA
+733,Dance Waves,"Kendrick Lamar, Coldplay, Travis Scott",2022,17527551,84,47,75,68,91,Minor,D,17.53,Kendrick Lamar
+734,Silver Rivers,Avicii,2020,13516060,52,44,58,4,175,Major,A#,13.52,Avicii
+735,Dance Moments (Deluxe),Metro Boomin,2023,31566311,42,80,76,6,160,Major,D,31.57,Metro Boomin
+736,Night Feelings,Billie Eilish,2020,23709435,35,85,11,10,183,Minor,B,23.71,Billie Eilish
+737,Night Times (Acoustic),"Coldplay, Rihanna",2024,231928522,59,90,62,40,95,Minor,D#,231.93,Coldplay
+738,Love Streets (Live),Taylor Swift,2024,114575756,74,26,44,9,170,Minor,A#,114.58,Taylor Swift
+739,Dreams Times (Remix),"Bruno Mars, Morgan Wallen",2023,19720971,90,52,35,70,109,Minor,F#,19.72,Bruno Mars
+740,Ocean Clouds,Morgan Wallen,2023,42146306,66,62,13,75,184,Major,A,42.15,Morgan Wallen
+741,Electric Clouds,"Marshmello, Zedd",2022,12893965,90,88,10,47,63,Major,E,12.89,Marshmello
+742,Wild Feelings,Lady Gaga,2022,26996517,37,49,65,22,83,Minor,A,27.0,Lady Gaga
+743,Silver Vibes,Calvin Harris,2023,41814424,20,33,83,16,171,Major,G#,41.81,Calvin Harris
+744,Night Vibes,Metro Boomin,2020,46463555,91,56,88,35,105,Major,G#,46.46,Metro Boomin
+745,Crystal Nights,David Guetta,2021,13202996,31,88,24,47,149,Major,G#,13.2,David Guetta
+746,Fire Waves,"Dua Lipa, Future, Harry Styles, Miley Cyrus",2024,99619797,29,90,65,40,71,Minor,C,99.62,Dua Lipa
+747,Dreams Rivers,Calvin Harris,2021,33133058,55,29,70,52,148,Minor,D,33.13,Calvin Harris
+748,Stars Hills,Morgan Wallen,2021,79029431,48,23,33,59,150,Minor,G#,79.03,Morgan Wallen
+749,Summer Lights (feat. DJ),The Chainsmokers,2022,143468856,90,37,48,40,198,Major,G#,143.47,The Chainsmokers
+750,Stars Skies,Bruno Mars,2021,156334178,46,38,82,1,153,Major,F#,156.33,Bruno Mars
+751,Night Hills,"Miley Cyrus, Adele, Dua Lipa",2021,51746234,57,64,66,6,64,Minor,D,51.75,Miley Cyrus
+752,Ocean Shadows (Acoustic),Kanye West,2023,26769754,40,21,63,10,151,Major,C,26.77,Kanye West
+753,Golden Roads,"Olivia Rodrigo, Justin Bieber",2023,12639098,95,97,56,3,200,Minor,C,12.64,Olivia Rodrigo
+754,Rain Eyes (Remix),"Taylor Swift, Bruno Mars, 21 Savage, Kanye West",2020,7455268,32,98,38,43,78,Minor,G#,7.46,Taylor Swift
+755,Summer Shadows,Shakira,2021,34065262,29,64,79,56,169,Major,G#,34.07,Shakira
+756,Summer Hills,Zach Bryan,2023,48004059,82,63,68,20,65,Minor,C,48.0,Zach Bryan
+757,Golden Story,Olivia Rodrigo,2020,26227250,59,27,52,8,98,Major,D#,26.23,Olivia Rodrigo
+758,Sunset Memories,Bad Bunny,2018,64003706,56,73,52,42,116,Major,D,64.0,Bad Bunny
+759,Silver Nights,The Chainsmokers,2022,50064215,29,74,42,59,154,Major,F,50.06,The Chainsmokers
+760,Golden Nights,The Chainsmokers,2023,31002597,86,77,83,0,150,Major,G#,31.0,The Chainsmokers
+761,Heart Rivers,Dua Lipa,2022,46708550,63,76,40,68,192,Major,C,46.71,Dua Lipa
+762,Silver Hills (Deluxe),"Daft Punk, Diplo, Post Malone, Tiësto",2021,20845085,88,95,26,29,114,Minor,A,20.85,Daft Punk
+763,Dance Hills (feat. DJ),Kendrick Lamar,2023,114102237,36,96,14,26,92,Major,B,114.1,Kendrick Lamar
+764,Electric Hills,"SZA, Ariana Grande",2024,34642448,70,15,35,87,72,Minor,F#,34.64,SZA
+765,Electric Shadows,"SZA, Marshmello, Calvin Harris",2022,23833658,40,82,84,27,136,Major,F#,23.83,SZA
+766,Velvet Ways,"Beyoncé, Chris Stapleton",2021,47945849,91,68,57,50,74,Minor,F,47.95,Beyoncé
+767,Dreams Roads,"SZA, Post Malone",2021,54763239,48,68,82,44,138,Major,A,54.76,SZA
+768,Electric Days,Skrillex,2020,14474353,32,80,75,81,142,Major,E,14.47,Skrillex
+769,Ocean Waves,"Skrillex, Kanye West, Dua Lipa",2020,25958831,27,83,56,30,177,Minor,D,25.96,Skrillex
+770,Summer Vibes,"Doja Cat, Bad Bunny, Metro Boomin",2023,65245896,78,90,61,34,128,Minor,G,65.25,Doja Cat
+771,Silver Hills (Acoustic),"Lady Gaga, The Chainsmokers, Coldplay",2021,63627473,93,94,52,39,65,Major,G#,63.63,Lady Gaga
+772,Stars Lights (Acoustic),"Justin Bieber, Diplo",2022,44329436,54,64,33,15,121,Major,F,44.33,Justin Bieber
+773,Silver Days,Kendrick Lamar,2024,18922977,22,83,13,82,177,Major,D#,18.92,Kendrick Lamar
+774,Stars Feelings,"Martin Garrix, Billie Eilish",2023,61007201,54,78,93,6,189,Minor,G,61.01,Martin Garrix
+775,Love Rivers,"J. Cole, Lil Baby, 21 Savage",2021,19907474,27,20,92,80,60,Minor,C#,19.91,J. Cole
+776,Golden Lights,"The Chainsmokers, Ed Sheeran, The Weeknd",2023,29345791,44,69,25,3,107,Minor,F,29.35,The Chainsmokers
+777,Heart Days (Deluxe),Avicii,2023,294166809,43,95,83,62,160,Major,D,294.17,Avicii
+778,Golden Days (feat. DJ),"Ariana Grande, Kanye West",2020,46614625,48,43,55,16,133,Minor,F,46.61,Ariana Grande
+779,Night Hills,Harry Styles,2024,15753288,82,34,25,50,69,Major,C#,15.75,Harry Styles
+780,Velvet Skies,Daft Punk,2020,93803011,76,31,43,18,182,Minor,D#,93.8,Daft Punk
+781,Love Feelings (Acoustic),"Post Malone, Morgan Wallen, Martin Garrix",2021,306396380,26,46,59,81,146,Minor,D#,306.4,Post Malone
+782,Velvet Memories,"Ed Sheeran, Ariana Grande",2023,40186150,29,64,38,22,142,Major,D,40.19,Ed Sheeran
+783,Summer Roads (Live),Rihanna,2023,71621367,29,87,19,86,82,Minor,F#,71.62,Rihanna
+784,Dreams Roads (Deluxe),Travis Scott,2024,72493883,75,16,30,9,64,Major,E,72.49,Travis Scott
+785,Stars Eyes,"Ariana Grande, Harry Styles",2020,140563010,74,76,72,29,115,Major,C#,140.56,Ariana Grande
+786,Love Streets (Deluxe),The Chainsmokers,2024,88344639,68,54,52,24,89,Major,A,88.34,The Chainsmokers
+787,Wild Nights,"Morgan Wallen, Kanye West",2020,48574227,20,68,27,71,182,Major,C,48.57,Morgan Wallen
+788,Sunset Hills,Bruno Mars,2022,100032152,24,67,12,31,68,Minor,E,100.03,Bruno Mars
+789,Silver Clouds (Deluxe),Calvin Harris,2022,38423190,21,62,32,44,154,Minor,A,38.42,Calvin Harris
+790,Rain Waves,Billie Eilish,2024,105306637,51,57,48,33,132,Minor,F#,105.31,Billie Eilish
+791,Dreams Eyes,Metro Boomin,2021,61338129,22,86,77,21,129,Minor,F#,61.34,Metro Boomin
+792,Sunset Moments,Zedd,2022,163088039,36,37,17,14,62,Minor,A,163.09,Zedd
+793,Crystal Shadows,Adele,2023,51134764,28,93,28,28,170,Minor,E,51.13,Adele
+794,Heart Moments (feat. DJ),"Post Malone, Lady Gaga",2023,115049095,30,93,83,27,180,Minor,C,115.05,Post Malone
+795,Dance Lights,Daft Punk,2020,85516970,78,38,47,33,123,Minor,D#,85.52,Daft Punk
+796,Summer Streets (Live),Dua Lipa,2022,82233702,39,26,93,82,131,Major,F#,82.23,Dua Lipa
+797,Dance Days (Acoustic),Rihanna,2020,20741049,77,35,53,25,160,Major,F,20.74,Rihanna
+798,Summer Story,Post Malone,2020,16194687,35,69,95,58,179,Major,G,16.19,Post Malone
+799,Neon Dreams,OneRepublic,2023,11040173,47,31,44,5,103,Major,D#,11.04,OneRepublic
+800,Silver Story,Marshmello,2023,20296077,80,96,92,88,199,Major,G,20.3,Marshmello
+801,Ocean Nights (Remix),Maroon 5,2021,41050466,94,64,53,50,99,Major,F,41.05,Maroon 5
+802,Crystal Moments (Live),Metro Boomin,2020,128537586,85,45,15,89,90,Minor,G#,128.54,Metro Boomin
+803,Dreams Streets (Live),Luke Combs,2021,217013969,38,64,73,32,86,Major,D,217.01,Luke Combs
+804,Love Shadows (feat. DJ),Marshmello,2020,76203655,89,40,35,37,109,Major,B,76.2,Marshmello
+805,Crystal Hills,The Weeknd,2022,42497364,83,94,42,89,140,Minor,D#,42.5,The Weeknd
+806,Fire Dreams (Live),Kanye West,2020,71348292,89,33,20,77,80,Minor,F#,71.35,Kanye West
+807,Fire Moments,Lady Gaga,2019,43241144,72,94,32,37,178,Major,A#,43.24,Lady Gaga
+808,Wild Ways,OneRepublic,2018,31578022,40,97,18,10,129,Major,A,31.58,OneRepublic
+809,Forever Rivers,"Justin Bieber, Coldplay",2024,50274463,53,83,81,7,88,Minor,G#,50.27,Justin Bieber
+810,Love Memories (feat. DJ),Chris Stapleton,2022,81697350,59,91,25,55,162,Minor,E,81.7,Chris Stapleton
+811,Heart Dreams,Rihanna,2024,12915794,85,29,82,11,132,Minor,B,12.92,Rihanna
+812,Ocean Dreams (Acoustic),Chris Stapleton,2022,60131666,41,22,10,0,168,Major,F#,60.13,Chris Stapleton
+813,Velvet Clouds,Kygo,2019,12393604,92,22,88,7,101,Major,F#,12.39,Kygo
+814,Electric Waves (feat. DJ),21 Savage,2020,87123680,34,84,90,51,81,Minor,G#,87.12,21 Savage
+815,Velvet Eyes (Remix),Dua Lipa,2018,37797054,87,56,71,90,107,Major,G,37.8,Dua Lipa
+816,Heart Memories,Calvin Harris,2023,54794495,79,71,87,52,79,Major,A,54.79,Calvin Harris
+817,Silver Waves,21 Savage,2022,39450068,41,60,88,73,162,Minor,G#,39.45,21 Savage
+818,Ocean Rivers,The Chainsmokers,2024,35956892,76,95,44,60,94,Major,A,35.96,The Chainsmokers
+819,Electric Roads,"Zedd, Bruno Mars, Ed Sheeran, Zach Bryan",2022,127650180,85,92,34,64,163,Major,E,127.65,Zedd
+820,Electric Rivers (Acoustic),Marshmello,2020,131334491,21,36,87,84,127,Minor,E,131.33,Marshmello
+821,Fire Feelings (Remix),Taylor Swift,2020,12759273,20,84,81,73,193,Major,C#,12.76,Taylor Swift
+822,Forever Skies,Bad Bunny,2023,76525731,21,15,16,27,98,Minor,G,76.53,Bad Bunny
+823,Heart Roads (Deluxe),Chris Stapleton,2021,47927248,84,17,71,83,174,Major,A,47.93,Chris Stapleton
+824,Night Story,Billie Eilish,2023,14107466,55,58,95,54,71,Minor,F#,14.11,Billie Eilish
+825,Night Clouds,Billie Eilish,2023,63498664,47,97,91,84,62,Major,F,63.5,Billie Eilish
+826,Neon Clouds,Kendrick Lamar,2021,60237637,82,32,20,36,117,Major,F,60.24,Kendrick Lamar
+827,Ocean Memories,Dua Lipa,2020,85353314,74,83,44,82,178,Major,G,85.35,Dua Lipa
+828,Wild Skies,Shakira,2020,41476633,30,23,67,7,143,Minor,G,41.48,Shakira
+829,Forever Dreams,Kanye West,2022,49441878,94,88,48,58,178,Minor,C#,49.44,Kanye West
+830,Wild Times,Skrillex,2022,26835879,74,80,14,60,193,Major,A,26.84,Skrillex
+831,Fire Hills,Daft Punk,2020,74366362,32,87,75,13,117,Major,G,74.37,Daft Punk
+832,Dance Clouds,Calvin Harris,2023,140404214,68,70,90,33,161,Minor,D,140.4,Calvin Harris
+833,Love Memories,Zedd,2022,50015553,56,98,31,37,164,Minor,A#,50.02,Zedd
+834,Ocean Dreams (Deluxe),Zach Bryan,2021,99110157,95,37,16,18,92,Major,G#,99.11,Zach Bryan
+835,Dreams Moments,"Marshmello, Diplo",2022,143168102,83,81,30,50,128,Minor,D#,143.17,Marshmello
+836,Love Days,"Justin Bieber, J. Cole",2021,47616384,93,17,11,79,80,Minor,E,47.62,Justin Bieber
+837,Night Shadows,The Chainsmokers,2022,58017088,44,65,26,2,63,Minor,A#,58.02,The Chainsmokers
+838,Silver Vibes,Avicii,2024,286074308,87,83,51,12,169,Major,C,286.07,Avicii
+839,Stars Eyes,Rihanna,2022,128890558,85,66,86,72,115,Minor,B,128.89,Rihanna
+840,Love Lights,"Beyoncé, Drake",2024,69170488,92,60,33,44,156,Minor,D#,69.17,Beyoncé
+841,Midnight Dreams,Coldplay,2020,69176690,86,63,20,32,123,Major,E,69.18,Coldplay
+842,Heart Dreams (Live),Maroon 5,2024,28924389,44,86,95,69,155,Major,C#,28.92,Maroon 5
+843,Stars Hills,Olivia Rodrigo,2022,16713494,93,68,15,63,65,Minor,A,16.71,Olivia Rodrigo
+844,Love Roads,Skrillex,2022,70804185,37,30,72,58,197,Minor,B,70.8,Skrillex
+845,Heart Clouds (Acoustic),"J. Cole, Daft Punk, BTS",2023,125310709,49,66,37,36,151,Major,G#,125.31,J. Cole
+846,Summer Story,"Taylor Swift, BTS",2023,35156799,41,48,15,8,94,Minor,F,35.16,Taylor Swift
+847,Golden Streets,Harry Styles,2018,6811729,27,76,89,78,155,Major,D#,6.81,Harry Styles
+848,Dance Skies (Remix),Post Malone,2022,44899801,58,38,28,37,155,Minor,C#,44.9,Post Malone
+849,Sunset Feelings,Future,2023,26619515,24,91,14,42,103,Major,C,26.62,Future
+850,Silver Shadows,"Maroon 5, Ed Sheeran",2024,8798671,23,42,69,78,94,Major,F,8.8,Maroon 5
+851,Electric Nights,"Chris Stapleton, J. Cole",2019,64578362,72,78,24,14,124,Minor,F,64.58,Chris Stapleton
+852,Love Streets,Ed Sheeran,2020,58411433,63,42,33,75,161,Major,C,58.41,Ed Sheeran
+853,Love Roads,"Morgan Wallen, Lil Baby, Luke Combs",2023,142359789,30,74,93,77,93,Minor,G,142.36,Morgan Wallen
+854,Golden Shadows,Future,2021,15878774,56,83,87,52,170,Minor,G#,15.88,Future
+855,Sunset Moments,"OneRepublic, Martin Garrix",2021,76906006,82,94,47,72,88,Major,A,76.91,OneRepublic
+856,Midnight Roads (Deluxe),Bruno Mars,2024,245400770,54,20,67,64,198,Minor,E,245.4,Bruno Mars
+857,Dance Waves,"Avicii, Maroon 5, Adele",2023,86724760,20,17,17,2,60,Major,D#,86.72,Avicii
+858,Midnight Streets,"Beyoncé, Chris Stapleton",2019,78550698,69,95,82,19,60,Major,C,78.55,Beyoncé
+859,Electric Roads,David Guetta,2024,100266893,69,20,41,6,168,Minor,G,100.27,David Guetta
+860,Sunset Feelings (feat. DJ),Future,2024,154627977,93,34,49,2,126,Major,F,154.63,Future
+861,Rain Lights (Acoustic),Taylor Swift,2022,43249667,32,85,17,17,97,Major,B,43.25,Taylor Swift
+862,Crystal Moments (feat. DJ),"Metro Boomin, Harry Styles",2022,136492856,53,32,51,59,188,Minor,C#,136.49,Metro Boomin
+863,Fire Times,Doja Cat,2022,13364691,61,87,54,2,167,Major,C#,13.36,Doja Cat
+864,Ocean Nights,Bad Bunny,2021,9632125,92,69,90,8,104,Major,D#,9.63,Bad Bunny
+865,Dance Skies (Remix),The Weeknd,2022,35903048,73,96,38,38,105,Minor,D,35.9,The Weeknd
+866,Summer Story,Diplo,2023,48981653,40,27,50,86,185,Major,F#,48.98,Diplo
+867,Love Rivers,Justin Bieber,2022,161461078,57,74,70,10,173,Minor,G#,161.46,Justin Bieber
+868,Golden Story,Drake,2024,58153462,59,54,16,53,140,Major,E,58.15,Drake
+869,Wild Waves (Deluxe),"Post Malone, Billie Eilish, Harry Styles",2023,40408171,45,85,79,10,85,Minor,A#,40.41,Post Malone
+870,Sunset Times,Beyoncé,2021,46774761,71,48,61,2,167,Major,G#,46.77,Beyoncé
+871,Fire Shadows,Bad Bunny,2023,24144288,26,40,17,20,96,Minor,C#,24.14,Bad Bunny
+872,Silver Dreams,Skrillex,2024,24557693,95,98,69,71,187,Major,B,24.56,Skrillex
+873,Golden Dreams (Remix),"Kanye West, Post Malone",2023,105368275,63,58,38,67,79,Minor,D#,105.37,Kanye West
+874,Electric Rivers (Live),"Calvin Harris, Avicii, Kygo",2020,23461555,39,40,26,86,191,Minor,C#,23.46,Calvin Harris
+875,Heart Skies,Calvin Harris,2021,133387260,21,98,31,32,150,Major,G,133.39,Calvin Harris
+876,Midnight Nights,Zach Bryan,2023,23240069,22,71,59,87,161,Minor,A#,23.24,Zach Bryan
+877,Heart Times,OneRepublic,2024,16347477,66,98,15,66,62,Major,D#,16.35,OneRepublic
+878,Heart Dreams,"Rihanna, Metro Boomin",2020,147961327,21,44,50,5,168,Major,A,147.96,Rihanna
+879,Golden Skies (Acoustic),Ed Sheeran,2022,184167530,53,77,29,64,130,Minor,G,184.17,Ed Sheeran
+880,Velvet Lights,Adele,2023,123345906,84,58,22,46,155,Minor,A,123.35,Adele
+881,Ocean Streets,Kanye West,2023,76022120,76,18,23,58,69,Major,F,76.02,Kanye West
+882,Midnight Ways (Live),Marshmello,2022,38297865,76,24,47,38,195,Major,C,38.3,Marshmello
+883,Night Nights,Lil Baby,2021,68236091,21,98,67,48,169,Major,E,68.24,Lil Baby
+884,Wild Days (Live),"Calvin Harris, Morgan Wallen, Olivia Rodrigo",2022,64869311,53,81,76,50,73,Major,F#,64.87,Calvin Harris
+885,Golden Times,Drake,2021,194405135,21,39,50,87,175,Minor,F#,194.41,Drake
+886,Neon Rivers,The Chainsmokers,2022,39117779,43,41,71,51,194,Major,E,39.12,The Chainsmokers
+887,Night Nights,Morgan Wallen,2023,35351355,57,93,30,69,168,Major,D,35.35,Morgan Wallen
+888,Silver Skies,"Travis Scott, Maroon 5",2021,172419307,32,38,44,86,165,Major,A,172.42,Travis Scott
+889,Velvet Story (Live),Ed Sheeran,2022,17475722,72,38,68,32,110,Major,D#,17.48,Ed Sheeran
+890,Fire Roads,"SZA, Marshmello",2022,10903737,90,28,51,89,75,Minor,D,10.9,SZA
+891,Fire Hills,SZA,2024,42644630,77,97,60,42,170,Minor,B,42.64,SZA
+892,Golden Days,Daft Punk,2021,72016404,66,17,62,21,60,Minor,F#,72.02,Daft Punk
+893,Silver Nights,"Lil Baby, Dua Lipa",2020,96596827,46,15,32,21,149,Major,D#,96.6,Lil Baby
+894,Golden Lights,Bad Bunny,2024,142316017,46,39,89,31,163,Minor,A,142.32,Bad Bunny
+895,Fire Roads,Beyoncé,2018,59598167,70,93,50,76,74,Minor,G,59.6,Beyoncé
+896,Neon Clouds,BTS,2022,42940944,77,94,53,12,83,Major,A,42.94,BTS
+897,Summer Feelings,Imagine Dragons,2020,119472056,35,44,67,3,66,Minor,A,119.47,Imagine Dragons
+898,Wild Moments,"Luke Combs, Travis Scott",2020,14579086,32,96,84,13,113,Major,B,14.58,Luke Combs
+899,Electric Hills (Live),Drake,2023,267278507,89,90,24,23,125,Minor,A#,267.28,Drake
+900,Neon Memories,Zach Bryan,2023,72937098,41,74,53,69,84,Major,F,72.94,Zach Bryan
+901,Crystal Lights,Travis Scott,2023,81088748,85,65,44,61,163,Major,D,81.09,Travis Scott
+902,Golden Vibes (Live),"Bruno Mars, J. Cole, Miley Cyrus",2020,64356527,90,39,62,75,136,Major,G,64.36,Bruno Mars
+903,Fire Nights,J. Cole,2021,54632741,20,58,43,6,94,Minor,F#,54.63,J. Cole
+904,Neon Eyes,Doja Cat,2018,10708731,58,26,69,11,105,Major,D,10.71,Doja Cat
+905,Sunset Story (feat. DJ),Taylor Swift,2022,44547185,87,16,55,1,160,Major,E,44.55,Taylor Swift
+906,Dance Waves,Marshmello,2023,49734085,75,32,48,25,126,Major,E,49.73,Marshmello
+907,Forever Feelings (feat. DJ),Shakira,2022,196861651,43,20,89,35,124,Minor,A,196.86,Shakira
+908,Crystal Skies,"Adele, Dua Lipa",2024,97646198,54,24,44,63,116,Minor,G,97.65,Adele
+909,Wild Days,Shakira,2021,125812126,55,37,69,25,95,Major,F#,125.81,Shakira
+910,Love Dreams,Ed Sheeran,2022,48787072,24,43,84,61,142,Major,A,48.79,Ed Sheeran
+911,Forever Hills (Live),Future,2023,68949100,73,68,42,59,175,Minor,A#,68.95,Future
+912,Dreams Shadows,Imagine Dragons,2024,97868556,93,16,24,66,181,Major,B,97.87,Imagine Dragons
+913,Velvet Clouds,21 Savage,2024,35272184,76,42,95,2,66,Minor,F#,35.27,21 Savage
+914,Fire Waves,"Daft Punk, Justin Bieber, Chris Stapleton",2024,71505496,25,75,59,26,115,Minor,G#,71.51,Daft Punk
+915,Fire Rivers,Bruno Mars,2024,255005580,27,97,43,71,95,Minor,C#,255.01,Bruno Mars
+916,Electric Story,Imagine Dragons,2020,16319828,82,86,25,19,80,Major,A#,16.32,Imagine Dragons
+917,Dreams Streets (Remix),"Zach Bryan, Marshmello",2022,28286382,22,51,24,45,120,Minor,F,28.29,Zach Bryan
+918,Ocean Lights (Live),"The Weeknd, Diplo, Doja Cat, Harry Styles",2020,91876389,29,83,69,14,122,Major,C,91.88,The Weeknd
+919,Midnight Ways,Taylor Swift,2023,87145681,20,72,35,5,190,Minor,C#,87.15,Taylor Swift
+920,Night Streets (feat. DJ),"Skrillex, Maroon 5, J. Cole, Bruno Mars",2018,14020911,90,98,32,37,195,Minor,D,14.02,Skrillex
+921,Electric Moments,"Chris Stapleton, Lil Baby, The Weeknd",2023,41057947,80,65,61,16,158,Major,C#,41.06,Chris Stapleton
+922,Love Times,Martin Garrix,2022,132092533,52,81,52,87,157,Major,A#,132.09,Martin Garrix
+923,Forever Moments,Justin Bieber,2023,71555966,71,46,17,78,128,Minor,A,71.56,Justin Bieber
+924,Midnight Lights,"Ariana Grande, Bruno Mars, Kendrick Lamar",2023,12343424,22,66,41,89,172,Minor,F,12.34,Ariana Grande
+925,Silver Streets (feat. DJ),Post Malone,2022,54333568,94,31,19,47,195,Minor,F#,54.33,Post Malone
+926,Stars Memories (feat. DJ),"David Guetta, Future, Justin Bieber",2023,86014842,42,59,34,48,176,Minor,A,86.01,David Guetta
+927,Velvet Times,Luke Combs,2023,66288894,26,47,76,77,125,Major,G#,66.29,Luke Combs
+928,Rain Dreams,Doja Cat,2024,7009516,59,44,93,4,97,Major,A,7.01,Doja Cat
+929,Rain Rivers (Live),Bruno Mars,2021,76597312,27,38,76,29,62,Major,F,76.6,Bruno Mars
+930,Heart Dreams (Deluxe),"Avicii, OneRepublic, Diplo",2024,205143319,30,61,70,31,196,Major,D,205.14,Avicii
+931,Heart Rivers,Diplo,2021,209168359,60,24,38,84,90,Major,B,209.17,Diplo
+932,Midnight Feelings,Diplo,2022,60026157,62,89,89,76,105,Major,C,60.03,Diplo
+933,Rain Days,Doja Cat,2020,87660660,36,55,38,8,66,Minor,G,87.66,Doja Cat
+934,Ocean Vibes (Remix),Adele,2024,32613109,44,19,42,77,128,Minor,F,32.61,Adele
+935,Golden Skies (Remix),Tiësto,2021,62399831,26,16,46,75,185,Major,G,62.4,Tiësto
+936,Velvet Ways (feat. DJ),"Adele, BTS",2023,18976211,89,66,80,87,70,Minor,D#,18.98,Adele
+937,Love Moments,The Chainsmokers,2020,63274598,44,74,87,38,93,Major,D#,63.27,The Chainsmokers
+938,Neon Memories,"Tiësto, Zach Bryan, OneRepublic",2024,17365040,31,33,35,49,132,Major,D#,17.37,Tiësto
+939,Velvet Lights,Miley Cyrus,2021,42578540,80,75,10,61,64,Major,F,42.58,Miley Cyrus
+940,Night Skies,Rihanna,2023,20220829,69,31,62,52,129,Minor,F#,20.22,Rihanna
+941,Love Shadows,"21 Savage, Coldplay",2018,27797628,26,45,60,5,162,Minor,C,27.8,21 Savage
+942,Night Moments (Remix),"OneRepublic, Lady Gaga",2023,12757329,23,61,28,17,75,Major,B,12.76,OneRepublic
+943,Electric Shadows,Billie Eilish,2023,26791640,61,49,42,80,149,Minor,G,26.79,Billie Eilish
+944,Velvet Dreams,Adele,2021,44477290,56,57,46,50,149,Major,G#,44.48,Adele
+945,Stars Feelings,"Skrillex, Lady Gaga",2022,52945369,77,34,91,53,174,Minor,C,52.95,Skrillex
+946,Dreams Shadows,Doja Cat,2018,5789016,26,82,54,56,84,Minor,F,5.79,Doja Cat
+947,Forever Vibes,Ariana Grande,2022,60766690,35,25,83,82,73,Minor,F,60.77,Ariana Grande
+948,Midnight Roads,"OneRepublic, Bruno Mars, Morgan Wallen",2021,26775652,79,38,16,31,200,Minor,C,26.78,OneRepublic
+949,Dance Times (Remix),Morgan Wallen,2022,72560549,57,20,43,23,94,Minor,D#,72.56,Morgan Wallen
+950,Electric Clouds,"Beyoncé, Maroon 5",2022,28512076,50,17,33,73,96,Major,C,28.51,Beyoncé
+951,Rain Times (feat. DJ),Ed Sheeran,2022,102894417,54,31,53,49,142,Minor,C#,102.89,Ed Sheeran
+952,Ocean Dreams,OneRepublic,2022,7011885,39,78,26,57,99,Minor,D,7.01,OneRepublic
+953,Crystal Memories (Live),"Olivia Rodrigo, OneRepublic, Luke Combs",2024,30783113,37,51,90,10,140,Minor,D,30.78,Olivia Rodrigo
