@@ -6,7 +6,7 @@
 [![Dashboard](https://img.shields.io/badge/Dashboard-Looker%20Studio-green)](https://lookerstudio.google.com/)
 [![Level](https://img.shields.io/badge/Level-Intermediate-yellow)]()
 
-## 📊 Project Overview
+## Project Overview
 
 Dự án này phân tích dữ liệu streaming âm nhạc để tìm hiểu xu hướng nghe nhạc, hiệu suất nghệ sĩ, và mối tương quan giữa các audio features với popularity.
 
@@ -23,7 +23,7 @@ Dự án này phân tích dữ liệu streaming âm nhạc để tìm hiểu xu 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 MusicStreamingAnalytics/
@@ -47,7 +47,7 @@ MusicStreamingAnalytics/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Setup PostgreSQL Database
 
@@ -95,7 +95,7 @@ python3 export_for_dashboard.py
 
 ---
 
-## 📈 SQL Skills Demonstrated
+## SQL Skills Demonstrated
 
 ### Basic SQL
 - `SELECT`, `WHERE`, `GROUP BY`, `ORDER BY`
@@ -125,7 +125,7 @@ python3 export_for_dashboard.py
 
 ---
 
-## 📊 Dashboard Components
+## Dashboard Components
 
 ### KPIs
 | Metric | Description |
@@ -151,7 +151,7 @@ python3 export_for_dashboard.py
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 1. **Top Artists**: Taylor Swift, The Weeknd, và Bad Bunny dẫn đầu về tổng streams
 2. **Audio Trends**: Tracks có danceability cao (>70%) thường có nhiều streams hơn
@@ -161,11 +161,11 @@ python3 export_for_dashboard.py
 
 ---
 
-## 🔗 Links
+## Links
 
 - **Dashboard**: [📊 View Live Dashboard](https://lookerstudio.google.com/reporting/0f5736d2-e7c6-4b67-9e6c-975d2883db0d)
 - **Dataset Source**: Kaggle Spotify Dataset
-- **Author**: [Your Name]
+- **Author**: [Minh Ha To]
 
 ---
 
